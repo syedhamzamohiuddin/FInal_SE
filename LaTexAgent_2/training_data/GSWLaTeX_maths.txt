@@ -1,0 +1,503 @@
+
+$u’ + v’’$
+$u v + w = x$
+$uv+w=x$
+$x^{17} - 1$
+$s^n^j$
+$s^{n j}$
+$s^{n^j}$
+$\mathbf{u}$
+$\mathbf{v}$
+$\mathbf{w}$
+${\mathbf R}^3$
+$V$
+$\mathbf{0}$
+$\mathbf{u}$
+$\mathbf{v}$
+$\mathbf{w}$
+$\mathbf{u}+\mathbf{v}$
+$\mathbf{u}+\mathbf{w}$
+$\mathbf{v}+\mathbf{w}$
+$\mathbf{u}+\mathbf{v}+\mathbf{w}$
+$\mathrm{cosec} A$
+$cosec A$
+$f$
+$x$
+$a x^2 + bx + c$
+$a \neq 0$
+$x^3 - 3px - 2q$
+$p$
+$X$
+$f \colon B \to \textbf{R}$
+$X$
+$f$
+$\|f\|$
+$h \leq \frac{1}{2} |\zeta - z|$
+$\chi(\lambda)$
+$3 \times 3$
+$x \geq 0$
+$x < 0$
+$\psi(\mathbf{r},t)$
+$t$
+$V$
+$\textbf{R}^3$
+$t$
+$V$
+$t$
+\[ ds^2 = dx_1^2 + dx_2^2 + dx_3^2 - c^2 dt^2 \]
+\[ ds^2 = dx^2_1 + dx^2_2 + dx^2_3 - c^2 dt^2 \]
+\[ R_i{}^j{}_{kl} = g^{jm} R_{imkl}  = - g^{jm} R_{mikl} = - R^j{}_{ikl} \]
+\[ V = (\mathbf{u} \times \mathbf{v}) \cdot \mathbf{w}.\]
+\[ \cos(\theta + \phi) = \cos \theta \cos \phi  - \sin \theta \sin \phi \]
+\[ M^\bot = \{ f \in V’ : f(m) = 0 \mbox{ for all } m \in M \}.\]
+\[ M^\bot = \{ f \in V’ : f(m) = 0 \mbox{for all} m \in M \}.\]
+\[ f(x) = 2x + \frac{x - 7}{x^2 + 4}\]
+\[ \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} \]
+\[ \sqrt[3]{q + \sqrt{ q^2 - p^3 }}  + \sqrt[3]{q - \sqrt{ q^2 - p^3 }} \]
+\[ f(x_1, x_2,\ldots, x_n) = x_1^2 + x_2^2 + \cdots + x_n^2 \]
+\[ \frac{1 - x^{n+1}}{1 - x} = 1 + x + x^2 + \cdots + x^n \]
+\[ \|f\| = \inf \{ K \in [0,+\infty) :  |f(x)| \leq K \|x\| \mbox{ for all } x \in X \}.\]
+\[ f(x,y,z) = 3y^2 z \left( 3 + \frac{7x+5}{1 + y^2} \right).\]
+\[ \left| 4 x^3 + \left( x + \frac{42}{1+x^4} \right) \right|.\]
+\[ |\zeta - z - h| \geq \frac{1}{2} |\zeta - z|\]
+\[ \left( \begin{array}{ccc} a & b & c \\ d & e & f \\ g & h & i \end{array} \right)\]
+\[ \chi(\lambda) = \left| \begin{array}{ccc} \lambda - a & -b & -c \\ -d & \lambda - e & -f \\ -g & -h & \lambda - i \end{array} \right|.\]
+\[ \begin{array}{lcr} \mbox{First number} & x & 8 \\ \mbox{Second number} & y & 15 \\ \mbox{Sum} & x + y & 23 \\ \mbox{Difference} & x - y & -7 \\ \mbox{Product} & xy & 120 \end{array}\]
+\[ |x| = \left\{ \begin{array}{ll}  x & \mbox{if $x \geq 0$};\\  -x & \mbox{if $x < 0$}.\end{array} \right. \]
+\[\frac{\partial u}{\partial t}  = \frac{\partial^2 u}{\partial x^2}  + \frac{\partial^2 u}{\partial y^2} + \frac{\partial^2 u}{\partial z^2} \]
+\[ \lim_{x \to 0} \frac{3x^2 +7x^3}{x^2 +5x^4} = 3.\]
+\[ \sum_{k=1}^n k^2 = \frac{1}{2} n (n+1).\]
+\[ \int_a^b f(x)\,dx.\]
+\[ \int_0^{+\infty} x^n e^{-x} \,dx = n!.\]
+\[ \int \cos \theta \,d\theta = \sin \theta.\]
+\[ \int_{x^2 + y^2 \leq R^2} f(x,y)\,dx\,dy  = \int_{\theta=0}^{2\pi} \int_{r=0}^R  f(r\cos\theta,r\sin\theta) r\,dr\,d\theta.\]
+\[ \int_0^R \frac{2x\,dx}{1+x^2} = \log(1+R^2).\]
+\[ \int_0^1 \! \int_0^1 x^2 y^2\,dx\,dy.\]
+\[ \int_0^1 \int_0^1 x^2 y^2\,dx\,dy.\]
+\[ \int \!\!\! \int_D f(x,y)\,dx\,dy.\]
+\[ \int \int_D f(x,y)\,dx\,dy.\]
+\[ i\hbar\frac{\partial \psi}{\partial t}  = \frac{-\hbar^2}{2m} \left(  \frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \frac{\partial^2}{\partial z^2}  \right) \psi + V \psi.\]
+\[ \int \!\!\! \int \!\!\! \int_{\textbf{R}^3}  \left| \psi(\mathbf{r},0) \right|^2\,dx\,dy\,dz = 1.\]
+\[ \frac{d}{dt} \int \!\!\! \int \!\!\! \int_{\textbf{R}^3}  \left| \psi(\mathbf{r},t) \right|^2\,dx\,dy\,dz = 0,\]
+\[ \int \!\!\! \int \!\!\! \int_{\textbf{R}^3}  \left| \psi(\mathbf{r},t) \right|^2\,dx\,dy\,dz = 1\]
+\[ \int \!\!\! \int \!\!\! \int_V  \left| \psi(\mathbf{r},t) \right|^2\,dx\,dy\,dz\]
+\begin{eqnarray} and \end{eqnarray}
+\begin{array}{ccc} a & b & c \\ d & e & f \\ g & h & i \end{array}
+\begin{array}{ccc} \lambda - a & -b & -c \\ -d & \lambda - e & -f \\ -g & -h & \lambda - i \end{array}
+\begin{array} and end it with \end{array}
+\begin{array}. Now each of the c’s in {ccc} represents a column of the matrix and indicates that the entries of the column should be centred. If the c were replaced by l then the corresponding column would be typeset with all the entries ﬂush left, and r would produce a column with all entries ﬂush right. Thus  \[ \begin{array}{lcr} \mbox{First number} & x & 8 \\ \mbox{Second number} & y & 15 \\ \mbox{Sum} & x + y & 23 \\ \mbox{Difference} & x - y & -7 \\ \mbox{Product} & xy & 120 \end{array}
+\begin{array}. The large curly bracket is produced using \left\{. However this requires a corresponding \right delimiter to match it. We therefore use the null delimiter \right. discussed earlier. This delimiter is invisible. We can therefore obtain the above formula by typing  \[ |x| = \left\{ \begin{array}{ll}  x & \mbox{if $x \geq 0$};\\  -x & \mbox{if $x < 0$}.\end{array}
+\# 
+\$ 
+\% 
+\& 
+\_ 
+\{ 
+\} 
+\backslash 
+\pi 
+\alpha 
+\beta 
+\gamma 
+\delta 
+\epsilon 
+\zeta 
+\eta 
+\theta 
+\iota 
+\kappa 
+\lambda 
+\mu 
+\nu 
+\xi 
+\pi 
+\rho 
+\sigma 
+\tau 
+\upsilon 
+\phi 
+\chi 
+\psi 
+\omega 
+\epsilon 
+\theta 
+\pi 
+\rho 
+\sigma 
+\phi 
+\varepsilon 
+\vartheta 
+\varpi 
+\varrho 
+\varsigma 
+\varphi 
+\Gamma 
+\Delta 
+\Theta 
+\Lambda 
+\Xi 
+\Pi 
+\Sigma 
+\Upsilon 
+\Phi 
+\Psi 
+\Omega 
+\aleph 
+\hbar 
+\imath 
+\jmath 
+\ell 
+\wp 
+\Re 
+\Im 
+\infty 
+\partial 
+\prime 
+\emptyset 
+\nabla 
+\surd 
+\top 
+\bot 
+\triangle 
+\backslash 
+\angle 
+\forall 
+\exists 
+\neg 
+\flat 
+\natural 
+\sharp 
+\clubsuit 
+\diamondsuit 
+\heartsuit 
+\spadesuit 
+\sum 
+\prod 
+\coprod 
+\oint 
+\int 
+\bigcap 
+\bigodot 
+\bigotimes 
+\bigcup 
+\bigsqcup 
+\bigoplus 
+\bigvee 
+\biguplus 
+\bigwedge 
+\pm 
+\mp 
+\ 
+\setminus 
+\cdot 
+\times 
+\ast 
+\star 
+\diamond 
+\circ 
+\bullet 
+\div 
+\cap 
+\cup 
+\uplus 
+\sqcap 
+\sqcup 
+\bigcirc 
+\bigtriangleup 
+\bigtriangledown 
+\triangleleft 
+\triangleright 
+\wr 
+\vee 
+\wedge 
+\oplus 
+\ominus 
+\otimes 
+\oslash 
+\odot 
+\dagger 
+\ddagger 
+\amalg 
+\leq 
+\prec 
+\preceq 
+\ll 
+\subset 
+\subseteq 
+\sqsubseteq 
+\in 
+\vdash 
+\smile 
+\frown 
+\geq 
+\succ 
+\succeq 
+\gg 
+\supset 
+\supseteq 
+\sqsupseteq 
+\ni 
+\dashv 
+\mid 
+\parallel 
+\equiv 
+\sim 
+\simeq 
+\asymp 
+\approx 
+\cong 
+\bowtie 
+\propto 
+\models 
+\doteq 
+\perp 
+\not< 
+\not\leq 
+\not\prec 
+\not\preceq 
+\not\subset 
+\not\subseteq 
+\not\sqsubseteq 
+\not> 
+\not\geq 
+\not\succ 
+\not\succeq 
+\not\supset 
+\not\supseteq 
+\not\sqsupseteq 
+\not= 
+\not\equiv 
+\not\sim 
+\not\simeq 
+\not\approx 
+\not\cong 
+\not\asymp 
+\leftarrow 
+\longleftarrow 
+\Leftarrow 
+\Longleftarrow 
+\leftrightarrow 
+\longleftrightarrow 
+\Longleftrightarrow 
+\hookleftarrow 
+\leftharpoonup 
+\leftharpoondown 
+\nearrow 
+\searrow 
+\mapsto 
+\rightleftharpoons 
+\rightarrow 
+\longrightarrow 
+\Rightarrow 
+\Longrightarrow 
+\Leftrightarrow 
+\hookrightarrow 
+\rightharpoonup 
+\rightharpoondown 
+\nwarrow 
+\swarrow 
+\longmapsto 
+\uparrow 
+\Uparrow 
+\updownarrow 
+\downarrow 
+\Downarrow 
+\Updownarrow 
+\lbrack 
+\lbrace 
+\rbrack 
+\rbrace 
+\lfloor 
+\langle 
+\rfloor 
+\rangle 
+\lceil 
+\rceil 
+\ne 
+\neq 
+\le 
+\ge 
+\{ 
+\} 
+\to 
+\gets 
+\owns 
+\land 
+\lor 
+\lnot 
+\vert 
+\Vert 
+\iff 
+\colon 
+\leq
+\Longleftrightarrow
+\mathrm 
+\mathbf 
+\textrm
+\theta 
+\cos 
+\phi 
+\sin 
+\theta 
+\sin 
+\phi 
+\] 
+\csc 
+\exp 
+\ker 
+\arccos 
+\cos 
+\arcsin 
+\cosh 
+\deg 
+\gcd 
+\lg 
+\arctan 
+\cot 
+\det 
+\hom 
+\lim 
+\arg 
+\limsup 
+\min 
+\sinh 
+\Pr 
+\ln 
+\sup 
+\sec 
+\tan 
+\log 
+\sin 
+\tanh 
+\coth 
+\dim 
+\inf 
+\liminf 
+\max 
+\bot
+\ldots 
+\cdots
+\underline{a} 
+\overline{a} 
+\hat{a} 
+\check{a} 
+\tilde{a} 
+\acute{a} 
+\grave{a} 
+\dot{a} 
+\ddot{a} 
+\breve{a} 
+\bar{a} 
+\vec{a} 
+\’ 
+\", 
+\{ 
+\}. 
+\| 
+\colon 
+\to 
+\left( 
+\[ 
+\left( 
+\frac{7x+5}{1 
+\right).\] 
+\left 
+\right 
+\theta 
+\cos^2 
+\theta 
+\sin^2 
+\theta 
+\\ 
+\cos^2 
+\theta
+\begin{eqnarray*} 
+\left| 
+\frac{1}{\zeta 
+\frac{1}{\zeta 
+\right| 
+\left| 
+\frac{(\zeta 
+\zeta 
+\zeta 
+\zeta 
+\right| 
+\\ 
+\left| 
+\frac{h}{(\zeta 
+\zeta 
+\right| 
+\\ 
+\leq 
+\frac{2 
+\zeta
+\left 
+\right 
+\left) 
+\right) 
+\frac{2x\,dx}{1+x^2} 
+\log(1+R^2).\] 
+\! 
+\[ 
+\int_0^1 
+\! 
+\int_0^1 
+\,dx\,dy.\] 
+\[ 
+\int_0^1 
+\int_0^1 
+\,dx\,dy.\] 
+\! 
+\[ 
+\int 
+\!\!\! 
+\int_D 
+\,dx\,dy.\] 
+\[ 
+\int 
+\int_D
+\hbar\frac{\partial 
+\psi}{\partial 
+\frac{-\hbar^2}{2m} 
+\left
+\[ 
+\int 
+\!\!\! 
+\int 
+\!\!\! 
+\frac{d}{dt} 
+\int 
+\!\!\! 
+\int 
+\!\!\! 
+\int_{\textbf{R}^3} 
+\left| 
+\psi(\mathbf{r},t) 
+\right|^2\,dx\,dy\,dz 
+\] 
+\[ 
+\int 
+\!\!\! 
+\int 
+\!\!\! 
+\int_{\textbf{R}^3} 
+\left| 
+\psi(\mathbf{r},t) 
+\right|^2\,dx\,dy\,dz 
+\] 
+\textbf{R}^3$ 
+\[ 
+\int 
+\!\!\! 
+\int 
+\!\!\! 
+\int_V 
+\left| 
+\psi(\mathbf{r},t) 
+\right|^2\,dx\,dy\,dz
+\hspace, 
+\hspace{20 
+\hspace 
+\hspace 
+\hspace* 
+\vspace

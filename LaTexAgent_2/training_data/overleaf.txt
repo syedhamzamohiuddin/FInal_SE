@@ -1,0 +1,146 @@
+
+$E=mc^2$
+$ $
+$c$
+$$
+$$
+\begin{equation}E=m\end{equation}
+\begin{equation} \end{equation}
+\[ x^n + y^n = z^n \]
+\[ \]
+\[E=mc^2\]
+\[ \]
+\(x^2 + y^2 = z^2\)
+\( \)
+\( \)
+\alpha 
+\beta 
+\gamma 
+\rho 
+\sigma 
+\delta 
+\epsilon\times 
+\otimes 
+\oplus 
+\cup 
+\cap< 
+\subset 
+\supset 
+\subseteq 
+\supseteq\int 
+\oint 
+\sum 
+\[ \int\limits_0^1 x^2 + y^2 \ dx \]
+\[ a_1^2 + a_2^2 = a_3^2 \]
+\[ x^{2 \alpha} - 1 = y_{ij} + y_{ij}  \]
+\[ (a^n)^{r+s} = a^{nr+ns}  \]
+\[ \sum_{i=1}^{\infty} \frac{1}{n^s} = \prod_p \frac{1}{1 - p^{-s}} \]
+\[ F = G \left( \frac{m_1 m_2}{r^2} \right)\]
+\[  \left[  \frac{ N } { \left( \frac{L}{p} \right)  - (m+n) }  \right]\]
+\[ y  = 1 + & \left(  \frac{1}{x} + \frac{1}{x^2} + \frac{1}{x^3} + \ldots  \\  & \quad  + \frac{1}{x^{n-1}} + \frac{1}{x^n} \right)\]
+\[ y  = 1 + & \left(  \frac{1}{x} + \frac{1}{x^2} + \frac{1}{x^3} + \ldots \right. \\  & \quad \left. + \frac{1}{x^{n-1}} + \frac{1}{x^n} \right)\]
+\[ \Bigg \langle 3x+7 \bigg \rangle\]
+\((x+y)\)
+\([x+y]\)
+\(\{ x+y \}\)
+\(\langle x+y\rangle\)
+\(\displaystyle| x+y |\)
+\(\| x+y \|\)
+\(\displaystyle\big| \; \Big| \; \bigg| \; \Bigg|\)
+\(\displaystyle\big\| \; \Big\| \; \bigg\| \; \Bigg\|\)
+\(\displaystyle\big \lceil \Big \lceil \bigg \lceil \Bigg \lceil\)
+\(\displaystyle\big \rceil \Big \rceil \bigg \rceil \Bigg \rceil\)
+\(\displaystyle\big \lfloor \Big \lfloor \bigg \lfloor \Bigg \lfloor\)
+\(\displaystyle\big \rfloor \Big \rfloor \bigg \rfloor \Bigg \rfloor\)
+\{ 
+\}\langle 
+$\dfrac{1}{\phantom{#1}}$
+\[    \binom{n}{k} = \frac{n!}{k!(n-k)!}\]
+\[\frac{1}{2}\]
+\[ f(x)=\frac{P(x)}{Q(x)} \ \ \textrm{and} \ \ f(x)=\textstyle\frac{P(x)}{Q(x)} \]
+\[ \frac{1+\frac{a}{b}}{1+\frac{1}{1+\frac{1}{a}}} \]
+\[  a_0+\cfrac{1}{a_1+\cfrac{1}{a_2+\cfrac{1}{a_3+\cdots}}}\]
+\[    \binom{n}{k} = \frac{n!}{k!(n-k)!}\]
+\[  a_0 +  \contfrac{a_1}{  \contfrac{a_2}{  \contfrac{a_3}{  \genfrac{}{}{0pt}{0}{}{\ddots}  }}}\]
+\( \frac{1}{2} \)
+\(\frac{3x}{2}\)
+\( \displaystyle \frac{3x}{2} \)
+\(\binom{n}{k}\)
+\begin{equation} \label{eq1}\begin{split}A & = \frac{\pi r^2}{2} \\ & = \frac{1}{2} \pi r^2\end{split}\end{equation}
+\begin{equation} \label{eu_eqn}e^{\pi i} + 1 = 0\end{equation}
+begin{align*} 2x - 5y &=  8 \\ 3x + 9y &=  -12\end{align*}
+begin{align*}x&=y           &  w &=z              &  a&=b+c\\2x&=-y         &  3w&=\frac{1}{2}z   &  a&=b\\-4 + 5x&=2+y   &  w+2&=-1+w          &  ab&=cb\end{align*}
+\begin{gather*} 2x - 5y =  8 \\ 3x^2 + 9y =  3a + c\end{gather*}
+\begin{gather*} 2x - 5y =  8 \\ 3x^2 + 9y =  3a + c\end{gather*}
+\[    \sin(a + b) = \sin a \cos b + \cos a \sin b.\]
+\[    \lim_{h \to 0 } \frac{f(x+h)-f(x)}{h}.\]
+\[    \arctg \frac{\pi}{3} = \sqrt{3}.\]
+\( \lim_{h \to 0} (x-h) \)
+\[S = \{ z \in \mathbb{C}\, |\, |z| < 1 \} \quad \textrm{and} \quad S_2=\partial{S}\]
+begin{align*}f(x) &= x^2\! +3x\! +2 \\f(x) &= x^2+3x+2 \\f(x) &= x^2\, +3x\, +2 \\f(x) &= x^2\: +3x\: +2 \\f(x) &= x^2\; +3x\; +2 \\f(x) &= x^2\ +3x\ +2 \\f(x) &= x^2\quad +3x\quad +2 \\f(x) &= x^2\qquad +3x\qquad +2\end{align*}
+begin{align*}3ax+4by=5cz\\3ax<4by+5cz\end{align*}
+begin{align*}34x^2a \mathbin{\#} 13bc \\34x^2a \mathrel{\#} 13bc\end{align*}
+\quad\,\quad\:\quad\;\quad\!\quad\ 
+$\int_{a}^{b} x^2 \,dx$
+$\int_{a}^{b} x^2 dx$
+$\sum_{n=1}^{\infty} 2^{-n} = 1$
+$\prod_{i=a}^{b} f(i)$
+$\lim_{x\to\infty} f(x)$
+$\sum_{n=1}^{\infty} 2^{-n} = 1$
+$\prod_{i=a}^{b} f(i)$
+$\lim_{x\to\infty} f(x)$
+\[ \int_{a}^{b} x^2 \,dx \]
+\[    \int_{a}^{b} x^2 \,dx\]
+\[    \sum_{n=1}^{\infty} 2^{-n} = 1\]
+\[    \prod_{i=a}^{b} f(i)\]
+\[    \lim_{x\to\infty} f(x)\]
+\[    \oint_V f(s) \,ds\]
+\[ \sum_{n=1}^{\infty} 2^{-n} = 1 \]
+\[ \prod_{i=a}^{b} f(i) \]
+\[ \lim_{x\to\infty} f(x) \]
+\begin{gather*}    \iint_V \mu(u,v) \,du\,dv\\    \iiint_V \mu(u,v,w) \,du\,dv\,dw\\    \iiiint_V \mu(t,u,v,w) \,dt\,du\,dv\,dw\\    \idotsint_V \mu(u_1,\dots,u_k) \,du_1 \dots du_k\\    \oint_V f(s) \,ds\end{gather*}
+\begin{gather*}    \iint_V \mu(u,v) \,du\,dv\\    \iiint_V \mu(u,v,w) \,du\,dv\,dw\\    \iiiint_V \mu(t,u,v,w) \,dt\,du\,dv\,dw\\    \idotsint_V \mu(u_1,\dots,u_k) \,du_1 \dots du_k\end{gather*}
+\begin{gather*}    \iint_V \mu(u,v) \,du\,dv\\    \iiint_V \mu(u,v,w) \,du\,dv\,dw\\    \iiiint_V \mu(t,u,v,w) \,dt\,du\,dv\,dw\\    \idotsint_V \mu(u_1,\dots,u_k) \,du_1 \dots du_k\\    \oint_V f(s) \,ds\end{gather*}
+\begin{gather*}    \iint_V \mu(u,v) \,du\,dv\\    \iiint_V \mu(u,v,w) \,du\,dv\,dw\\    \iiiint_V \mu(t,u,v,w) \,dt\,du\,dv\,dw\\    \idotsint_V \mu(u_1,\dots,u_k) \,du_1 \dots du_k\end{gather*}
+\int_{a}^{b} 
+\,dx$ 
+\[ 
+\int_{a}^{b} 
+\,dx 
+$x$
+\[ f(x) = \sum_{i=0}^{n} \frac{a_i}{1+x} \]
+\( f(x) = \sum_{i=0}^{n} \frac{a_i}{1+x} \)
+\(f(x) = \displaystyle \frac{1}{1+x}\)
+\alpha 
+\nu 
+\beta 
+\xi\Xi\gamma 
+\Gammao 
+\delta 
+\Delta\pi 
+\Pi\epsilon 
+\varepsilon 
+\rho\varrho 
+\zeta 
+\sigma 
+\Sigma\eta 
+\tau 
+\theta 
+\vartheta 
+\Theta\upsilon 
+\Upsilon\iota 
+\phi 
+\varphi 
+\Phi\kappa 
+\chi 
+\lambda 
+\Lambda\psi 
+\Psi\mu 
+\omega 
+\Omega 
+$\mathbb{R}$
+$\mathit{3x^2}$
+\[ \mathcal{B} = \{B_{\alpha} \in \mathcal{T}\, |\,  U = \bigcup B_{\alpha} \forall U \in \mathcal{T} \}  \]
+\( \mathcal{T} \)
+begin{align*}RQSZ \\\mathcal{RQSZ} \\\mathfrak{RQSZ} \\\mathbb{RQSZ}\end{align*}
+begin{align*}3x^2 \in R \subset Q \\\mathnormal{3x^2 \in R \subset Q} \\\mathrm{3x^2 \in R \subset Q} \\\mathit{3x^2 \in R \subset Q} \\\mathbf{3x^2 \in R \subset Q} \\\mathsf{3x^2 \in R \subset Q} \\\mathtt{3x^2 \in R \subset Q} \end{align*}

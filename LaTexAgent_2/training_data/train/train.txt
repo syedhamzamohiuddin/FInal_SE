@@ -1,0 +1,2934 @@
+$f(x)$
+$f'(x)$
+$\mathrm{ xyz } $
+$\mathsf{ xyz } $
+$\mathtt{ xyz } $
+$\mathit{ xyz } $
+$\mathbf{ xyz } $
+$\mathcal{ XYZ } $
+$\boldsymbol{ A + B = C } $
+$\mathbb{ A + B = C } $
+$\mathfrak{ A + B = C } $
+$\pmb{ + - = } $
+$m \pmod{ n } $
+$m \mod{ n } $
+$m \pod{ n } $
+$m \bmod n$
+$\min_x f(x)$
+$\lim_{ x\to\infty } f(x)$
+$ \frac{ 1 } { 1 + x } $
+$( X )$
+$\Bigl( X \Bigr)$
+$\bigl( X \bigr)$
+$\Biggl( X \Biggr)$
+$\bigl( X \biggr)$
+$\bvec{ u } = (x, y)$
+$\lvec{ OP } $
+$A\negmedspace B$
+$AB$
+$A\,B$
+$A\:B$
+$A\;B$
+$A\quad B$
+$A\qquad B$
+$A\!B$
+$A\negthickspace B$
+\begin{ equation } \label{ eqn:linear } f(x) = mx + c \end{ equation } 
+\begin{ equation } + f(x) = mx + c + \end{ equation } 
+\begin{ equation } % f(x) = mx + c % \end{ equation } 
+\begin{ equation } \begin{ pmatrix } + a & b\\ c & d + \end{ pmatrix } \end{ equation } 
+\[ ... \]
+\[ x' = x + \Delta x \]
+\[ y = x\sb{ 1 } \sp{ 2 } + x\sb{ 2 } \sp{ 2 } \]
+\[ Y_{ 1 } ^ { 2 } \]
+\[ Y{ } _{ 1 } ^ { 2 } \]
+\[ y = x_1 ^ 2 + x_2 ^ 2\]
+\[ y = x_{ 1 } ^ { 2 } + x_{ 2 } ^ { 2 } \]
+\[ f(x_1, x_2) = \e ^ { x_1 ^ 2 } + \e ^ { x_2 ^ 2 } \]
+\[ f(x) = \mathrm{ e } ^ { x_1 } \]
+\[ f(x) = e ^ { x_1 } \]
+\[ z = r(\cos\theta + i\sin\theta) \]
+\[ \lim_{ x\to\infty } f(x) \]
+\[ \min_x f(x) \]
+\[ n = \card(\mathcal{ S } ) \]
+\[ x_m = \mode_{ x \in \mathcal{ S }  } (x) \]
+\[ \frac{ 1 } { 1 + x } \]
+\[ \frac{ 1 + \frac{ 1 } { x }  } { 1 + x + x ^ 2 } \]
+\[ \cfrac{ 1 } { \sqrt{ 2 } + \cfrac{ 1 } { \sqrt{ 2 } + \cfrac{ 1 } { \sqrt{ 2 } + \dotsb }  }  } \]
+\[ f'(x) = \frac{ df } { dx } \]
+\[ + f'(x) = \frac{ \mathrm{ d } f } { \mathrm{ d } x } + \]
+\[ f'(x) = \deriv{ f } { x } \]
+\[ f_x = \pderiv{ f } { x } \]
+\[ + f_{ xy } = \frac{ \partial ^ 2 f } { \partial x \partial y } + \]
+\[ + f'(x) = \lim_{ \Delta x \to 0 } \frac{ f(x + \Delta x) - f(x) } { \Delta x } + \]
+\[ \sqrt{ a + b } \]
+\[ \sqrt[ 3]{ a + b } \]
+\[ \sqrt[ n]{ a + b } \]
+\[ + A \xleftarrow{ n + m - p } B \xrightarrow[ X]{ n + p } C + \]
+\[ + f(x) = \sum_{ i = 1 } ^ { n } x_i + \prod_{ i = 1 } ^ { n } x_i + \]
+\[ + \sum_{ \substack { + i \in \mathcal{ I } \\ i \neq 0 + } + } x_i + \]
+\[ a_ix_i = b_i forall i = 1,\dotsc, n \]
+\[ y = a_1 + a_2 + \dotsb + a_n \]
+\[ + (\frac{ 1 } { 1 + x } ) + \]
+\[ + \]
+\[ \left\lvert \frac{ 1 } { 1 + x } \right\rvert \]
+\[ \left\lvert \frac{ 1 } { 1 + x } \right\rvert_{ x = 0 } \]
+\[ \left[ \frac{ 1 } { 1 + x } \right\rangle \]
+\[ + \left. + \frac{ \partial f } { \partial x } + \right\rvert_{ x = 0 } + \]
+\[ \pderiv{ ^ 2\mathcal{ L }  } { { z_i ^ \rho } ^ 2 } = - \pderiv{ \rho_i } { z_i ^ \rho } \left( + \pderiv{ v_i } { \rho_i } \frac{ \e ^ { v_i }  } { 1 - \e ^ { v_i }  } + v_i \frac{ \e ^ { v_i } \pderiv{ v_i } { \rho_i } (1 - \e ^ { v_i } ) +  + \e ^ { 2v_i } \pderiv{ v_i } { \rho_i }  } { (1 - \e ^ { v_i } ) ^ 2 } + \right) \]
+\[ and \]
+\[ \]
+\[ \pderiv{ } { } \]
+\[ \pderiv{ ^ 2 \mathcal{ L }  } { } \]
+\[ \pderiv{ ^ 2 \mathcal{ L }  } { { z_i ^ \rho } ^ 2 } \]
+\[ \pderiv{ ^ 2 \mathcalL } { { z_i ^ \rho } ^ 2 } = - \pderiv{ \rho_i } { z_i ^ \rho } \]
+\[ \pderiv{ ^ 2 \mathcal{ L }  } { { z_i ^ \rho } ^ 2 } = - \pderiv{ \rho_i } { z_i ^ \rho } + \left( \right) + \]
+\[ \pderiv{ ^ 2 \mathcal{ L }  } { { z_i ^ \rho } ^ 2 } = - \pderiv{ \rho_i } { z_i ^ \rho } + \left( + \pderiv{ v_i } { \rho_i } + \right) + \]
+\[ \pderiv{ ^ 2 \mathcal{ L }  } { { z_i ^ \rho } ^ 2 } = - \pderiv{ \rho_i } { z_i ^ \rho } + \left( + \pderiv{ v_i } { \rho_i } \frac{ \e ^ { v_i }  } { 1 - \e ^ { v_i }  } + \right) + \]
+\[ \pderiv{ ^ 2 \mathcal{ L }  } { { z_i ^ \rho } ^ 2 } = - \pderiv{ \rho_i } { z_i ^ \rho } + \left( + \pderiv{ v_i } { \rho_i } \frac{ \e ^ { v_i }  } { 1 - \e ^ { v_i }  } + v_i \frac{ } { } + \right) + \]
+\[ \pderiv{ ^ 2 \mathcal{ L }  } { { z_i ^ \rho } ^ 2 } = - \pderiv{ \rho_i } { z_i ^ \rho } + \left( + \pderiv{ v_i } { \rho_i } \frac{ \e ^ { v_i }  } { 1 - \e ^ { v_i }  } + v_i \frac{ } { (1 - \e ^ { v_i } ) ^ 2 } + \right) + \]
+\[ \pderiv{ ^ 2\mathcal{ L }  } { { z_i ^ \rho } ^ 2 } = - \pderiv{ \rho_i } { z_i ^ \rho } \left( + \pderiv{ v_i } { \rho_i } \frac{ \e ^ { v_i }  } { 1 - \e ^ { v_i }  } + v_i \frac{ \e ^ { v_i } \pderiv{ v_i } { \rho_i } (1 - \e ^ { v_i } ) +  + \e ^ { 2v_i } \pderiv{ v_i } { \rho_i }  } { (1 - \e ^ { v_i } ) ^ 2 } + \right) \]
+\[ \begin{ array } { rrr } 0 & 1 & 19\\ - 6 & 10 & 200 \end{ array } \]
+\[ \left( + \begin{ array } { rrr } + 0 & 1 & 19\\ - 6 & 10 & 200 \end{ array } + \right) \]
+\[ \left( + \begin{ array } { rr|r } + 0 & 1 & 19\\ - 6 & 10 & 200 + \end{ array } + \right) \]
+\[ f(x) = + \left\{ + \begin{ array } { rl } + - 1 & x < 0\\ 0 & x = 0\\ + 1 & x > 0 \end{ array } + \right. + \]
+\[ f(x) = + \begin{ cases } - 1 & x < 0\\ 0 & x = 0\\ + 1 & x > 0 \end{ cases } + \]
+\[ \vec{ x } \]
+\[ + \]
+\[ + \vec{ x } \cdot\vec{ \xi } = z + \]
+\[ \vec{ OP } \]
+\[ \overrightarrow{ OP } \]
+\[ + \lVert \bvec{ u } \rVert = \sqrt{ x ^ 2 + y ^ 2 } + \]
+begin{ align* } y & = 2x + 2\\ + & = 2(x + 1) + \end{ align* } 
+begin{ align } y & = 2x + 2\notag\\ + & = 2(x + 1) \end{ align } 
+begin{ align* } y & = 2x + 2 & z & = 6x + 3\\ + & = 2(x + 1) & + & = 3(2x + 1) + \end{ align* } 
+begin{ align } f(x) & = 2x + 1 \label{ eq:fx } \\ f'(x) & = 2 \label{ eq:dfx } \end{ align } 
+begin{ align* } y & = 2x + 2\\ \intertext{ Using the distributive law: } & = 2(x + 1) \end{ align* } 
+\begin{ array } { rrr } 0 & 1 & 19\\ - 6 & 10 & 200 \end{ array } 
+\begin{ array } { rrr } + 0 & 1 & 19\\ - 6 & 10 & 200 \end{ array } 
+\begin{ array } { rr|r } + 0 & 1 & 19\\ - 6 & 10 & 200 + \end{ array } 
+\begin{ array } { rl } + - 1 & x < 0\\ 0 & x = 0\\ + 1 & x > 0 \end{ array } 
+$x$
+$3$
+$ - a + 2b = 3c - 4d(5e + 6f)$
+$(x + y)/(x - y)$
+$\{ a,b,c,d,e\ } $
+$(x + y)/(x - z)$
+$2\ a$
+$z ^ 2$
+$b_n$
+$x ^ 2y ^ 2$
+$x ^ 2y ^ 2$
+$x_12$
+$x ^ 12$
+$x ^ { 2y } $
+$y_{ 3z } $
+$x ^ { x ^ 2 } $
+$y_{ y_2 } $
+$y_{ x ^ 2 } $
+${ x ^ y } ^ z$
+$x ^ { y ^ z } $
+$_2F_3$
+${ } _2F_3$
+$x ^ { 31415 } _{ 92 } + \pi$
+$x_{ 92 } ^ { 31415 } + \pi$
+$F_2 ^ 2$
+$F{ } _2 ^ 2$
+$y_1' + y''_2$
+$\sqrt2$
+$\sqrt2y$
+$\sqrt{ 2y } $
+$\sqrt[ 3]{ 2 } $
+$\sqrt[ n + 1]{ x + y } $
+$\sqrt[ \leftroot{ 2 } \uproot{ 4 } \beta]{ k } $
+$\sqrt[ \leftroot{ 1 } \uproot{ 3 } \beta]{ k } $
+$\sqrt{ x } + \sqrt{ y } + \sqrt{ z } $
+$\sqrt{ x } + \sqrt{ \mathstrut y } + \sqrt{ z } $
+$\sqrt{ x } + \sqrt{ \smash[ b]{ y }  } + \sqrt{ z } $
+$\frac{ 1 } { 2 } $
+$\dfrac{ 1 } { 2 } $
+$\frac{ 1 } { 2 } $
+$1/2$
+$\binom{ k } { 2 } $
+$\dbinom{ k } { 2 } $
+$a ^ { x } $
+$a ^ { \textstyle x } $
+$\displaystyle\frac{ 1 } { 2 } $
+$\sum_{ n = 1 } ^ k$
+$\prod_{ n = 1 } ^ k$
+$\int_a ^ b$
+$#1{ #2#3 } { \int } $
+$#2#3$
+$\displaystyle\sum_{ n = 1 } ^ k$
+$\displaystyle\int_a ^ b$
+$\sum\limits_{ n = 1 } ^ k$
+$\int\limits_a ^ b$
+$5\sin(a + b)$
+$8\cos 2A$
+$\lim_{ n\to0 } ((\sin ^ 2x)/x ^ 2) = 1$
+$1234567\bmod89 = 48$
+$y\pmod{ a + b } $
+$\left| - x\right| = \left| + x\right|$
+$\mathrm{ i } ^ 2 = - 1$
+$\mathbf{ a } $
+$\bm{ a } $
+$\mathbb{ R } $
+$\mathbb{ N } $
+$different \neq \mathit{ different } $
+$\rd x$
+$\ri ^ 2 = - 1$
+$\re = 2.718\,28\ldots$
+$r - j$
+$ab$
+$a b$
+$a\ b$
+$a\,b$
+$a\:b$
+$a\;b$
+$a\quad b$
+$a\text{ -  -  - } b$
+$a\qquad b$
+$a\hspace{ 0.5cm } b$
+$a\phantom{ xx } b$
+$axxb$
+$a\hspace{ - 0.5cm } b$
+$a\,{ } _0x_1bh$
+$\sqrt{ 2 } \,x$
+$\sqrt{ \,\lg x } $
+$O\bigl(1/\sqrt{ n } \,\bigr)$
+$[ \,0,1)$
+$\lg n\,(\lg\lg n) ^ 2$
+$x ^ 2\!/2$
+$n/\!\lg n$
+$\Gamma_{ \!2 } + \Delta ^ { \!2 } $
+$R_i{ } ^ j{ } _{ \!kl } $
+$\int_0 ^ x\!\int_0 ^ y\rd F(u,v)$
+$(2n)!/\bigl(n!\,(n + 1)!\bigr)$
+$f(x,y;z)$
+$123,456$
+$123{ , } 456$
+$123.456$
+$f\mathpunct{ : } A\to B$
+$f\colon A\to B$
+$x<0$
+$x = a,b$
+$c$
+$x = a$
+$b$
+$c$
+$c$
+$x = a,b$
+$x = a,b$
+$a_1, a_2, \ldots, a_n$
+$a_1$
+$a_2$
+$a_n$
+$a_1$
+$a_2$
+$a_n$
+$\ldots$
+$a_1,a_2,a_3,\ldots$
+$a_1,a_2,a_3,\ldots.$
+$a_1,a_2,a_3,\ldots\,$
+$a_1$
+$a_2$
+$a_3$
+$x_1 + \cdots + x_n$
+$(x_1,\ldots,x_n)$
+$x_1 + \ldots + x_n$
+$(x_1,\cdots,x_n)$
+$x_1 + \dots + x_n$
+$(x_1,\dots,x_n)$
+$H_1, H_2, \dotsc\,$
+$H_1 + H_2 + \dotsb\,$
+$H_1\times H_2\times\dotsm\,$
+$x_1 + \dots + x_n$
+$x_1 = \dots = x_n$
+$A_1\times\dots\times A_n$
+$f(x_1,\dots,x_n)$
+$x_1x_2\dots x_n$
+$(1 - x)(1 - x ^ 2)\dots(1 - x ^ n)$
+$n(n - 1)\dots(1)$
+$x_1\cdot x_2\cdot\ldots\cdot x_n$
+$i = 1,2,\dots,n$
+$c_0,c_1,\dots,c_n$
+$f(x,y) = x ^ 2 - y ^ 2 = (x + y)(x - y)$
+$f(x,y) = { x ^ 2 - y ^ 2 } = { (x + y)(x - y) } $
+$f(x,\allowbreak y) = x ^ 2 - y ^ 2 = (x + y)(x - y)$
+$f(x,y) = x ^ 2 - y ^ 2 = (x + y)(x - y)$
+$f(x,y) = x ^ 2 - y ^ 2 = (x + y)\*(x - y)$
+$f(x,y) = x ^ 2 - y ^ 2 = (x + y)\*(x - y)$
+$r - j$
+$r - j$
+$r - j$
+$r - j$
+$(A + B)\sptilde$
+$(xyz)\spdddot$
+$(xyz)\spddot$
+$(xyz)\spdot$
+$(xyz)\spcheck$
+$(xyz)\sphat$
+$(xyz)\sptilde$
+$(xyz)\spbreve$
+$a\eqdef b$
+$f(x) = \sqrt{ x } $
+$f(x) = \sqrt{ x } $
+$f(x) = \sqrt{ x } $
+$*$
+$'$
+$\accentset{ * } { d } $
+$\accentset{ * } { h } $
+$\underaccent{ \bar } { x } $
+$\underaccent{ * } { x } $
+$\mathrm{ \imath } $
+$\vec{ \mathsf{ \dotlessj }  } $
+$\tilde{ \bm{ \dotlessi }  } $
+$\utilde{ a } \neq \widetilde{ a } $
+$x \geq 0$
+$x < 0$
+$c = d = 0$
+$|c| \geq |d|$
+$|c| < |d|$
+$w$
+$w \neq 0$
+$c < 0$
+$d \geq 0$
+$w \neq 0$
+$c < 0$
+$d < 0$
+$w = 0$
+$w \neq 0$
+$c \geq 0$
+$R_i{ } ^ j{ } _{ \!kl } $
+$R\indices{ _i ^ j_{ \!kl }  } $
+$\tensor[ ^ a_b ^ c_d]{ M } { ^ a_b ^ c_d } $
+$\tensor*[ ^ { 14 } _6]{ \text{ C }  } { } $
+$\overrightharp{ AB } $
+$\overleftharp{ AB } $
+$\overrightharpdown{ AB } $
+$\overleftharpdown{ AB } $
+$\underrightharp{ AB } $
+$\underleftharp{ AB } $
+$\underrightharpdown{ AB } $
+$\underleftharpdown{ AB } $
+$ - >$
+$< - $
+$< - >$
+$x ^ 2 + \maybebm{ x ^ 3 } + \cdots$
+$x ^ 2 + \maybebm{ x ^ 3 } + \cdots$
+$x ^ 2 + \mayberm{ x ^ 3 } + \cdots$
+$x ^ 2 + \mayberm{ x ^ 3 } + \cdots$
+$x ^ 2 + \maybeit{ x ^ 3 } + \cdots$
+$x ^ 2 + \maybeit{ x ^ 3 } + \cdots$
+$x ^ 2 + \maybeitrm{ x ^ 3 } + \cdots$
+$x ^ 2 + \maybeitrm{ x ^ 3 } + \cdots$
+$x ^ 2 + \maybesf{ x ^ 3 } + \cdots$
+$x ^ 2 + \maybesf{ x ^ 3 } + \cdots$
+$x ^ 2 + \maybebmsf{ x ^ 3 } + \cdots$
+$x ^ 2 + \maybebmsf{ x ^ 3 } + \cdots$
+$x ^ 2 + \maybebmsf{ x ^ 3 } + \cdots$
+$\maybebm{ ... } $
+$\iint_a ^ b\medint\iint_a ^ b$
+\begin{ equation } \delta\times\varepsilon = \theta \end{ equation } 
+\begin{ equation* } \varphi - \rho\neq\kappa \end{ equation* } 
+\begin{ equation* } \frac{ 1 } { 2 } \end{ equation* } 
+\begin{ equation* } \dfrac{ 1 } { 2 } (a + b), \end{ equation* } 
+\begin{ equation* } \tfrac{ 1 } { 2 } (a + b). \end{ equation* } 
+\begin{ equation* } a_0 + \cfrac{ b_1 } { a_1 + \cfrac[ l]{ b_2 } { a_2 + \cfrac[ r]{ b_3 } { a_3 + \cdots }  }  } \end{ equation* } 
+\begin{ equation* } \binom{ k } { 2 } \end{ equation* } 
+\begin{ equation* } \tbinom{ k } { 2 } . \end{ equation* } 
+\begin{ equation* } \textstyle\frac{ 1 } { 2 } . \end{ equation* } 
+\begin{ equation* } \sum_{ n = 1 } ^ k,\qquad \prod_{ n = 1 } ^ k, + \qquad\int_a ^ b. + \end{ equation* } 
+\begin{ equation* } \iint_A,\qquad \iint\limits_A \end{ equation* } 
+\begin{ equation* } \iiint\limits_V, \idotsint\limits_V, \oint_V \end{ equation* } 
+\begin{ equation* } \textstyle\sum_{ n = 1 } ^ k,\int_a ^ b. + \end{ equation* } 
+\begin{ equation* } \sum\nolimits_{ n = 1 } ^ k,\int\limits_a ^ b \end{ equation* } 
+\begin{ equation* } \lim_{ n\to0 } \frac{ \sin ^ 2x } { x ^ 2 } = 1 \end{ equation* } 
+\begin{ equation* } \lim\nolimits_{ n\to0 } \frac{ \sin ^ 2x } { x ^ 2 } = 1 \end{ equation* } 
+\begin{ equation* } \left[ \int + \int\right]_{ x = 0 } ^ { x = 1 } \end{ equation* } 
+\begin{ equation* } \left(\frac{ a } { b } \right[ \end{ equation* } 
+\begin{ equation* } \left(\frac{ a } { b } \right. \end{ equation* } 
+\begin{ equation* } \left(a + (a + b)\right) \end{ equation* } 
+\begin{ equation* } \bigl(a + (a + b)\bigr) \end{ equation* } 
+\begin{ equation* } \left\{ \,x\in\mathbb{ R } \biggm| 0<\left|x\right|<\frac{ 5 } { 3 } \,\right\ } , \quad\frac{ a + 1 } { b } \bigg/\frac{ c + 1 } { d } \end{ equation* } 
+\begin{ equation } \frac{ a + 1 } { b } \biggm/\frac{ c + 1 } { d } \end{ equation } 
+\begin{ equation* } \left(\sum_{ k = 1 } ^ n A_k \right)\quad \biggl(\sum_{ k = 1 } ^ n A_{ k } \biggr) \end{ equation* } 
+\begin{ equation* } { } ^ { 12 } _{ \phantom{ 1 } 6 } \textrm{ C } \qquad \textrm{ versus } \qquad { } ^ { 12 } _{ 6 } \textrm{ C } \end{ equation* } 
+\begin{ equation } f(x) = \int\frac{ \sin x } { x } dx \end{ equation } 
+\begin{ equation } f(x) = \int\frac{ \sin x } { x } dx \end{ equation } 
+\begin{ equation* } y = f(x). \end{ equation* } 
+\begin{ equation* } (a + b) ^ 2 = a ^ 2 + 2ab + b ^ 2\\ \sin ^ 2\eta + \cos ^ 2\eta = 1 \end{ equation* } 
+\begin{ equation* } (a + b) ^ 2 = a ^ 2 + 2ab + b ^ 2 \end{ equation* } 
+\begin{ equation* } \sin ^ 2\eta + \cos ^ 2\eta = 1 \end{ equation* } 
+\begin{ equation } \begin{ gathered } (a + b) ^ 2 = a ^ 2 + 2ab + b ^ 2\\ \sin ^ 2\eta + \cos ^ 2\eta = 1 \end{ gathered } \end{ equation } 
+\begin{ equation* } \begin{ aligned } x ^ 2 + y ^ 2 & = z ^ 2\\ x ^ 3 + y ^ 3 & < z ^ 3 + \cdots \end{ aligned } \end{ equation* } 
+\begin{ equation } \begin{ split } x ^ 2 + y ^ 2 & = z ^ 2\\ x ^ 3 + y ^ 3 & < z ^ 3 + \cdots \end{ split } \end{ equation } 
+\begin{ equation* } \left. \begin{ aligned } \bm{ B } ' & = - c\nabla\times\bm{ E } \\ \bm{ E } ' & = c\nabla\times\bm{ B } - 4\pi\bm{ J } \end{ aligned } \right\ } \text{ Maxwell's } \end{ equation* } 
+\begin{ equation* } \begin{ split } (a + b) ^ 3 & = (a + b)(a + b) ^ 2\\ + & = (a + b)(a ^ 2 + 2ab + b ^ 2)\\ & = a ^ 3 + 3a ^ 2b + 3ab ^ 2 + b ^ 3 + \end{ split } \end{ equation* } 
+\begin{ equation } \begin{ split } f_{ h,\ve } (x,y) & = \ve\bfE_{ x,y } \int_0 ^ { \tve } L_{ x,\yvf(\ve u) } \vf(x)\,\rd u\\ + \newcommand\tve{ t_{ \varepsilon }  } \newcommand\yvf{ y_{ \varphi }  } + & = h\int L_{ x,z } \vf(x) + \rho_x(\rd z)\\ & \relphantom{ = } { } + h\Biggl(\frac{ 1 } { \tve } \biggl( + \bfE_y \int_0 ^ { \tve } L_{ x,y ^ x(s) } \vf(x)\,\rd s\ + - \tve \int L_{ x,z } \vf(x)\rho_x(\rd z)\biggr)\\ + & \relphantom{ = } \phantom{ { } + h\Biggl( } + \frac{ 1 } { \tve } \biggl(\bfE_y\int_0 ^ { \tve } L_{ x,y ^ x(s) } \vf(x)\,\rd s - \bfE_{ x,y } \int_0 ^ { \tve } L_{ x,\yvf(\ve s) } \vf(x)\,\rd s\biggr)\Biggr) + \end{ split } \end{ equation } 
+\begin{ equation* } P_{ r - j } = \left\{ \!\!\! \begin{ array } { ll } 0 & \text{ if $r - j$ is odd, } \\ r!\,( - 1) ^ { (r - j)/2 } & + \text{ if $r - j$ is even. } + \end{ array } \right. \end{ equation* } 
+\begin{ equation* } P_{ r - j } = \begin{ cases } 0 & \text{ if $r - j$ is odd, } \\ r!\,( - 1) ^ { (r - j)/2 } & + \text{ if $r - j$ is even. } + \end{ cases } \end{ equation* } 
+\begin{ equation* } \left(\!\!\!\begin{ array } { cc } 0 & - 1\\ 1 & 0\end{ array } \!\!\!\right) \end{ equation* } 
+\begin{ equation } f(x) = \sqrt{ x } \end{ equation } 
+\begin{ equation } f(x) = \sqrt{ x } \end{ equation } 
+\begin{ equation } \boxed{ W_t - F\subseteq V(P_i)\subseteq W_t } \end{ equation } 
+\begin{ empheq } [ box = \fbox]{ align } f(x) = \int_1 ^ \infty \frac{ 1 } { x ^ 2 } \,\rd t = 1 \end{ empheq } 
+\begin{ empheq } [ box = { \fboxsep = 10pt + \colorbox{ yellow }  } ]{ align } + f(x) = \int_1 ^ \infty \frac{ 1 } { x ^ 2 } \,\rd t = 1 \end{ empheq } 
+\begin{ subequations } \begin{ empheq } [ box = { \fboxsep = 1pt\colorbox{ cyan }  } ]{ align } f(x) & = \int_1 ^ \infty \frac{ 1 } { x ^ 2 } \,\rd + t = 1\\ + f(x) & = \int_2 ^ \infty \frac{ 1 } { x ^ 2 } \,\rd + t = 0.25 + \end{ empheq } \end{ subequations } 
+\begin{ equation } a + b = c + d \end{ equation } 
+\begin{ subequations } \begin{ align } y & = d\\ y & = cx + d\\ y & = bx ^ 2 + cx + d\\ y & = ax ^ 3 + bx ^ 2 + cx + d \end{ align } \end{ subequations } 
+\begin{ subequations } \begin{ align } y & = d\\ y & = cx + d\\ y & = bx ^ 2 + cx + d\\ y & = ax ^ 3 + bx ^ 2 + cx + d \end{ align } \end{ subequations } 
+\begin{ equation } \label{ e:previous } A = B \end{ equation } 
+\begin{ equation } \tag{ \ref{ e:previous } $'$ } \label{ e:prevprime } C = D \end{ equation } 
+\begin{ equation* } \Set{ x\in\mathbb{ R } | + 0<\left|x\right|<\frac{ 5 } { 3 }  } \\ + \end{ equation* } 
+\begin{ equation } \textcolor{ blue } { f(x) } = \int_1 ^ \infty + \textcolor{ red } { \frac{ 1 } { x ^ 2 }  } \,\rd x = 1 + \end{ equation } 
+\begin{ equation } G(t) = L\gamma!\,t ^ { - \gamma } + t ^ { - \delta } \eta(t) \qedhere \end{ equation } 
+\[ ...\]
+\[ f(x) = mx + b. \]
+\[ a_0 + \frac{ b_1 } { a_1 + } \frac{ b_2 } { a_2 + } \frac{ b_3 } { a_3 + } \cdots\]
+\[ \dashint_a ^ bf(x)\,\rd x\]
+\[ \sum_{ \substack{ 0\leq i\leq m\\ + 0<j<n }  } P(i,j)\]
+\[ \sum_{ \begin{ subarray } { l } i\in\Lambda\\ 0\le i\le m\\ 0<j<n \end{ subarray }  } ,\quad \sum_{ \begin{ subarray } { c } i\in\Lambda\\ 0\le i\le m\\ 0<j<n \end{ subarray }  } \]
+\[ \arccot x, \quad \meas_1, + \quad \esssup_{ x\in A } \]
+\[ P_{ r - j } = 0 \mathrm{ if } r - j \mathrm{ is odd } .\]
+\[ P_{ r - j } = 0\ \mathrm{ if } \ r - j\ + \mathrm{ is\ odd } .\]
+\[ P_{ r - j } = 0\text{ if $r - j$ is odd. } \]
+\[ \int_{ H_1 } \! + \int_{ H_2 } \dotsi\; + { - \Gamma } \,\rd\Theta.\]
+\[ \begin{ array } { clcr } a + b + c & uv a + b a \end{ array } \]
+\[ \bordermatrix{ & 0 & 1 & 2\cr 0 & A & B & C\cr 1 & d & e & f\cr 2 & 1 & 2 & 3 } \]
+\[ f(x) = \left\{ % \vphantom{ \begin{ array } { c } a\\[ 13ex] \end{ array }  } \right.\kern - 7pt \begin{ array } { ll } 4, & \text{ if } \quad x\in (4,\infty), \\ 3, & \text{ if } \quad x\in (3,4], \\ 2, & \text{ if } \quad x \in (2,3], \\ 1, & \text{ if } \quad x \in (1,2], \\ 0, & \text{ if } \quad x \in ( - \infty,1]. \end{ array } \]
+\[ 0\xleftarrow[ \zeta]{ } F\times + \Delta(n - 1) + \xrightarrow{ \partial_0\alpha(b) } + E ^ { \partial_0 b } \]
+\[ a ^ 2 + b ^ 2 \]
+\[ \bm{ Q } = \begin{ array } [ t]({ cc } ) X & Y \end{ array } \begin{ array } [ t][ { cc } ]A & B\\ C & D\end{ array } \begin{ array } [ b]\lgroup{ cc } \rgroup + L\\M\end{ array } \]
+\[ \begin{ pmat } ({ .| } ) a_{ 11 } & a_{ 12 } & b_{ 11 } \cr a_{ 21 } & a_{ 22 } & b_{ 21 } \cr\ - c_{ 11 } & c_{ 12 } & d_{ 11 } \cr \end{ pmat } \]
+\[ \begin{ CD } \cov(L) @>>> \non(K) @>>> \cf(K)\\ @VVV @AAA @AAA \\ \add(L) @>>> \add(K) @>>> \cov(K)\\ \end{ CD } \]
+\[ \begin{ CD } S ^ { W_\Lambda } \otimes T @>j>> + T \\ + @VVV @VV{ \mathop{ \rm End } P } V\\ (S\otimes T)/I @ = (Z\otimes T)/J \end{ CD } \]
+\[ f(x) = \frac{ (x ^ 2 + 1)\cancel{ (x - 1) }  } { \cancel{ (x - 1) } (x + 1) } \]
+\[ \medmath{ \cfrac{ 1 } { \sqrt 2 +  + \cfrac{ 1 } { \sqrt 2 + \dotsb }  }  } \quad \cfrac{ 1 } { \sqrt 2 + \cfrac{ 1 } + { \sqrt 2 + \dotsb }  } \]
+begin{ align } x ^ 2 + y ^ 2 & = z ^ 2\\ x ^ 3 + y ^ 3 & < z ^ 3 + \cdots \end{ align } 
+begin{ align } A_1 & = N_0(\lambda;\Omega') - + \phi(\lambda;\Omega')\\ + A_2 & = \phi(\lambda;\Omega') + \phi(\lambda;\Omega) + \intertext{ and finally } A_3 & = \mathcal{ N } (\lambda;\omega) \end{ align } 
+begin{ align* } (a + b) ^ 3 & = (a + b)(a + b) ^ 2\\ + & = (a + b)(a ^ 2 + 2ab + b ^ 2)\\ & = a ^ 3 + 3a ^ 2b + 3ab ^ 2 + b ^ 3 + \end{ align* } 
+begin{ align* } x_nu_1 + \cdots + x_{ n + t - 1 } u_t & = + x_nu_1 + (ax_n + c)u_2 + \cdots\\ & \quad + \bigl(a ^ { t - 1 } x_n +  + c(a ^ { t - 2 } + \cdots + 1)\bigr)u_t\\ & = (u_1 + au_2 + \cdots + a ^ { t - 1 } u_t)x_n +  + h(u_1,\ldots,u_t). + \end{ align* } 
+begin{ align* } y & = x ^ 2 + bx + c\\ + & = x ^ 2 + 2\cdot\frac{ b } { 2 } x + c\\ & = \underbrace{ x ^ 2 + 2\cdot\frac{ b } { 2 } x +  + \left(\frac{ b } { 2 } \right) ^ 2 } _{ \left(x + (b/2)\right) ^ 2 } + - \left(\frac{ b } { 2 } \right) ^ 2 + c + \end{ align* } 
+begin{ align } y & = d\\ y & = cx + d\\ y & = bx ^ 2 + cx + d\\ y & = ax ^ 3 + bx ^ 2 + cx + d \end{ align } 
+begin{ align } y & = d\\ y & = cx + d\\ y & = bx ^ 2 + cx + d\\ y & = ax ^ 3 + bx ^ 2 + cx + d \end{ align } 
+begin{ align* } a + b & = c + d. \intertext[ 1cm]{ Therefore, } e + f & = g + h. \end{ align* } 
+\begin{ multline } \text{ First line of a multline } \\ \text{ Centered Middle line } \\ \shoveright{ \text{ A right Middle }  } \\ \text{ Another centered Middle } \\ \text{ Yet another centered Middle } \\ \shoveleft{ \text{ A left Middle }  } \\ \text{ Last line of the multline } \end{ multline } 
+\begin{ multline } A = \lim_{ n\to\infty } \Delta x\Bigl(a ^ 2 +  + \bigl(a ^ 2 + 2a\Delta x +  + (\Delta x) ^ 2\bigr)\\ +  + \bigl(a ^ 2 + 2\times2a\Delta x +  + 2 ^ 2(\Delta x) ^ 2\bigr)\\ +  + \bigl(a ^ 2 + 2\times3a\Delta x +  + 3 ^ 2(\Delta x) ^ 2\bigr)\\ +  + \cdots\\ + \bigl(a ^ 2 + 2\cdot(n - 1)a\Delta x +  + (n - 1) ^ 2(\Delta x) ^ 2\bigr)\Bigr)\\ + = \tfrac{ 1 } { 3 } (b ^ 3 - a ^ 3). + \end{ multline } 
+\begin{ eqnarray } y & = & a + b + c + d\nonumber\\ + & + e + f + g\nonumber\\ & { } + h + i + j\nonumber\\ + &  &  & \geq & { } - k - l - m + \end{ eqnarray } 
+\begin{ eqnarray } \lefteqn{ w + x + y + z = } \\ &  & a + b + c + d + e + f + \\ &  & g + h + i + j + k + l \end{ eqnarray } 
+\begin{ array } { clcr } a + b + c & uv a + b a \end{ array } 
+\begin{ array } { ll } 0 & \text{ if $r - j$ is odd, } \\ r!\,( - 1) ^ { (r - j)/2 } & + \text{ if $r - j$ is even. } + \end{ array } 
+\begin{ array } { cc } 0 & - 1\\ 1 & 0\end{ array } 
+\begin{ array } { c } a\\[ 13ex] \end{ array } 
+\begin{ array } { ll } 4, & \text{ if } \quad x\in (4,\infty), \\ 3, & \text{ if } \quad x\in (3,4], \\ 2, & \text{ if } \quad x \in (2,3], \\ 1, & \text{ if } \quad x \in (1,2], \\ 0, & \text{ if } \quad x \in ( - \infty,1]. \end{ array } 
+\begin{ array } [ t]({ cc } ) X & Y \end{ array } 
+\begin{ array } [ t][ { cc } ]A & B\\ C & D\end{ array } 
+\begin{ array } [ b]\lgroup{ cc } \rgroup + L\\M\end{ array } 
+\begin{ verbatim } \begin{ align* } x_nu_1 + \cdots + x_{ n + t - 1 } u_t & = + x_nu_1 + (ax_n + c)u_2 + \cdots\\ & \quad + \bigl(a ^ { t - 1 } x_n +  + c(a ^ { t - 2 } + \cdots + 1)\bigr)u_t\\ & = (u_1 + au_2 + \cdots + a ^ { t - 1 } u_t)x_n +  + h(u_1,\ldots,u_t). + \end{ align* } \end{ verbatim } 
+\begin{ verbatim } \newcommand\ve{ \varepsilon } \newcommand\vf{ \varphi } \newcommand\bfE{ \mathbf{ E }  } \newcommand\relphantom[ 1]{ \mathrel{ \phantom{ #1 }  }  } \begin{ equation } \begin{ split } f_{ h,\ve } (x,y) & = \ve\bfE_{ x,y } \int_0 ^ { \tve } L_{ x,\yvf(\ve u) } \vf(x)\,\rd u\\ + \newcommand\tve{ t_{ \varepsilon }  } \newcommand\yvf{ y_{ \varphi }  } + & = h\int L_{ x,z } \vf(x) + \rho_x(\rd z)\\ & \relphantom{ = } { } + h\Biggl(\frac{ 1 } { \tve } \biggl( + \bfE_y \int_0 ^ { \tve } L_{ x,y ^ x(s) } \vf(x)\,\rd s\ + - \tve \int L_{ x,z } \vf(x)\rho_x(\rd z)\biggr)\\ + & \relphantom{ = } \phantom{ { } + h\Biggl( } + \frac{ 1 } { \tve } \biggl(\bfE_y\int_0 ^ { \tve } L_{ x,y ^ x(s) } \vf(x)\,\rd s - \bfE_{ x,y } \int_0 ^ { \tve } L_{ x,\yvf(\ve s) } \vf(x)\,\rd s\biggr)\Biggr) + \end{ split } \end{ equation } \end{ verbatim } 
+\begin{ verbatim } \begin{ displaymath } a + b = c + d\footnotemark \end{ displaymath } \footnotetext{ Here comes the footnote + in math mode. Hooray!!! } + \end{ verbatim } 
+\begin{ verbatim } \[ a ^ 2 + b ^ 2 \] \end{ verbatim } 
+\begin{ verbatim } + \begin{ subnumcases } { \label{ w } w\equiv } + 0 + & $c = d = 0$\label{ wzero } \\ , - x, + |x| = + for & $|c| \geq |d|$ \\ + & $|c| < |d|$ + \sqrt{ |c| } \,\sqrt{ \frac{ 1 + \sqrt{ 1 + (d/c) ^ 2 }  } { 2 }  } \sqrt{ |d| } \,\sqrt{ \frac{ |c/d| + \sqrt{ 1 + (c/d) ^ 2 }  } { 2 }  } \end{ subnumcases } Then, using $w$ from equation~(\ref{ w } ), the square root is \begin{ subnumcases } { \sqrt{ c + \ri d } = } 0 w + \ri\frac{ d } { 2w } \frac{ |d| } { 2w } + \ri w \frac{ |d| } { 2w } - \ri w \end{ subnumcases } + & $w \neq 0$, $c < 0$, $d \geq 0$ \\ & $w \neq 0$, $c < 0$, $d < 0$ + & $w = 0$ (case \ref{ wzero } )\\ + & $w \neq 0$, $c \geq 0$ \\ + \end{ verbatim } 
+\begin{ gather } (a + b) ^ 2 = a ^ 2 + 2ab + b ^ 2\\ \sin ^ 2\eta + \cos ^ 2\eta = 1 \end{ gather } 
+\begin{ gather } (a + b) ^ 2 = a ^ 2 + 2ab + b ^ 2\\ \sin ^ 2\eta + \cos ^ 2\eta = 1\notag \end{ gather } 
+\begin{ gather* } \begin{ matrix } 0 & 1\\ 1 & 0\end{ matrix } \quad \begin{ pmatrix } 0 & 1\\ 1 & 0\end{ pmatrix } \\ \begin{ bmatrix } 0 & 1\\ 1 & 0\end{ bmatrix } \quad \begin{ Bmatrix } 0 & 1\\ 1 & 0\end{ Bmatrix } \\ \begin{ vmatrix } 0 & 1\\ 1 & 0\end{ vmatrix } \quad \begin{ Vmatrix } 0 & 1\\ 1 & 0\end{ Vmatrix } \end{ gather* } 
+\begin{ gather* } \uvec{ p } = \left(\irvec{ q } \right)\\ \uuvec{ q } = \left(\!\!\icvec{ q } \!\!\right)\\ \buvec{ r } = \{ \rvec{ r } { 1 } { 6 } \ } \\ \bvec{ s } = \left[ + \!\!\cvec{ s } { 0 } { 2 } \!\!\right] + \end{ gather* } 
+\begin{ gather } (a + b) ^ 2 = a ^ 2 + 2ab + b ^ 2\\ \sin ^ 2\eta + \cos ^ 2\eta = 1 \end{ gather } 
+\begin{ gather } (a + b) ^ 2 = a ^ 2 + 2ab + b ^ 2\\ \sin ^ 2\eta + \cos ^ 2\eta = 1\notag \end{ gather } 
+\begin{ gather* } \begin{ matrix } 0 & 1\\ 1 & 0\end{ matrix } \quad \begin{ pmatrix } 0 & 1\\ 1 & 0\end{ pmatrix } \\ \begin{ bmatrix } 0 & 1\\ 1 & 0\end{ bmatrix } \quad \begin{ Bmatrix } 0 & 1\\ 1 & 0\end{ Bmatrix } \\ \begin{ vmatrix } 0 & 1\\ 1 & 0\end{ vmatrix } \quad \begin{ Vmatrix } 0 & 1\\ 1 & 0\end{ Vmatrix } \end{ gather* } 
+\begin{ gather* } \uvec{ p } = \left(\irvec{ q } \right)\\ \uuvec{ q } = \left(\!\!\icvec{ q } \!\!\right)\\ \buvec{ r } = \{ \rvec{ r } { 1 } { 6 } \ } \\ \bvec{ s } = \left[ + \!\!\cvec{ s } { 0 } { 2 } \!\!\right] + \end{ gather* } 
+\begin{ pmat } ({ .| } ) a_{ 11 } & a_{ 12 } & b_{ 11 } \cr a_{ 21 } & a_{ 22 } & b_{ 21 } \cr\ - c_{ 11 } & c_{ 12 } & d_{ 11 } \cr \end{ pmat }
+$\sum$
+$\displaystyle \sum$
+$\sfrac{ 1 } { 2 } $
+${ } ^ 1/_2$
+$x ^ \frac{ 1 } { 2 } $
+$x ^ \sfrac{ 1 } { 2 } $
+$x ^ { \sfrac{ 1 } { 2 }  } $
+$x ^ \frac{ 1 } { 2 } $
+$#1\oldsqrt{ #2\, } $
+$\oldr@@t#1{ #2\, } $
+$\sqrt[ a]{ b } \quad \oldsqrt[ a]{ b } $
+$a$
+$b$
+$b \neq c$
+$x$
+$x$
+$...$
+\begin{ equation } + x = a_0 + \cfrac{ 1 } { a_1 + \cfrac{ 1 } { a_2 + \cfrac{ 1 } { a_3 + \cfrac{ 1 } { a_4 }  }  }  } + \end{ equation } 
+\begin{ equation } \frac{ + \begin{ array } [ b]{ r } + \left( x_1 x_2 \right)\\ \times \left( x'_1 x'_2 \right) + \end{ array }  } { \left( y_1y_2y_3y_4 \right) + } + \end{ equation } 
+\begin{ equation } + C ^ i_j = { \textstyle \sum_k } A ^ i_k B ^ k_j + \end{ equation } 
+\begin{ equation } f(x) = (x + a)(x + b) \end{ equation } 
+\begin{ equation } \label{ eq:someequation } 5 ^ 2 - 5 = 20
+\end{ equation } 
+\begin{ equation } \label{ eq:erl } a = bq + r \end{ equation } 
+\begin{ equation } L' = { L } { \sqrt{ 1 - \frac{ v ^ 2 } { c ^ 2 } <! -  -  -  - > } <! -  -  -  - > } \end{ equation } 
+\begin{ subequations } Maxwell's equations: \begin{ align } + \end{ align } \end{ subequations } 
+\begin{ equation } \left.\begin{ aligned } + B' & = - \partial \times E,\\ E' & = \partial \times B - 4\pi j, \end{ aligned } + \right\ } \qquad \text{ Maxwell's equations } \end{ equation } 
+\begin{ equation* } e ^ { ix } = \cos{ x } + i \sin{ x } . \end{ equation* } 
+\begin{ equation } \boxed{ x ^ 2 + y ^ 2 = z ^ 2 } \end{ equation } 
+\begin{ equation } x ^ 2 + y ^ 2 = z ^ 2 \end{ equation } 
+\begin{ equation } + \lim_{ a\to \infty } \tfrac{ 1 } { a } \end{ equation } 
+\begin{ equation } + \lim\nolimits_{ a\to \infty } \tfrac{ 1 } { a } \end{ equation } 
+\begin{ equation } + \int_a ^ b x ^ 2 \mathrm{ d } x \end{ equation } 
+\begin{ equation } + \int\limits_a ^ b x ^ 2 \mathrm{ d } x \end{ equation } 
+\begin{ equation } + \lim_{ a \underset{ > } { \to } 0 } \frac{ 1 } { a } \end{ equation } 
+\begin{ equation } + \sum\nolimits' C_n + \end{ equation } 
+\begin{ equation } + \sum_{ n = 1 } \nolimits' C_n + \end{ equation } 
+\begin{ equation } + \sideset{ } { ' } \sum_{ n = 1 } C_n + \end{ equation } 
+\begin{ equation } + \sideset{ _a ^ b } { _c ^ d } \sum + \end{ equation } 
+\begin{ equation } + { \sum\limits_{ n = 1 }  } 'C_n + \end{ equation } 
+\begin{ equation } + \prod_{ \substack{ + 1\le i \le n\\
+1\le j \le m } <! -  -  -  - > } M_{ i,j } + \end{ equation } 
+\begin{ equation } + x = a_0 + \frac{ 1 } { a_1 + \frac{ 1 } { a_2 + \frac{ 1 } { a_3 + a_4 } <! -  -  -  - > } <! -  -  -  - > } \end{ equation } 
+\begin{ equation } + x = a_0 + \frac{ 1 } { \displaystyle a_1
+ + \frac{ 1 } { \displaystyle a_2
+ + \frac{ 1 } { \displaystyle a_3 + a_4 } <! -  -  -  - > } <! -  -  -  - > } \end{ equation } 
+\[ ...\]
+M = \begin{ bmatrix } 
+\frac{ 5 } { 6 } & \frac{ 1 } { 6 } & 0 \\[ 0.3em]
+\frac{ 5 } { 6 } & 0 & \frac{ 1 } { 6 } \\[ 0.3em]
+0 & \frac{ 5 } { 6 } & \frac{ 1 } { 6 } 
+\end{ bmatrix } 
+M = \bordermatrix{ ~ & x & y \cr A & 1 & 0 \cr B & 0 & 1 \cr } 
+$\bigl(\begin{ smallmatrix } a & b \\ c & d \end{ smallmatrix } \bigr)$ 
+50 apples \times 100 apples = lots of apples ^ 2
+50 \text{ apples } \times 100 \text{ apples } = \text{ lots of apples } ^ 2 + 5
+50 \text{ apples } \times 100 \text{ apples } = \text{ lots of apples } ^ 2 
+50 \textrm{ apples } \times 100 \textbf{ apples } = \textit{ lots of apples } ^ 2 
+\[ f(n) = + \begin{ cases } + n/2 - (n + 1)/2 \end{ cases } + \]
+\[ A \overset{ ! } { = } B; A \stackrel{ ! } { = } B \]
+\[ \lim_{ x\to 0 } { \frac{ e ^ x - 1 } { 2x } <! -  -  -  - > } \overset{ \left[ \frac{ 0 } { 0 } \right] } { \underset{ \mathrm{ H } <! -  -  -  - > } { = } <! -  -  -  - > } \lim_{ x\to 0 } { \frac{ e ^ x } { 2 } <! -  -  -  - > } = { \frac{ 1 } { 2 } <! -  -  -  - > } \]
+\[ \lim_{ x\to 0 } { \frac{ e ^ x - 1 } { 2x }  } \Heq{ \frac{ 0 } { 0 }  } \lim_{ x\to 0 } { \frac{ e ^ x } { 2 }  } = { \frac{ 1 } { 2 }  } \]
+\[ z = \overbrace{ + \underbrace{ x } _\text{ real } + i \underbrace{ y } _\text{ imaginary }  } ^ \text{ complex number } + \]
+\[ y = a + f(\underbrace{ b x } _{ \ge 0 \text{ by assumption } <! -  -  -  - > } ) = a + f(\underbrace{ b x } _{ + \mathclap{ \ge 0 \text{ by assumption } <! -  -  -  - > } <! -  -  -  - > } ) \]
+\[ z = \overbracket[ 3pt]{ + \underbracket{ x } _{ \text{ real } <! -  -  -  - > } + \underbracket[ 0.5pt][ 7pt]{ iy } _{ \text{ imaginary } <! -  -  -  - > }  } ^ { \text{ complex number } <! -  -  -  - > } + \]
+\[ A \xleftarrow{ \text{ this way } <! -  -  -  - > } B \xrightarrow[ \text{ or that way } ]{ } C + \]
+\[ a \xleftrightarrow[ under]{ over } b\\ % A \xLeftarrow[ under]{ over } B\\ % B \xRightarrow[ under]{ over } C\\ % C \xLeftrightarrow[ under]{ over } D\\ % D \xhookleftarrow[ under]{ over } E\\ % E \xhookrightarrow[ under]{ over } F\\ % F \xmapsto[ under]{ over } G\\ \]
+\[ H \xrightharpoondown[ under]{ over } I\\ % I \xrightharpoonup[ under]{ over } J\\ % J \xleftharpoondown[ under]{ over } K\\ % K \xleftharpoonup[ under]{ over } L\\ % L \xrightleftharpoons[ under]{ over } M\\ % M \xleftrightharpoons[ under]{ over } N \]
+\[ f(x) = \left\{ + \begin{ array } { lr } x ^ 2 & : x < 0\\ x ^ 3 & : x \ge 0 + \end{ array } + \right. \]
+\[ u(x) = \begin{ cases } \exp{ x } & \text{ if } x \geq 0 \\ 1 \end{ cases } + & \text{ if } x < 0 + \]
+\[ a = + \]
+\[ f(x) = \begin{ dcases* } + x & when $x$ is even\\ - x & when $x$ is odd \end{ dcases* } + \]
+\[ \operatorname{ arg\,max } _a f(a) = \operatorname*{ arg\,max } _b f(b) \]
+\[ \argmax_c f(c) \]
+begin{ align } + \end{ align } 
+begin{ align* } f(x) & = (x + a)(x + b) \\ & = x ^ 2 + (a + b)x + ab \end{ align* } 
+begin{ align } f(x) & = x ^ 4 + 7x ^ 3 + 2x ^ 2 \nonumber \\ & \qquad { } + 10x + 12 \end{ align } 
+begin{ align* } f(x) & = a x ^ 2 + b x + c f'(x) & = 2 a x + b \end{ align* } 
+begin{ align } f(x) & = \pi \left\{ x ^ 4 + 7x ^ 3 + 2x ^ 2 \right.\nonumber\\ & \qquad \left. { } + 10x + 12 \right\ } \end{ align } 
+begin{ align } A & = + \end{ align } 
+begin{ align* } & \vdots\\ & = 12 + 7 \int_0 ^ 2 \left( + - \frac{ 1 } { 4 } \left(e ^ { - 4t_1 } + e ^ { 4t_1 - 8 } \right) + \right)\,dt_1\displaybreak[ 3]\\ & = 12 - \frac{ 7 } { 4 } \int_0 ^ 2 \left( e ^ { - 4t_1 } + e ^ { 4t_1 - 8 } \right)\,dt_1\\ & \vdots % \end{ align* } 
+begin{ align* } \Aboxed{ f(x) & = \int h(x)\, dx } \\ + & = g(x) + \end{ align* } 
+begin{ align* } \intertext{ If } + A & = \sigma_1 + \sigma_2\\ B & = \rho_1 + \rho_2\\ + \intertext{ then } C(x) & = e ^ { Ax ^ 2 + \pi } + B \end{ align* } 
+\begin{ array } [ b]{ r } + \left( x_1 x_2 \right)\\ \times \left( x'_1 x'_2 \right) + \end{ array } 
+\begin{ array } { cc } 1 & 2 \\ \hline 3 & 4 \end{ array } 
+\begin{ array } { c } + n \\ r + \end{ array } 
+\begin{ array } { c } + n \\ r + \end{ array } 
+\begin{ array } { lr } x ^ 2 & : x < 0\\ x ^ 3 & : x \ge 0 + \end{ array } 
+\begin{ gather* } a_0 = \frac{ 1 } { \pi } \int\limits_{ - \pi } ^ { \pi } f(x)\,\mathrm{ d } x\\[ 6pt] \begin{ split } a_n = \frac{ 1 } { \pi } \int\limits_{ - \pi } ^ { \pi } f(x)\cos nx\,\mathrm{ d } x = \\ = \frac{ 1 } { \pi } \int\limits_{ - \pi } ^ { \pi } x ^ 2\cos nx\,\mathrm{ d } x \end{ split } \\[ 6pt] \begin{ split } b_n = \frac{ 1 } { \pi } \int\limits_{ - \pi } ^ { \pi } f(x)\sin nx\,\mathrm{ d } x = \\ = \frac{ 1 } { \pi } \int\limits_{ - \pi } ^ { \pi } x ^ 2\sin nx\,\mathrm{ d } x \end{ split } \\[ 6pt] \end{ gather* } 
+\begin{ gather* } a_0 = \frac{ 1 } { \pi } \int\limits_{ - \pi } ^ { \pi } f(x)\,\mathrm{ d } x\\[ 6pt] \begin{ split } a_n = \frac{ 1 } { \pi } \int\limits_{ - \pi } ^ { \pi } f(x)\cos nx\,\mathrm{ d } x = \\ = \frac{ 1 } { \pi } \int\limits_{ - \pi } ^ { \pi } x ^ 2\cos nx\,\mathrm{ d } x \end{ split } \\[ 6pt] \begin{ split } b_n = \frac{ 1 } { \pi } \int\limits_{ - \pi } ^ { \pi } f(x)\sin nx\,\mathrm{ d } x = \\ = \frac{ 1 } { \pi } \int\limits_{ - \pi } ^ { \pi } x ^ 2\sin nx\,\mathrm{ d } x \end{ split } \\[ 6pt] \end{ gather* } 
+\(...\) 
+\[ ...\] 
+\quad 
+\lim 
+\sum 
+\displaystyle 
+\sum$ 
+\displaystyle 
+\sum$ 
+\everymath{ \displaystyle } 
+\begin{ document } ), 
+\forall 
+\in 
+\quad 
+\exists 
+\leq 
+\epsilon 
+\alpha, 
+\Alpha, 
+\beta, 
+\Beta, 
+\gamma, 
+\Gamma, 
+\pi, 
+\Pi, 
+\phi, 
+\varphi, 
+\mu, 
+\Phi 
+\cos 
+\theta) 
+\cos ^ 2 
+\theta 
+\sin ^ 2 
+\theta 
+\lim_{ x 
+\to 
+\infty } 
+\exp( - x) 
+\bmod 
+\pmod: 
+\bmod 
+\equiv 
+\pmod 
+\frac{ numerator } { denominator } 
+\binom 
+\frac{ n! } { k!(n - k)! } 
+\binom{ n } { k } 
+\choose 
+\frac{ n! } { k!(n - k)! } 
+\choose 
+\frac{ \frac{ 1 } { x } + \frac{ 1 } { y } <! -  -  -  - > } { y - z } 
+\tfrac 
+\dfrac 
+\textstyle 
+\displaystyle. 
+\tbinom 
+\dbinom 
+\over 
+\over 
+\choose 
+\newcommand*\rfrac[ 2] 
+\rfrac{ 3 } { 7 } 
+\sfrac 
+\sfrac{ 1 } { 2 } $ 
+\dots 
+\times\sfrac{ 1 } { 2 } = 1\sfrac{ 1 } { 2 } 
+\dots 
+\times{ } ^ 1/_2 = 1{ } ^ 1/_2 
+\sfrac 
+\frac{ 1 } { 2 } $ 
+\sfrac{ 1 } { 2 } $ 
+\sfrac{ 1 } { 2 }  } $ 
+\frac{ 1 } { 2 } $ 
+\nicefrac 
+\sfrac. 
+\cfrac
+\begin{ equation } 
+\frac{ 
+\begin{ array } [ b]{ r } 
+\left 
+\right
+\times 
+\left( 
+\right) 
+\end{ array } 
+\left( 
+\right) 
+\end{ equation } 
+\sqrt{ \frac{ a } { b }  } 
+\sqrt 
+\sqrt[ n]{ 1 + x + x ^ 2 + x ^ 3 + \ldots } 
+\sqrt 
+\oldsqrt 
+\let\oldsqrt\sqrt 
+\sqrt 
+\def\sqrt{ \mathpalette\DHLhksqrt } 
+\def\DHLhksqrt#1#2{ % 
+\setbox0 = \hbox{ $#1\oldsqrt{ #2\, } $ } \dimen0 = \ht0 
+\advance\dimen0 - 0.2\ht0 
+\setbox2 = \hbox{ \vrule 
+\ht0 
+\dimen0 } % 
+\box0\lower0.4pt\box2 }  } 
+\sqrt 
+\oldsqrt, 
+\sqrt 
+\sqrt[ b]{ a } 
+\usepackage{ letltxmacro } 
+\makeatletter 
+\let\oldr@@t\r@@t 
+\def\r@@t#1#2{ % 
+\setbox0 = \hbox{ $\oldr@@t#1{ #2\, } $ } \dimen0 = \ht0 
+\advance\dimen0 - 0.2\ht0 
+\setbox2 = \hbox{ \vrule 
+\ht0 
+\dimen0 } % 
+\box0\lower0.4pt\box2 }  } 
+\LetLtxMacro{ \oldsqrt } { \sqrt } 
+\renewcommand*{ \sqrt } [ 2][ \ 
+\oldsqrt[ #1]{ #2 } 
+\makeatother 
+\sqrt[ a]{ b } 
+\quad 
+\oldsqrt[ a]{ b } $ 
+\usepackage{ letltxmacro } 
+\sum 
+\int 
+\sum_{ i = 1 } ^ { 10 } 
+\displaystyle\sum_{ i = 1 } ^ { 10 } 
+\mathrm{ } 
+\, 
+\int_0 ^ \infty 
+\mathrm{ e } ^ { - x } \,\mathrm{ d } x 
+\sum 
+\bigoplus 
+\bigcup 
+\bigsqcup 
+\int 
+\iiint18 
+\sum_{ \substack{ 
+\\ 
+\int\limits_a ^ b 
+\prod 
+\bigotimes 
+\bigcap 
+\bigvee 
+\oint 
+\iiiint19 
+\coprod 
+\bigodot 
+\biguplus 
+\bigwedge 
+\iint17 
+\idotsint20 
+\substack 
+\\ 
+\limits 
+\usepackage[ intlimits]{ amsmath } 
+\{ 
+\ } , 
+\langle 
+\rangle, 
+\lfloor 
+\rfloor, 
+\lceil 
+\rceil, 
+\ulcorner 
+\urcorner 
+\ 
+\, 
+\lbrack 
+\rbrack 
+\left, 
+\right, 
+\middle 
+\left(\frac{ x ^ 2 } { y ^ 3 } \right) 
+\left(A = 2\middle\frac{ A ^ 2 } { B } >4\right) 
+\left\{ 
+\right\ } , 
+\left\{ \frac{ x ^ 2 } { y ^ 3 } \right\ } 
+\left.\frac{ x ^ 3 } { 3 } \right_0 ^ 1 
+\left 
+\right 
+\big, 
+\Big, 
+\bigg 
+\Bigg 
+\big( 
+\Big( 
+\bigg( 
+\Bigg( 
+\frac{ \mathrm 
+\mathrm 
+\left( 
+\right) 
+\left 
+\right 
+\frac{ \mathrm 
+\mathrm 
+\big( 
+\big) 
+\left. 
+\right. 
+\underbrace 
+\in 
+\in 
+\in 
+\\) 
+\begin{ matrix } 
+\\ 
+\\ 
+\end{ matrix } 
+\begin{ matrix } 
+\\ 
+\end{ matrix } 
+\begin{ matrix* } [ r] 
+\\ 
+\end{ matrix* } 
+\left 
+\right 
+\cdots, 
+\vdots 
+\ddots 
+\begin{ array } { cc } 
+\\ 
+\hline 
+\end{ array } 
+\begin{ pmatrix } 
+\cdots 
+\\ 
+\cdots 
+\\ 
+\vdots 
+\vdots 
+\ddots 
+\vdots 
+\\ 
+\cdots 
+\end{ pmatrix } 
+\\ 
+\begin{ bmatrix } 
+\frac{ 5 } { 6 } 
+\frac{ 1 } { 6 } 
+\frac{ 5 } { 6 } 
+\frac{ 5 } { 6 } 
+\frac{ 1 } { 6 } 
+\\[ 0.3em] 
+\frac{ 1 } { 6 } 
+\\[ 0.3em] 
+\end{ bmatrix } 
+\border - 
+\bordermatrix{ ~ 
+\cr 
+\cr 
+\cr } 
+\bigl(\begin{ smallmatrix } 
+\\ 
+\end{ smallmatrix } 
+\bigr)$ 
+\times 
+\text{ ... } 
+\mbox{ ... } , 
+\text{ apples } 
+\times 
+\text{ apples } 
+\text{ lots 
+\text 
+\text{ 
+\times 
+\text{ 
+\text{ lots 
+\text 
+\textrm, 
+\textit, 
+\textbf, 
+\textbf{ bold 
+\text. 
+\textrm{ 
+\times 
+\textbf{ 
+\textit{ lots 
+\mathnormal{ } 
+\mathrm{ } 
+\mathit{ } 
+\mathnormal, 
+\mathbf{ } 
+\mathsf{ } 
+\mathtt{ } 
+\mathfrak{ } 
+\mathcal{ } 
+\mathbb{ } 
+\mathscr{ } 
+\boldsymbol 
+\pmb 
+\boldsymbol{ \beta } 
+\beta_1,\beta_2,\dotsc,\beta_n) 
+\bar{ a } 
+\acute{ a } 
+\ddot{ a } 
+\mathring{ a } 
+\overleftarrow{ AB } 
+\check{ a } 
+\vec{ a } 
+\ddddot{ a } 62 
+\widetilde{ AAA } 
+\stackrel\frown{ AAA } 
+\underline{ a } 
+\prime } 
+\hat{ a } 
+\grave{ a } 
+\dot{ a } 
+\not{ a } 
+\overrightarrow{ AB } 
+\overline{ aaa } 
+\breve{ a } 
+\dddot{ a } 61 
+\widehat{ AAA } 
+\widehat{ AAA } 
+\tilde{ a } 
+\color{ red } x } 
+\mathbin{ \color{ blue } - } 
+\mathbin 
+\pm 
+\mp 
+\[ 
+\begin{ cases } 
+\end{ cases } 
+\] 
+\quad 
+\text{ if 
+\text{ 
+\\ 
+\quad 
+\text{ if 
+\text{ 
+\\ 
+\mathrm 
+\text. 
+\quad 
+\qquad 
+\quad 
+\quad 
+\qquad 
+\quads 
+\int 
+\mathrm{ d } x 
+\quad 
+\, 
+\: 
+\; 
+\! 
+\int 
+\, 
+\mathrm{ d } x 
+\int 
+\: 
+\mathrm{ d } x 
+\int 
+\; 
+\mathrm{ d } x 
+\left( 
+\begin{ array } { c } 
+\\ 
+\end{ array } 
+\right) 
+\frac{ n! } { r!(n - r)! } 
+\left(\! 
+\begin{ array } { c } 
+\\ 
+\end{ array } 
+\!\right) 
+\frac{ n! } { r!(n - r)! } 
+\int 
+\, 
+\mathrm{ d } 
+\newcommand{ \dd } { \mathop{ } \,\mathrm{ d }  } 
+\dd 
+\int 
+\dd 
+\dd 
+\textstyle. 
+\textstyle 
+\begin{ equation } 
+\textstyle 
+\sum_k } 
+\end{ equation } 
+\newcommand{ \tsum } [ 1] } 
+\tsum 
+\displaystyle 
+\usepackage{ amsmath } 
+\dots 
+\ldots. 
+\dots 
+\ldots) 
+\cdots). 
+\dots 
+\ldots 
+\cdots 
+\vdots 
+\ddots 
+\iddots 
+\hdotsfor{ n } 
+\cdot, 
+\ldots 
+\cdots, 
+\dotsc, 
+\dotsb + A_N 
+\dotsm 
+\int_a ^ b 
+\dotsi 
+\dotso 
+\TeX\ 
+\leq 
+\ll 
+\subset 
+\subseteq 
+\nsub - 
+\sqsubset 
+\sqsub - 
+\preceq 
+\pm 
+\mp 
+\times 
+\div 
+\ast 
+\star 
+\dagger 
+\ddagger 
+\exists 
+\nexists 
+\forall 
+\neg 
+\subset 
+\supset 
+\in 
+\notin 
+\ni 
+\land 
+\lor 
+\geq 
+\gg 
+\supset 
+\supseteq 
+\nsupseteq 
+\sqsupset 
+\sqsupseteq 
+\succeq 
+\doteq 
+\equiv 
+\approx 
+\cong 
+\simeq 
+\sim 
+\propto 
+\neq 
+\parallel 
+\asymp 
+\vdash 
+\in 
+\smile 
+\models 
+\perp 
+\prec 
+\spheri - 
+\nparal - 
+\bowtie 
+\dashv 
+\ni 
+\frown 
+\notin 
+\mid 
+\succ 
+\mea - 
+\cap 
+\cup 
+\uplus 
+\sqcap 
+\sqcup 
+\vee 
+\wedge 
+\cdot 
+\diamond 
+\bigtri - 
+\bigtri - 
+\trian - 
+\triang - 
+\bigcirc 
+\bullet 
+\wr 
+\ 
+\oplus 
+\ominus 
+\otimes 
+\oslash 
+\odot 
+\circ 
+\setminus 
+\amalg 
+\rightarrow 
+\to 
+\leftarrow 
+\gets 
+\mapsto 
+\implies 
+\Rightarrow 
+\implies 
+\leftrightarrow 
+\iff 
+\Leftrightarrow 
+\top 
+\bot 
+\emptyset 
+\varnothing 
+\mid 
+\{ 
+\uparrow 
+\downar - 
+\| 
+\ } 
+\Uparrow 
+\Downar - 
+\langle 
+\lceil 
+\lfloor 
+\ 
+\back - 
+\rangle 
+\rceil 
+\rfloor 
+\alpha 
+\beta 
+\Gamma 
+\gamma 
+\Delta 
+\delta 
+\epsilon 
+\varepsilon 
+\nu 
+\Xi 
+\xi 
+\Pi, 
+\pi 
+\varpi 
+\rho 
+\varrho 
+\Sigma, 
+\sigma 
+\varsigma 
+\tau 
+\Upsilon 
+\upsilon 
+\Phi, 
+\phi 
+\varphi 
+\chi 
+\Psi 
+\psi 
+\Omega 
+\omega 
+\aleph 
+\beth 
+\gimel 
+\nabla 
+\Box 
+\infty 
+\sec 
+\csc 
+\zeta 
+\eta 
+\Theta, 
+\theta 
+\vartheta 
+\iota 
+\kappa 
+\varkappa 
+\Lambda 
+\lambda 
+\mu 
+\par - 
+\eth 
+\hbar 
+\imath 
+\jmath 
+\ell 
+\Re 
+\Im 
+\wp 
+\sin 
+\cos 
+\tan 
+\cot 
+\arcsin 
+\arccos 
+\arctan 
+\arccot 
+\sinh 
+\cosh 
+\tanh 
+\coth 
+\cis 
+\DeclareMathOperator\cis{ cis } 
+\cis 
+\cos 
+\begin{ equation } 
+\end{ equation } 
+\label 
+\ref 
+\eqref 
+\ref 
+\eqref 
+\begin{ equation } 
+\label{ eq:someequation } 
+\end{ equation } 
+\ref{ eq:someequation } . 
+\begin{ equation } 
+\label{ eq:erl } 
+\end{ equation } 
+\eqref{ eq:erl } 
+\neq 
+\numberwithin{ equation } { section } 
+\numberwithin{ equation } { subsection } 
+\documentclass[ 12pt]{ article } 
+\usepackage{ amsmath } 
+\numberwithin{ equation } { subsection } 
+\begin{ document } 
+\section{ First 
+\subsection{ A 
+\begin{ equation } 
+\sqrt{ 1 - \frac{ v ^ 2 } { c ^ 2 } <! -  - 
+\end{ equation } 
+\end{ document } 
+\numberwithin{ equation } { subsection } 
+\number - 
+\renewcommand{ \theequation } { \thesection\arabic{ equation }  } 
+\numberwithin{ equation } { subsection } , 
+\renewcommand{ \theequation } { \thesubsection\arabic{ equation }  } 
+\renewcommand 
+\numberwithin. 
+\begin{ subequations } 
+\begin{ align } 
+\end{ align } 
+\end{ subequations } 
+\nabla 
+\times 
+\\ 
+\nabla 
+\times 
+\pi 
+\begin{ subequations } 
+\\ 
+\overset 
+\underset 
+\overset 
+\stackrel. 
+\[ 
+\overset{ ! } { = } 
+\stackrel{ ! } { = } 
+\] 
+\[ 
+\lim_{ x\to 
+\frac{ e ^ x - 1 } { 2x } <! -  - 
+\overset{ \left[ \frac{ 0 } { 0 } \right] } { \underset{ \mathrm{ H } <! -  - 
+\lim_{ x\to 
+\frac{ e ^ x } { 2 } <! -  - 
+\frac{ 1 } { 2 } <! -  - 
+\] 
+\newcommand{ \Heq } [ 1]{ \overset{ \left[ #1\right] } { \underset{ \mathrm{ H }  } { = }  }  } 
+\[ 
+\lim_{ x\to 
+\frac{ e ^ x - 1 } { 2x }  } 
+\Heq{ \frac{ 0 } { 0 }  } 
+\lim_{ x\to 
+\frac{ e ^ x } { 2 }  } = { \frac{ 1 } { 2 }  } 
+\] 
+\overbrace 
+\underbrace 
+\vphantom 
+\[ 
+\overbrace{ 
+\underbrace{ x } _\text{ real } 
+\underbrace{ y } _\text{ imaginary } 
+\text{ complex 
+\] 
+\mathclap 
+\[ 
+\underbrace{ b 
+\underbrace{ b 
+\ge 
+\text{ 
+\mathclap{ \ge 
+\text{ 
+\underbracket 
+\overbracket 
+\[ 
+\overbracket[ 3pt]{ 
+\underbracket{ x } _{ \text{ real } <! -  -  -  - > } 
+\underbracket[ 0.5pt][ 7pt]{ iy } _{ \text{ imaginary } <! -  -  -  - > } 
+\text{ complex 
+\] 
+\] 
+\underbracket[ rule 
+\xleftarrow 
+\xrightarrow 
+\[ 
+\xleftarrow{ \text{ this 
+\xrightarrow[ \text{ or 
+\] 
+\[ 
+\xleftrightarrow[ under]{ over } 
+\\ 
+\xLeftarrow[ under]{ over } 
+\\ 
+\xRightarrow[ under]{ over } 
+\\ 
+\xLeftrightarrow[ under]{ over } 
+\\ 
+\xhookleftarrow[ under]{ over } 
+\\ 
+\xhookrightarrow[ under]{ over } 
+\\ 
+\xmapsto[ under]{ over } 
+\\ 
+\] 
+\[ 
+\xrightharpoondown[ under]{ over } 
+\\ 
+\xrightharpoonup[ under]{ over } 
+\\ 
+\xleftharpoondown[ under]{ over } 
+\\ 
+\xleftharpoonup[ under]{ over } 
+\\ 
+\xrightleftharpoons[ under]{ over } 
+\\ 
+\xleftrightharpoons[ under]{ over } 
+\] 
+\\ 
+\begin{ align* } 
+\\ 
+\end{ align* } 
+\tag{ ... } 
+\label{ ... } 
+\nonumber 
+\notag 
+\begin{ align } 
+\nonumber 
+\\ 
+\qquad 
+\end{ align } 
+\begin{ align* } 
+\end{ align* } 
+\\ 
+\[ f(x) 
+\left\{ 
+\begin{ array } { lr } 
+\\ 
+\ge 
+\end{ array } 
+\right. 
+\] 
+\begin{ align } 
+\pi 
+\left\{ 
+\right.\nonumber\\ 
+\qquad 
+\left. 
+\right\ } 
+\end{ align } 
+\left\{ 
+\right\ } . 
+\right. 
+\left. 
+\left 
+\right 
+\big, 
+\Big, 
+\bigg, 
+\Bigg 
+\vphantom 
+\right.\nonumber\\ 
+\qquad 
+\left.\vphantom{ \int_t } 
+\dots 
+\right) 
+\left(\int_t 
+\begin{ align } 
+\end{ align } 
+\left\{ 
+\right. 
+\[ 
+\begin{ cases } 
+\exp{ x } 
+\text{ if 
+\geq 
+\\ 
+\end{ cases } 
+\text{ if 
+\] 
+\begin{ dcases } 
+\int 
+\, 
+\mathrm{ d } 
+\\ 
+\end{ dcases } 
+\[ 
+\] 
+\[ 
+\begin{ dcases* } 
+\\ 
+\end{ dcases* } 
+\] 
+\begin{ equation } 
+\left.\begin{ aligned } 
+\partial 
+\times 
+\\ 
+\partial 
+\times 
+\pi 
+\end{ aligned } 
+\right\ } 
+\qquad 
+\text{ Maxwell's 
+\end{ equation } 
+\begin{ alignat } { 2 } 
+\sigma_1 
+\sigma_1' 
+\frac{ \partial 
+\partial 
+\sigma_2' 
+\quad 
+\sigma_2 
+\frac{ x } { y } 
+\\ 
+\frac{ \partial 
+\frac{ x } { y } <! -  -  -  - > } { \partial 
+\end{ alignat } 
+\begin{ gather* } 
+\frac{ 1 } { \pi } \int\limits_{ - \pi } ^ { \pi } f(x)\,\mathrm{ d } x\\[ 6pt] 
+\begin{ split } 
+\frac{ 1 } { \pi } \int\limits_{ - \pi } ^ { \pi } f(x)\cos 
+\,\mathrm{ d } x = \\ 
+\frac{ 1 } { \pi } \int\limits_{ - \pi } ^ { \pi } x ^ 2\cos 
+\,\mathrm{ d } x 
+\end{ split } \\[ 6pt] 
+\begin{ split } 
+\frac{ 1 } { \pi } \int\limits_{ - \pi } ^ { \pi } f(x)\sin 
+\,\mathrm{ d } x = \\ 
+\frac{ 1 } { \pi } \int\limits_{ - \pi } ^ { \pi } x ^ 2\sin 
+\,\mathrm{ d } x 
+\end{ split } \\[ 6pt] 
+\end{ gather* } 
+\mathindent 
+\documentclass[ a4paper,fleqn]{ report } 
+\usepackage{ amsmath } 
+\setlength{ \mathindent } { 1cm } 
+\begin{ document } 
+\noindent 
+\begin{ equation* } 
+\cos{ x } 
+\sin{ x } . 
+\end{ equation* } 
+\noindent 
+\end{ document } 
+\displaybreak 
+\pagebreak, 
+\displaybreak 
+\al - 
+\\*. 
+\intertext{ } 
+\begin{ align* } 
+\vdots\\ 
+\int_0 ^ 2 
+\left( 
+\frac{ 1 } { 4 } \left(e ^ { - 4t_1 } + e ^ { 4t_1 - 8 } \right) 
+\right)\,dt_1\displaybreak[ 3]\\ 
+\frac{ 7 } { 4 } \int_0 ^ 2 
+\left( 
+\right)\,dt_1\\ 
+\vdots 
+\end{ align* } 
+\predis - 
+\predisplaypenalty = 0 
+\boxed{ } : 
+\begin{ equation } 
+\boxed{ x ^ 2 + y ^ 2 
+\end{ equation } 
+\fbox{ } : 
+\fbox{ 
+\addtolength{ \linewidth } { - 2\fboxsep } % 
+\addtolength{ \linewidth } { - 2\fboxrule } % 
+\begin{ minipage } { \linewidth } 
+\begin{ equation } 
+\end{ equation } 
+\end{ minipage } 
+\Aboxed{ } 
+\begin{ align* } 
+\Aboxed{ 
+\int 
+\, 
+\\ 
+\end{ align* } 
+\operatorname 
+\opera - 
+\lim 
+\[ 
+\operatorname{ arg\,max } _a 
+\operatorname*{ arg\,max } _b 
+\] 
+\DeclareMathOperator 
+\Declare - 
+\DeclareMathOperator*{ \argmax } { arg\,max } 
+\[ 
+\argmax_c 
+\] 
+\begin{ equation } 
+\end{ equation } 
+\lim_{ a\to 
+\infty } 
+\tfrac{ 1 } { a } 
+\nolimits 
+\lim\nolimits_{ a\to 
+\infty } 
+\tfrac{ 1 } { a } 
+\begin{ equation } 
+\end{ equation } 
+\begin{ equation } 
+\int_a ^ b 
+\end{ equation } 
+\mathrm{ d } 
+\begin{ equation } 
+\end{ equation } 
+\int\limits_a ^ b 
+\mathrm{ d } 
+\limits 
+\underset 
+\begin{ equation } 
+\end{ equation } 
+\lim_{ a 
+\underset{ > } { \to } 
+\frac{ 1 } { a } 
+\no - 
+\begin{ equation } 
+\sum\nolimits' 
+\end{ equation } 
+\begin{ equation } 
+\sum_{ n = 1 } \nolimits' 
+\end{ equation } 
+\begin{ equation } 
+\sideset{ } { ' } \sum_{ n = 1 } C_n 
+\end{ equation } 
+\sideset 
+\begin{ equation } 
+\sideset{ _a ^ b } { _c ^ d } \sum 
+\end{ equation } 
+\begin{ equation } 
+\sum\limits_{ n = 1 } 
+\end{ equation } 
+\fourIdx 
+\substack 
+\begin{ equation } 
+\prod_{ \substack{ 
+\end{ equation } 
+\le 
+\le 
+\\ 
+\le 
+\le 
+\intertext 
+\begin{ minipage } { 3in } 
+\begin{ align* } 
+\intertext{ If } 
+\sigma_1 + \sigma_2\\ 
+\rho_1 + \rho_2\\ 
+\intertext{ then } 
+\pi } + B 
+\end{ align* } 
+\end{ minipage } 
+\shortintertext{ } 
+\displaystyle 
+\textstyle 
+\scriptstyle 
+\scriptscriptstyle 
+\cfrac 
+\begin{ equation } 
+\end{ equation } 
+\frac{ 1 } { a_1 
+\frac{ 1 } { a_2 
+\frac{ 1 } { a_3 
+\scriptstyle 
+\begin{ equation } 
+\end{ equation } 
+\frac{ 1 } { \displaystyle 
+\frac{ 1 } { \displaystyle 
+\frac{ 1 } { \displaystyle 
+\DeclareMathSizes 
+\displaystyle, 
+\textstyle, 
+\DeclareMathSizes{ ds } { ts } { ss } { sss } , 
+\DeclareMathSizes{ 10 } { 18 } { 12 } { 8 } 
+\DeclareMathSizes{ 11 } { 19 } { 13 } { 9 } 
+\DeclareMathSizes{ 12 } { 20 } { 14 } { 10 } 
+\displaystyle 
+\displaystyle 
+\everymath{ \displaystyle } 
+\begin{ document } 
+\displaystyle 
+\abovedisplayskip = 12pt 
+\belowdisplayskip = 12pt 
+\abovedisplayshortskip = 0pt 
+\belowdisplayshortskip = 7pt 
+\begin{ document } 
+$(u, v)$
+$(u, \infty)$
+$a$
+$a$
+$\infty$
+$\lim_{ x \to \infty } f(x)$
+$a$
+$\lim_{ x \to a } f(x)$
+$\sqrt{ 5 } $
+$(u, v)$
+$(u, \infty)$
+$(u, v)$
+$a$
+$a$
+$\infty$
+$\lim_{ x \to \infty } f(x)$
+$\lim_{ x \to \infty f(x)$
+$a$
+$a + b$
+$a - b$
+$ - a$
+$a / b$
+$a b$
+$a \times b$
+$a \cdot b$
+$a_{ 1 } $
+$a_{ 10 } $
+$a_10$
+$a_{ i_{ 1 }  } $
+$a ^ { 2 } $
+$a ^ { i_{ 1 }  } $
+$\bar{ a } $
+$\hat{ a } $
+$\tilde{ a } $
+$\vec{ a } $
+$\binom{ a } { b + c } $
+$a \equiv v \pmod{ \theta } $
+$a \equiv v \pod{ \theta } $
+$(a + b) ^ { 2 } $
+$\sin x$
+$sin x$
+$F(x_{ 1 } , x_{ 2 } , \ldots , x_{ n } )$
+$x_{ 1 } + x_{ 2 } + \cdots + x_{ n } $
+$\int_{ 0 } ^ { \pi } \sin x \, dx = 2$
+$\sqrt{ 5 } $
+$\sqrt{ a + 2b } $
+$\sqrt[ n]{ 5 } $
+$a ^ { \text{ power }  } $
+$\left[ \frac{ n } { 2 } \right]$
+$\mu(i) ^ { \frac{ 3 } { 2 }  } (i ^ { 2 } - 1)$
+$\sqrt{ \mu(i) ^ { \frac{ 3 } { 2 }  } (i ^ { 2 } - 1) } $
+$\sqrt[ 3]{ \rho(i) - 1 } $
+$\sqrt[ 3]{ \rho(i) - 2 } $
+$x < 0$
+$0 \leq x \leq 1$
+$K$
+$\Pi ^ { * } $
+$D_{ i } $
+$i \in I$
+$\Pi ^ { * } $
+$\Pi ^ { * } ( D_{ i } \mid i \in I )$
+$\Pi ( D_{ i } ^ { - } \mid i \in I )$
+$i \in I$
+$d \in D_{ i } ^ { - } $
+$\Pi ^ { * } ( D_{ i } \mid i \in I )$
+$i$
+$d$
+$0$
+$D_{ i } $
+$i \in I$
+$\Theta$
+$\Pi ^ { * } ( D_{ i } \mid i \in I )$
+$i \in I$
+$d \in D_{ i } $
+$d < 1_{ i } $
+$d \leq c < 1_{ i } $
+$\Theta = \iota$
+$\Theta$
+$j \in I$
+$j \neq i$
+$a \in D_{ j } ^ { - } $
+$\Theta$
+$\Theta = \iota$
+$\Theta$
+$\Teta$
+$D_{ i } $
+$i \in I$
+$\Pi ^ { * } ( D_{ i } \mid i \in I )$
+$i \in I$
+$d \in D_{ i } $
+$d < 1_{ i } $
+$d \leq c < 1_{ i } $
+$\Theta$
+$\Theta = \iota$
+$|$
+$\backslash$
+$*$
+\begin{ equation } \label{ E:firstInt } + \int_{ 0 } ^ { \pi } \sin x \, dx = 2 + \end{ equation } 
+\begin{ equation } + \int_{ 0 } ^ { \pi } \sin x \, dx = 2 \tag{ Int } + \end{ equation } 
+\begin{ equation } \label{ E:cong1 } + \langle \dots, 0, \dots,\overset{ i } { d } , \dots, 0, \dots \rangle \equiv \langle \dots, 0, \dots, \overset{ i } { c } , \dots, 0, \dots \rangle \pmod{ \Theta } , + \end{ equation } 
+\begin{ equation } \label{ E:cong2 } + \langle \dots, 0, \dots, \overset{ i } { d } , \dots, 0, + \dots \rangle \equiv \langle \dots, 0, \dots, \overset{ i } { c } , \dots, 0, \dots \rangle \pmod{ \Theta } , + \end{ equation } 
+\begin{ equation } \label{ E:cong1 } + Let $\Theta$ + \langle \dots, 0, \dots,\overset{ i } { d } , \dots, 0, \dots \rangle \equiv \langle \dots, 0, \dots, \overset{ i } { c } , \dots, 0, \dots \rangle \pmod{ \Theta } , + \end{ equation } 
+\begin{ equation } + \langle \dots, 0, \dots, \overset{ i } { d } , \dots, 0, + \dots \rangle \equiv \langle \dots, 0, \dots, \overset{ i } { c } , \dots, 0, \dots \rangle \pmod{ \Theta } , + \end{ equation } 
+\begin{ equation } + \con \vct{ i } { d } = \vct{ i } { c } (\gQ), + \end{ equation } 
+\[ + \lim_{ x \to a } \frac{ f(x) - f(a) } { x - a } , + \]
+\[ and close with \]
+\[ + \]
+\[ + \frac{ 3 + x } { 5 } + \]
+\[ + \lim_{ x \to a } \frac{ f(x) - f(a) } { x - a } %\lim_{ x \to a } \frac{ f(x) - f(a) x - a } + \]
+\[ + \frac{ 1 + 2x } { x + y + xy } + \]
+\[ + \]
+\[ + \]
+\[ + \left| \frac{ a + b } { 2 } \right|, + \quad \left\| A ^ { 2 } \right\| + \]
+\[ + \]
+\[ + \]
+\[ + \]
+\[ + \sum_{ i = 1 } ^ { n } x_{ i } ^ { 2 } \qquad \prod_{ i = 1 } ^ { n } x_{ i } ^ { 2 } + \]
+\[ + a = b \mbox{ \qquad by assumption } + \]
+\[ + a = b \qquad \mbox{ by assumption } + \]
+\[ + \]
+\[ + x_{ i, i + 1 } ^ { i ^ { 2 }  } \qquad \left[ \frac{ i + 3 } { 3 } \right] + \]
+\[ + \binom{ x_{ i,i + 1 } ^ { i ^ { 2 }  }  } { \left[ \frac{ i + 3 } { 3 } \right] } + \]
+\[ + \]
+\[ + \]
+\[ \sum_{ i = 1 } ^ { \left[ \frac{ n } { 2 } \right] } \binom{ x_{ i,i + 1 } ^ { i ^ { 2 }  }  } { \left[ \frac{ i + 3 } { 3 } \right] } \frac{ \sqrt{ \mu(i) ^ { \frac{ 3 } { 2 }  } (i ^ { 2 } - 1) }  } { \sqrt[ 3]{ \rho(i) - 2 } + \sqrt[ 3]{ \rho(i) - 1 }  } \]
+\[ \sum_{ i = 1 } ^ { \left[ \frac{ n } { 2 } \right] } \binom{ x_{ i,i + 1 } ^ { i ^ { 2 }  }  } { \left[ \frac{ i + 3 } { 3 } \right] } \frac{ \sqrt{ \mu(i) ^ { \frac{ 3 } { 2 }  }  } (i ^ { 2 } - 1) }  } { \sqrt[ 3]{ \rho(i) - 2 } + \sqrt[ 3]{ \rho(i) - 1 }  } \]
+\[ + \]
+\[ + \left| \bigcup (\, I_{ j } \mid j \in J \,) \right| + < \mathfrak{ m } + \]
+\[ + \]
+\[ + \]
+\[ + \Gamma_{ u' } = \{ \, \gamma \mid \gamma < 2\chi, + \ B_{ \alpha } \nsubseteq u', \ B_{ \gamma } \subseteq u' \,\ } + \]
+\[ + A = B ^ { 2 } \times \mathbb{ Z } + \]
+\[ + \left( \bigvee (\, s_{ i } \mid i \in I \,) \right) ^ { c } = + \bigwedge (\, s_{ i } ^ { c } \mid i \in I \,) + \]
+\[ + \]
+\[ + f(\mathbf{ x } ) = \bigvee\nolimits_{ \!\mathfrak{ m }  } + \left(\, + \bigwedge\nolimits_{ \mathfrak{ m }  } (\, x_{ j } \mid j \in I_{ i } \,) \mid i < \aleph_{ \alpha } + \,\right) + \]
+\[ + \]
+\[ + \underset{ \alpha } { + } v \overset{ 1 } { \thicksim } w + \overset{ 2 } { \thicksim } z + \]
+\[ + f(x) \overset{ \text{ def }  } { = } x ^ { 2 } - 1 + \]
+\[ + \]
+\[ + \]
+\[ + \begin{ vmatrix } + a + b + c & uv\\ a + b & c + d + \end{ vmatrix } = 7 + \begin{ Vmatrix } + a + b + c & uv\\ a + b & c + d + \end{ Vmatrix } = 7 + \]
+\[ + \sum_{ j \in \mathbf{ N }  } b_{ ij } \hat{ y } _{ j } = \sum_{ j \in \mathbf{ N }  } b ^ { (\lambda) } _{ ij } \hat{ y } _{ j } + (b_{ ii } - \lambda_{ i } ) \hat{ y } _{ i } \hat{ y } + \]
+\[ + \]
+\[ + \biggl( \prod ^ n_{ \, j = 1 } \hat x_{ j } \biggr) H_{ c } = + \frac{ 1 } { 2 } \hat{ k } _{ ij } \det \widehat{ \mathbf{ K }  } (i|i) + \]
+\[ + \]
+\[ + \lim_{ (v, v') \to (0, 0) } + \frac{ H(z + v) - H(z + v') - BH(z)(v - v') } + { \| v - v' \| } = 0 + \]
+\[ + \int_{ \mathcal{ D }  } | \overline{ \partial u } | ^ { 2 } + \Phi_{ 0 } (z) e ^ { \alpha |z| ^ 2 } \geq c_{ 4 } \alpha \int_{ \mathcal{ D }  } |u| ^ { 2 } \Phi_{ 0 } e ^ { \alpha |z| ^ { 2 }  } + c_{ 5 } \delta ^ { - 2 } \int_{ A } |u| ^ { 2 } \Phi_{ 0 } e ^ { \alpha |z| ^ { 2 }  } + \]
+\[ \mathbf{ A } = \begin{ pmatrix } \dfrac{ \varphi \cdot X_{ n, 1 }  } + { \varphi_{ 1 } \times \varepsilon_{ 1 }  } + & (x + \varepsilon_{ 2 } ) ^ { 2 } & \cdots & (x + \varepsilon_{ n - 1 } ) ^ { n - 1 } & (x + \varepsilon_{ n } ) ^ { n } \\ \dfrac{ \varphi \cdot X_{ n, 1 }  } + { \varphi_{ 2 } \times \varepsilon_{ 1 }  } + & \dfrac{ \varphi \cdot X_{ n, 2 }  } + { \varphi_{ 2 } \times \varepsilon_{ 2 }  } & \cdots & (x + \varepsilon_{ n - 1 } ) ^ { n - 1 } & (x + \varepsilon_{ n } ) ^ { n } \\ \hdotsfor{ 5 } \\ \dfrac{ \varphi \cdot X_{ n, 1 }  } + { \varphi_{ n } \times \varepsilon_{ 1 }  } + & \dfrac{ \varphi \cdot X_{ n, 2 }  } + { \varphi_{ n } \times \varepsilon_{ 2 }  } + & \cdots & \dfrac{ \varphi \cdot X_{ n, n - 1 }  } + { \varphi_{ n } \times \varepsilon_{ n - 1 }  } + & \dfrac{ \varphi\cdot X_{ n, n }  } + { \varphi_{ n } \times \varepsilon_{ n }  } + \end{ pmatrix } +  + \mathbf{ I } _{ n } + \]
+\[ + \]
+\[ + \Pi ^ { * } ( D_{ i } \mid i \in I ) = + \Pi ( D_{ i } ^ { - } \mid i \in I ) + 1; + \]
+\[ + \langle \dots, 0, \dots, \overset{ i } { d } , \dots, 0, + \dots \rangle + \]
+\[ \equiv \bigvee ( \langle \dots, 0, \dots, \overset{ j } { a } , \dots, 0,\dots\rangle \mid a \in D_{ j } ^ { - } ) = 1 \pmod{ \Theta } , + \]
+begin{ align } + r ^ { 2 } & = s ^ { 2 } + t ^ { 2 } 2u + 1 & = v + w ^ { \alpha } x + & = \frac{ y + z } { \sqrt{ s + 2u }  } + \label{ E:eqn1 } \\ \label{ E:eqn2 } \\ \label{ E:eqn3 } + \end{ align } 
+begin{ align } \label{ E:longInt } + h(x) & = \int + \left( + \frac{ f(x) + g(x) } { 1 + f ^ { 2 } (x) } +  + \frac{ 1 + f(x)g(x) } + { \sqrt{ 1 - \sin x }  } + \right) \, dx\\ + & = \int \frac{ 1 + f(x) } { 1 + g(x) } + \, dx - 2 \tan ^ { - 1 } (x - 2) \notag + \end{ align } 
+begin{ align } \label{ E:DoAlign } + x & = x \wedge (y \vee z) + & = (x \wedge y) \vee (x \wedge z) + &  & \text{ (by distributivity) } \\ + &  & \text{ (by condition (M)) } \notag\\ + & = y \vee z. \notag + \end{ align } 
+begin{ align } \label{ E:cong } + & \langle \dots, \overset{ i } { d } , \dots, 0, + \dots \rangle \equiv\\ + & \qquad \qquad \quad \bigvee ( \langle \dots, 0, \dots, \overset{ i } { c } , \dots, 0, \dots \rangle \mid d \leq c < 1 ) \equiv 1 \pmod{ \Theta } . \notag + \end{ align } 
+begin{ align } \label{ E:comp } + 0 = & \langle \dots, 0, \dots, \overset{ i } { d } , \dots, 0, \dots + \rangle \wedge \langle \dots, 0, \dots, \overset{ j } { a } , \dots, 0, \dots \rangle \equiv\\ + & \langle \dots, 0, \dots, \overset{ j } { a } , \dots, 0, \dots + \rangle \pmod{ \Theta } , \notag + \end{ align } 
+\aleph 
+\beth 
+\daleth 
+\aleph 
+\gimel 
+\alpha 
+\digamma 
+\varepsilon 
+\theta 
+\kappa 
+\mu 
+\pi 
+\varrho 
+\tau 
+\varphi 
+\beta 
+\delta 
+\zeta 
+\vartheta 
+\varkappa 
+\nu 
+\varpi 
+\sigma 
+\upsilon 
+\chi 
+\gamma 
+\epsilon 
+\eta 
+\iota 
+\lambda 
+\xi 
+\rho 
+\varsigma 
+\phi 
+\psi 
+\omega 
+\digamma 
+\varkappa 
+\Gamma 
+\Delta 
+\Theta 
+\Lambda 
+\Xi 
+\Pi 
+\Sigma 
+\Upsilon 
+\Phi 
+\Psi 
+\varGamma 
+\varDelta 
+\varTheta 
+\varLambda 
+\varXi 
+\varPi 
+\varSigma 
+\varUpsilon 
+\varPhi 
+\varPsi 
+\Omega 
+\varOmega 
+\in 
+\ni 
+\leq 
+\ll 
+\prec 
+\preceq 
+\sim 
+\simeq 
+\equiv 
+\subset 
+\subseteq 
+\sqsubseteq 
+\smile 
+\perp 
+\mid 
+\vdash 
+\propto 
+\bowtie 
+\succeq 
+\approx 
+\cong 
+\succ 
+\doteq 
+\geq 
+\gg 
+\frown 
+\dashv 
+\asymp 
+\supset 
+\supseteq 
+\sqsupseteq 
+\models 
+\parallel 
+\sqsubset 
+\sqsupset 
+\Join 
+\leqslant 
+\eqslantless 
+\lesssim 
+\lessapprox 
+\approxeq 
+\lessdot 
+\lll 
+\lessgtr 
+\lesseqgtr 
+\lesseqqgtr 
+\doteqdot 
+\circeq 
+\risingdotseq 
+\backsim 
+\backsimeq 
+\preccurlyeq 
+\curlyeqprec 
+\precsim 
+\precapprox 
+\subseteqq 
+\Subset 
+\vartriangleleft 
+\trianglelefteq 
+\vDash 
+\Vvdash 
+\smallsmile 
+\shortmid 
+\bumpeq 
+\between 
+\varpropto 
+\blacktriangleleft 
+\geqslant 
+\eqslantgtr 
+\gtrsim 
+\gtrapprox 
+\gtrdot 
+\gtrless 
+\gtreqless 
+\gtreqqless 
+\eqcirc 
+\fallingdotseq 
+\triangleq 
+\thicksim 
+\thickapprox 
+\succcurlyeq 
+\curlyeqsucc 
+\succsim 
+\succapprox 
+\supseteqq 
+\Supset 
+\ggg 
+\vartriangleright 
+\trianglerighteq 
+\Vdash 
+\smallfrown 
+\shortparallel 
+\Bumpeq 
+\pitchfork 
+\backepsilon 
+\blacktriangleright 
+\therefore 
+\because 
+\ne 
+\nless 
+\nleq 
+\nleqslant 
+\nleqq 
+\lneq 
+\lneqq 
+\lvertneqq 
+\lnsim 
+\lnapprox 
+\nprec 
+\npreceq 
+\precneqq 
+\precnsim 
+\precnapprox 
+\nsim 
+\nshortmid 
+\nmid 
+\nvdash 
+\nVdash 
+\ntriangleleft 
+\ntrianglelefteq 
+\nsubseteq 
+\nsubseteqq 
+\subsetneq 
+\varsubsetneq 
+\subsetneqq 
+\notin 
+\ngtr 
+\ngeq 
+\ngeqslant 
+\ngeqq 
+\gneq 
+\gneqq 
+\gvertneqq 
+\gnsim 
+\gnapprox 
+\nsucc 
+\nsucceq 
+\succneqq 
+\succnsim 
+\succnapprox 
+\ncong 
+\nshortparallel 
+\nparallel 
+\nvDash 
+\nVDash 
+\ntriangleright 
+\ntrianglerighteq 
+\nsupseteq 
+\nsupseteqq 
+\supsetneq 
+\varsupsetneq 
+\supsetneqq 
+\varsubsetneqq 
+\varsupsetneqq 
+\ne 
+\mp 
+\cdot 
+\bigcirc 
+\diamond 
+\star 
+\cup 
+\sqcup 
+\vee 
+\triangleright 
+\bigtriangledown 
+\ominus 
+\oslash 
+\bullet 
+\ddagger 
+\uplus 
+\amalg 
+\rhd 
+\unrhd 
+\centerdot 
+\rtimes 
+\rightthreetimes 
+\smallsetminus 
+\doublebarwedge 
+\curlyvee 
+\intercal 
+\Cup 
+\circledcirc 
+\boxtimes 
+\boxplus 
+\pm 
+\times 
+\circ 
+\div 
+\ast 
+\cap 
+\sqcap 
+\wedge 
+\triangleleft 
+\bigtriangleup 
+\oplus 
+\otimes 
+\odot 
+\dagger 
+\ 
+\setminus 
+\wr 
+\dotplus 
+\ltimes 
+\leftthreetimes 
+\circleddash 
+\barwedge 
+\curlywedge 
+\veebar 
+\Cap 
+\circledast 
+\boxminus 
+\boxdot 
+\divideontimes 
+\lhd 
+\unlhd 
+\And 
+\And 
+\Longrightarrow 
+\longrightarrow 
+\downarrow 
+\Downarrow 
+\Updownarrow 
+\leftarrow 
+\longleftarrow 
+\Leftarrow 
+\Longleftarrow 
+\leftrightarrow 
+\Leftrightarrow 
+\uparrow 
+\Uparrow 
+\updownarrow 
+\nearrow 
+\swarrow 
+\mapsto 
+\hookleftarrow 
+\leftharpoonup 
+\leftharpoondown 
+\rightleftharpoons 
+\leadsto 
+\rightarrow 
+\to 
+\Rightarrow 
+\longleftrightarrow 
+\Longleftrightarrow 
+\searrow 
+\nwarrow 
+\longmapsto 
+\hookrightarrow 
+\rightharpoonup 
+\rightharpoondown 
+\rightrightarrows 
+\leftleftarrows 
+\rightleftarrows 
+\leftrightarrows 
+\Rrightarrow 
+\Lleftarrow 
+\twoheadrightarrow 
+\twoheadleftarrow 
+\rightarrowtail 
+\leftarrowtail 
+\looparrowright 
+\looparrowleft 
+\downdownarrows 
+\upuparrows 
+\upharpoonright 
+\upharpoonleft 
+\downharpoonright 
+\downharpoonleft 
+\leftrightsquigarrow 
+\rightsquigarrow 
+\multimap 
+\nrightarrow 
+\nRightarrow 
+\nLeftrightarrow 
+\nleftarrow 
+\nLeftarrow 
+\nleftrightarrow 
+\leadsto, 
+\ 
+\ell 
+\jmath 
+\Re 
+\partial 
+\hbar 
+\imath 
+\wp 
+\Im 
+\infty 
+\emptyset 
+\forall 
+\smallint 
+\surd 
+\top 
+\P 
+\dag 
+\flat 
+\sharp 
+\clubsuit 
+\heartsuit 
+\neg 
+\Box 
+\mho 
+\backslash 
+\exists 
+\triangle 
+\Vert 
+\bot 
+\S 
+\ddag 
+\natural 
+\angle 
+\diamondsuit 
+\spadesuit 
+\Diamond 
+\prime 
+\complement 
+\vartriangle 
+\varnothing 
+\diagdown 
+\blacktriangledown 
+\Game 
+\blacksquare 
+\blacklozenge 
+\sphericalangle 
+\bigstar 
+\eth 
+\hslash 
+\backprime 
+\Bbbk 
+\diagup 
+\blacktriangle 
+\triangledown 
+\square 
+\lozenge 
+\measuredangle 
+\circledS 
+\Finv 
+\nexists 
+\, 
+\: 
+\; 
+\thinspace 
+\medspace 
+\thickspace 
+\quad 
+\qquad 
+\! 
+\negthinspace 
+\negmedspace 
+\negthickspace 
+\medspace, 
+\thickspace, 
+\negmedspace, 
+\negthickspace 
+\{ 
+\backslash 
+\langle 
+\lfloor 
+\lceil 
+\ulcorner 
+\llcorner 
+\ 
+\uparrow 
+\updownarrow 
+\Updownarrow 
+\downarrow 
+\Downarrow 
+\Uparrow 
+\ } 
+\rangle 
+\| 
+\rfloor 
+\rceil 
+\urcorner 
+\lrcorner 
+\arccos 
+\arcsin 
+\arctan 
+\cos 
+\csc 
+\ker 
+\sec 
+\tanh 
+\cosh 
+\dim 
+\lg 
+\sin 
+\cot 
+\exp 
+\ln 
+\sinh 
+\arg 
+\coth 
+\hom 
+\log 
+\tan 
+\varliminf 
+\var 
+\varlimsup 
+\varinjlim 
+\varprojlim 
+\det 
+\gcd 
+\inf 
+\injlim 
+\lim 
+\liminf 
+\limsup 
+\max 
+\projlim 
+\min 
+\injlim 
+\projlim 
+\sup 
+\Pr 
+\prod_{ i = 1 } ^ { n } 
+\bigcap_{ i = 1 } ^ { n } 
+\bigwedge_{ i = 1 } ^ { n } 
+\bigotimes_{ i = 1 } ^ { n } 
+\bigsqcup_{ i = 1 } ^ { n } 
+\bigodot_{ i = 1 } ^ { n } 
+\coprod_{ i = 1 } ^ { n } 
+\bigvee_{ i = 1 } ^ { n } 
+\bigcup_{ i = 1 } ^ { n } 
+\biguplus_{ i = 1 } ^ { n } 
+\bigoplus_{ i = 1 } ^ { n } 
+\sum_{ i = 1 } ^ { n } 
+\sphat 
+\sptilde 
+\spbreve 
+\spcheck 
+\spdot 
+\spddot 
+\spdddot 
+\widehat{ a } 
+\widetilde{ a } 
+\Hat{ a } 
+\Tilde{ a } 
+\Acute{ a } 
+\Bar{ a } 
+\Breve{ a } 
+\Check{ a } 
+\Dot{ a } 
+\Ddot{ a } 
+\hat{ a } 
+\tilde{ a } 
+\acute{ a } 
+\bar{ a } 
+\breve{ a } 
+\check{ a } 
+\dot{ a } 
+\ddot{ a } 
+\dddot{ a } 
+\ddddot{ a } 
+\grave{ a } 
+\Grave{ a } 
+\imath 
+\Vec{ a } 
+\vec{ a } 
+\dddot 
+\ddddot 
+\jmath 
+\mathbf{ A } 
+\mathit{ A } 
+\mathsf{ A } 
+\mathrm{ A } 
+\mathtt{ A } 
+\mathnormal{ A } 
+\mathbb{ A } 
+\mathfrak{ A } 
+\mathcal{ A } 
+\boldsymbol{ \alpha } 
+\mathbb, 
+\mathfrak, 
+\mathcal 
+\boldsymbol 
+\# 
+\$ 
+\ & 
+\ ^ { } 
+\~{ } 
+\{ 
+\backslash$ 
+\% 
+\_ 
+\ } 
+\ 
+\'{ o } 
+\'{ o } 
+\H{ o } 
+\v{ o } 
+\b{ o } 
+\c{ o } 
+\i 
+\ ^ { o } 
+\u{ o } 
+\.{ o } 
+\r{ o } 
+\"{ o } 
+\~{ o } 
+\ = { o } 
+\d{ o } 
+\t{ oo } 
+\j 
+\ae 
+\aa 
+\AA 
+\AE 
+\oe 
+\L 
+\o 
+\OE 
+\ss 
+\O 
+\l 
+\SS 
+\dag 
+\ddag 
+\S 
+\P 
+\copyright 
+\pounds 
+\textbullet 
+\textvisiblespace 
+\textcircled{ a } 
+\textperiodcentered 
+$E = mc ^ 2$
+$ $
+$c$
+$$
+$$
+\begin{ equation } E = m\end{ equation } 
+\begin{ equation } \end{ equation } 
+\[ x ^ n + y ^ n = z ^ n \]
+\[ \]
+\[ E = mc ^ 2\]
+\[ \]
+\(x ^ 2 + y ^ 2 = z ^ 2\)
+\( \)
+\( \)
+\alpha 
+\beta 
+\gamma 
+\rho 
+\sigma 
+\delta 
+\epsilon\times 
+\otimes 
+\oplus 
+\cup 
+\cap< 
+\subset 
+\supset 
+\subseteq 
+\supseteq\int 
+\oint 
+\sum 
+\[ \int\limits_0 ^ 1 x ^ 2 + y ^ 2 \ dx \]
+\[ a_1 ^ 2 + a_2 ^ 2 = a_3 ^ 2 \]
+\[ x ^ { 2 \alpha } - 1 = y_{ ij } + y_{ ij } + \]
+\[ (a ^ n) ^ { r + s } = a ^ { nr + ns } + \]
+\[ \sum_{ i = 1 } ^ { \infty } \frac{ 1 } { n ^ s } = \prod_p \frac{ 1 } { 1 - p ^ { - s }  } \]
+\[ F = G \left( \frac{ m_1 m_2 } { r ^ 2 } \right)\]
+\[ + \left[ + \frac{ N } { \left( \frac{ L } { p } \right) + - (m + n) } + \right]\]
+\[ y + = 1 + & \left( + \frac{ 1 } { x } + \frac{ 1 } { x ^ 2 } + \frac{ 1 } { x ^ 3 } + \ldots + \\ + & \quad +  + \frac{ 1 } { x ^ { n - 1 }  } + \frac{ 1 } { x ^ n } \right)\]
+\[ y + = 1 + & \left( + \frac{ 1 } { x } + \frac{ 1 } { x ^ 2 } + \frac{ 1 } { x ^ 3 } + \ldots \right. \\ + & \quad \left. + \frac{ 1 } { x ^ { n - 1 }  } + \frac{ 1 } { x ^ n } \right)\]
+\[ \Bigg \langle 3x + 7 \bigg \rangle\]
+\((x + y)\)
+\([ x + y]\)
+\(\{ x + y \ } \)
+\(\langle x + y\rangle\)
+\(\displaystyle| x + y |\)
+\(\| x + y \|\)
+\(\displaystyle\big| \; \Big| \; \bigg| \; \Bigg|\)
+\(\displaystyle\big\| \; \Big\| \; \bigg\| \; \Bigg\|\)
+\(\displaystyle\big \lceil \Big \lceil \bigg \lceil \Bigg \lceil\)
+\(\displaystyle\big \rceil \Big \rceil \bigg \rceil \Bigg \rceil\)
+\(\displaystyle\big \lfloor \Big \lfloor \bigg \lfloor \Bigg \lfloor\)
+\(\displaystyle\big \rfloor \Big \rfloor \bigg \rfloor \Bigg \rfloor\)
+\{ 
+\ } \langle 
+$\dfrac{ 1 } { \phantom{ #1 }  } $
+\[ + \binom{ n } { k } = \frac{ n! } { k!(n - k)! } \]
+\[ \frac{ 1 } { 2 } \]
+\[ f(x) = \frac{ P(x) } { Q(x) } \ \ \textrm{ and } \ \ f(x) = \textstyle\frac{ P(x) } { Q(x) } \]
+\[ \frac{ 1 + \frac{ a } { b }  } { 1 + \frac{ 1 } { 1 + \frac{ 1 } { a }  }  } \]
+\[ + a_0 + \cfrac{ 1 } { a_1 + \cfrac{ 1 } { a_2 + \cfrac{ 1 } { a_3 + \cdots }  }  } \]
+\[ + \binom{ n } { k } = \frac{ n! } { k!(n - k)! } \]
+\[ + a_0 +  + \contfrac{ a_1 } { + \contfrac{ a_2 } { + \contfrac{ a_3 } { + \genfrac{ } { } { 0pt } { 0 } { } { \ddots } + }  }  } \]
+\( \frac{ 1 } { 2 } \)
+\(\frac{ 3x } { 2 } \)
+\( \displaystyle \frac{ 3x } { 2 } \)
+\(\binom{ n } { k } \)
+\begin{ equation } \label{ eq1 } \begin{ split } A & = \frac{ \pi r ^ 2 } { 2 } \\ & = \frac{ 1 } { 2 } \pi r ^ 2\end{ split } \end{ equation } 
+\begin{ equation } \label{ eu_eqn } e ^ { \pi i } + 1 = 0\end{ equation } 
+begin{ align* } 2x - 5y & = + 8 \\ 3x + 9y & = + - 12\end{ align* } 
+begin{ align* } x & = y + & + w & = z + & + a & = b + c\\2x & = - y + & + 3w & = \frac{ 1 } { 2 } z + & + a & = b\\ - 4 + 5x & = 2 + y + & + w + 2 & = - 1 + w + & + ab & = cb\end{ align* } 
+\begin{ gather* } 2x - 5y = + 8 \\ 3x ^ 2 + 9y = + 3a + c\end{ gather* } 
+\begin{ gather* } 2x - 5y = + 8 \\ 3x ^ 2 + 9y = + 3a + c\end{ gather* } 
+\[ + \sin(a + b) = \sin a \cos b + \cos a \sin b.\]
+\[ + \lim_{ h \to 0 } \frac{ f(x + h) - f(x) } { h } .\]
+\[ + \arctg \frac{ \pi } { 3 } = \sqrt{ 3 } .\]
+\( \lim_{ h \to 0 } (x - h) \)
+\[ S = \{ z \in \mathbb{ C } \, |\, |z| < 1 \ } \quad \textrm{ and } \quad S_2 = \partial{ S } \]
+begin{ align* } f(x) & = x ^ 2\! + 3x\! + 2 \\f(x) & = x ^ 2 + 3x + 2 \\f(x) & = x ^ 2\, + 3x\, + 2 \\f(x) & = x ^ 2\: + 3x\: + 2 \\f(x) & = x ^ 2\; + 3x\; + 2 \\f(x) & = x ^ 2\ + 3x\ + 2 \\f(x) & = x ^ 2\quad + 3x\quad + 2 \\f(x) & = x ^ 2\qquad + 3x\qquad + 2\end{ align* } 
+begin{ align* } 3ax + 4by = 5cz\\3ax<4by + 5cz\end{ align* } 
+begin{ align* } 34x ^ 2a \mathbin{ \# } 13bc \\34x ^ 2a \mathrel{ \# } 13bc\end{ align* } 
+\quad\,\quad\:\quad\;\quad\!\quad\ 
+$\int_{ a } ^ { b } x ^ 2 \,dx$
+$\int_{ a } ^ { b } x ^ 2 dx$
+$\sum_{ n = 1 } ^ { \infty } 2 ^ { - n } = 1$
+$\prod_{ i = a } ^ { b } f(i)$
+$\lim_{ x\to\infty } f(x)$
+$\sum_{ n = 1 } ^ { \infty } 2 ^ { - n } = 1$
+$\prod_{ i = a } ^ { b } f(i)$
+$\lim_{ x\to\infty } f(x)$
+\[ \int_{ a } ^ { b } x ^ 2 \,dx \]
+\[ + \int_{ a } ^ { b } x ^ 2 \,dx\]
+\[ + \sum_{ n = 1 } ^ { \infty } 2 ^ { - n } = 1\]
+\[ + \prod_{ i = a } ^ { b } f(i)\]
+\[ + \lim_{ x\to\infty } f(x)\]
+\[ + \oint_V f(s) \,ds\]
+\[ \sum_{ n = 1 } ^ { \infty } 2 ^ { - n } = 1 \]
+\[ \prod_{ i = a } ^ { b } f(i) \]
+\[ \lim_{ x\to\infty } f(x) \]
+\begin{ gather* } + \iint_V \mu(u,v) \,du\,dv\\ + \iiint_V \mu(u,v,w) \,du\,dv\,dw\\ + \iiiint_V \mu(t,u,v,w) \,dt\,du\,dv\,dw\\ + \idotsint_V \mu(u_1,\dots,u_k) \,du_1 \dots du_k\\ + \oint_V f(s) \,ds\end{ gather* } 
+\begin{ gather* } + \iint_V \mu(u,v) \,du\,dv\\ + \iiint_V \mu(u,v,w) \,du\,dv\,dw\\ + \iiiint_V \mu(t,u,v,w) \,dt\,du\,dv\,dw\\ + \idotsint_V \mu(u_1,\dots,u_k) \,du_1 \dots du_k\end{ gather* } 
+\begin{ gather* } + \iint_V \mu(u,v) \,du\,dv\\ + \iiint_V \mu(u,v,w) \,du\,dv\,dw\\ + \iiiint_V \mu(t,u,v,w) \,dt\,du\,dv\,dw\\ + \idotsint_V \mu(u_1,\dots,u_k) \,du_1 \dots du_k\\ + \oint_V f(s) \,ds\end{ gather* } 
+\begin{ gather* } + \iint_V \mu(u,v) \,du\,dv\\ + \iiint_V \mu(u,v,w) \,du\,dv\,dw\\ + \iiiint_V \mu(t,u,v,w) \,dt\,du\,dv\,dw\\ + \idotsint_V \mu(u_1,\dots,u_k) \,du_1 \dots du_k\end{ gather* } 
+\int_{ a } ^ { b } 
+\,dx$ 
+\[ 
+\int_{ a } ^ { b } 
+\,dx 
+$x$
+\[ f(x) = \sum_{ i = 0 } ^ { n } \frac{ a_i } { 1 + x } \]
+\( f(x) = \sum_{ i = 0 } ^ { n } \frac{ a_i } { 1 + x } \)
+\(f(x) = \displaystyle \frac{ 1 } { 1 + x } \)
+\alpha 
+\nu 
+\beta 
+\xi\Xi\gamma 
+\Gammao 
+\delta 
+\Delta\pi 
+\Pi\epsilon 
+\varepsilon 
+\rho\varrho 
+\zeta 
+\sigma 
+\Sigma\eta 
+\tau 
+\theta 
+\vartheta 
+\Theta\upsilon 
+\Upsilon\iota 
+\phi 
+\varphi 
+\Phi\kappa 
+\chi 
+\lambda 
+\Lambda\psi 
+\Psi\mu 
+\omega 
+\Omega 
+$\mathbb{ R } $
+$\mathit{ 3x ^ 2 } $
+\[ \mathcal{ B } = \{ B_{ \alpha } \in \mathcal{ T } \, |\, + U = \bigcup B_{ \alpha } \forall U \in \mathcal{ T } \ } + \]
+\( \mathcal{ T } \)
+begin{ align* } RQSZ \\\mathcal{ RQSZ } \\\mathfrak{ RQSZ } \\\mathbb{ RQSZ } \end{ align* } 
+begin{ align* } 3x ^ 2 \in R \subset Q \\\mathnormal{ 3x ^ 2 \in R \subset Q } \\\mathrm{ 3x ^ 2 \in R \subset Q } \\\mathit{ 3x ^ 2 \in R \subset Q } \\\mathbf{ 3x ^ 2 \in R \subset Q } \\\mathsf{ 3x ^ 2 \in R \subset Q } \\\mathtt{ 3x ^ 2 \in R \subset Q } \end{ align* } 
+$u' + v'$
+$u v + w = x$
+$uv + w = x$
+$x ^ { 17 } - 1$
+$s ^ n ^ j$
+$s ^ { n j } $
+$s ^ { n ^ j } $
+$\mathbf{ u } $
+$\mathbf{ v } $
+$\mathbf{ w } $
+${ \mathbf R } ^ 3$
+$V$
+$\mathbf{ 0 } $
+$\mathbf{ u } $
+$\mathbf{ v } $
+$\mathbf{ w } $
+$\mathbf{ u } + \mathbf{ v } $
+$\mathbf{ u } + \mathbf{ w } $
+$\mathbf{ v } + \mathbf{ w } $
+$\mathbf{ u } + \mathbf{ v } + \mathbf{ w } $
+$\mathrm{ cosec } A$
+$cosec A$
+$f$
+$x$
+$a x ^ 2 + bx + c$
+$a \neq 0$
+$x ^ 3 - 3px - 2q$
+$p$
+$X$
+$f \colon B \to \textbf{ R } $
+$X$
+$f$
+$\|f\|$
+$h \leq \frac{ 1 } { 2 } |\zeta - z|$
+$\chi(\lambda)$
+$3 \times 3$
+$x \geq 0$
+$x < 0$
+$\psi(\mathbf{ r } ,t)$
+$t$
+$V$
+$\textbf{ R } ^ 3$
+$t$
+$V$
+$t$
+\[ ds ^ 2 = dx_1 ^ 2 + dx_2 ^ 2 + dx_3 ^ 2 - c ^ 2 dt ^ 2 \]
+\[ ds ^ 2 = dx ^ 2_1 + dx ^ 2_2 + dx ^ 2_3 - c ^ 2 dt ^ 2 \]
+\[ R_i{ } ^ j{ } _{ kl } = g ^ { jm } R_{ imkl } + = - g ^ { jm } R_{ mikl } = - R ^ j{ } _{ ikl } \]
+\[ V = (\mathbf{ u } \times \mathbf{ v } ) \cdot \mathbf{ w } .\]
+\[ \cos(\theta + \phi) = \cos \theta \cos \phi + - \sin \theta \sin \phi \]
+\[ M ^ \bot = \{ f \in V' : f(m) = 0 \mbox{ for all } m \in M \ } .\]
+\[ M ^ \bot = \{ f \in V' : f(m) = 0 \mbox{ for all } m \in M \ } .\]
+\[ f(x) = 2x + \frac{ x - 7 } { x ^ 2 + 4 } \]
+\[ \frac{ - b \pm \sqrt{ b ^ 2 - 4ac }  } { 2a } \]
+\[ \sqrt[ 3]{ q + \sqrt{ q ^ 2 - p ^ 3 }  } +  + \sqrt[ 3]{ q - \sqrt{ q ^ 2 - p ^ 3 }  } \]
+\[ f(x_1, x_2,\ldots, x_n) = x_1 ^ 2 + x_2 ^ 2 + \cdots + x_n ^ 2 \]
+\[ \frac{ 1 - x ^ { n + 1 }  } { 1 - x } = 1 + x + x ^ 2 + \cdots + x ^ n \]
+\[ \|f\| = \inf \{ K \in [ 0, + \infty) : + |f(x)| \leq K \|x\| \mbox{ for all } x \in X \ } .\]
+\[ f(x,y,z) = 3y ^ 2 z \left( 3 + \frac{ 7x + 5 } { 1 + y ^ 2 } \right).\]
+\[ \left| 4 x ^ 3 + \left( x + \frac{ 42 } { 1 + x ^ 4 } \right) \right|.\]
+\[ |\zeta - z - h| \geq \frac{ 1 } { 2 } |\zeta - z|\]
+\[ \left( \begin{ array } { ccc } a & b & c \\ d & e & f \\ g & h & i \end{ array } \right)\]
+\[ \chi(\lambda) = \left| \begin{ array } { ccc } \lambda - a & - b & - c \\ - d & \lambda - e & - f \\ - g & - h & \lambda - i \end{ array } \right|.\]
+\[ \begin{ array } { lcr } \mbox{ First number } & x & 8 \\ \mbox{ Second number } & y & 15 \\ \mbox{ Sum } & x + y & 23 \\ \mbox{ Difference } & x - y & - 7 \\ \mbox{ Product } & xy & 120 \end{ array } \]
+\[ |x| = \left\{ \begin{ array } { ll } + x & \mbox{ if $x \geq 0$ } ;\\ + - x & \mbox{ if $x < 0$ } .\end{ array } \right. \]
+\[ \frac{ \partial u } { \partial t } + = \frac{ \partial ^ 2 u } { \partial x ^ 2 } +  + \frac{ \partial ^ 2 u } { \partial y ^ 2 } + \frac{ \partial ^ 2 u } { \partial z ^ 2 } \]
+\[ \lim_{ x \to 0 } \frac{ 3x ^ 2 + 7x ^ 3 } { x ^ 2 + 5x ^ 4 } = 3.\]
+\[ \sum_{ k = 1 } ^ n k ^ 2 = \frac{ 1 } { 2 } n (n + 1).\]
+\[ \int_a ^ b f(x)\,dx.\]
+\[ \int_0 ^ { + \infty } x ^ n e ^ { - x } \,dx = n!.\]
+\[ \int \cos \theta \,d\theta = \sin \theta.\]
+\[ \int_{ x ^ 2 + y ^ 2 \leq R ^ 2 } f(x,y)\,dx\,dy + = \int_{ \theta = 0 } ^ { 2\pi } \int_{ r = 0 } ^ R + f(r\cos\theta,r\sin\theta) r\,dr\,d\theta.\]
+\[ \int_0 ^ R \frac{ 2x\,dx } { 1 + x ^ 2 } = \log(1 + R ^ 2).\]
+\[ \int_0 ^ 1 \! \int_0 ^ 1 x ^ 2 y ^ 2\,dx\,dy.\]
+\[ \int_0 ^ 1 \int_0 ^ 1 x ^ 2 y ^ 2\,dx\,dy.\]
+\[ \int \!\!\! \int_D f(x,y)\,dx\,dy.\]
+\[ \int \int_D f(x,y)\,dx\,dy.\]
+\[ i\hbar\frac{ \partial \psi } { \partial t } + = \frac{ - \hbar ^ 2 } { 2m } \left( + \frac{ \partial ^ 2 } { \partial x ^ 2 } + \frac{ \partial ^ 2 } { \partial y ^ 2 } + \frac{ \partial ^ 2 } { \partial z ^ 2 } + \right) \psi + V \psi.\]
+\[ \int \!\!\! \int \!\!\! \int_{ \textbf{ R } ^ 3 } + \left| \psi(\mathbf{ r } ,0) \right| ^ 2\,dx\,dy\,dz = 1.\]
+\[ \frac{ d } { dt } \int \!\!\! \int \!\!\! \int_{ \textbf{ R } ^ 3 } + \left| \psi(\mathbf{ r } ,t) \right| ^ 2\,dx\,dy\,dz = 0,\]
+\[ \int \!\!\! \int \!\!\! \int_{ \textbf{ R } ^ 3 } + \left| \psi(\mathbf{ r } ,t) \right| ^ 2\,dx\,dy\,dz = 1\]
+\[ \int \!\!\! \int \!\!\! \int_V + \left| \psi(\mathbf{ r } ,t) \right| ^ 2\,dx\,dy\,dz\]
+\begin{ eqnarray } and \end{ eqnarray } 
+\begin{ array } { ccc } a & b & c \\ d & e & f \\ g & h & i \end{ array } 
+\begin{ array } { ccc } \lambda - a & - b & - c \\ - d & \lambda - e & - f \\ - g & - h & \lambda - i \end{ array } 
+\begin{ array } and end it with \end{ array } 
+\begin{ array } \[ \begin{ array } { lcr } \mbox{ First number } & x & 8 \\ \mbox{ Second number } & y & 15 \\ \mbox{ Sum } & x + y & 23 \\ \mbox{ Difference } & x - y & - 7 \\ \mbox{ Product } & xy & 120 \end{ array } 
+\begin{ array } . The large curly bracket is produced using \left\{ . However this requires a corresponding \right delimiter to match it. We therefore use the null delimiter \right. discussed earlier. This delimiter is invisible. We can therefore obtain the above formula by typing + \[ |x| = \left\{ \begin{ array } { ll } + x & \mbox{ if $x \geq 0$ } ;\\ + - x & \mbox{ if $x < 0$ } .\end{ array } 
+\# 
+\$ 
+\% 
+\ & 
+\_ 
+\{ 
+\ } 
+\backslash 
+\pi 
+\alpha 
+\beta 
+\gamma 
+\delta 
+\epsilon 
+\zeta 
+\eta 
+\theta 
+\iota 
+\kappa 
+\lambda 
+\mu 
+\nu 
+\xi 
+\pi 
+\rho 
+\sigma 
+\tau 
+\upsilon 
+\phi 
+\chi 
+\psi 
+\omega 
+\epsilon 
+\theta 
+\pi 
+\rho 
+\sigma 
+\phi 
+\varepsilon 
+\vartheta 
+\varpi 
+\varrho 
+\varsigma 
+\varphi 
+\Gamma 
+\Delta 
+\Theta 
+\Lambda 
+\Xi 
+\Pi 
+\Sigma 
+\Upsilon 
+\Phi 
+\Psi 
+\Omega 
+\aleph 
+\hbar 
+\imath 
+\jmath 
+\ell 
+\wp 
+\Re 
+\Im 
+\infty 
+\partial 
+\prime 
+\emptyset 
+\nabla 
+\surd 
+\top 
+\bot 
+\triangle 
+\backslash 
+\angle 
+\forall 
+\exists 
+\neg 
+\flat 
+\natural 
+\sharp 
+\clubsuit 
+\diamondsuit 
+\heartsuit 
+\spadesuit 
+\sum 
+\prod 
+\coprod 
+\oint 
+\int 
+\bigcap 
+\bigodot 
+\bigotimes 
+\bigcup 
+\bigsqcup 
+\bigoplus 
+\bigvee 
+\biguplus 
+\bigwedge 
+\pm 
+\mp 
+\ 
+\setminus 
+\cdot 
+\times 
+\ast 
+\star 
+\diamond 
+\circ 
+\bullet 
+\div 
+\cap 
+\cup 
+\uplus 
+\sqcap 
+\sqcup 
+\bigcirc 
+\bigtriangleup 
+\bigtriangledown 
+\triangleleft 
+\triangleright 
+\wr 
+\vee 
+\wedge 
+\oplus 
+\ominus 
+\otimes 
+\oslash 
+\odot 
+\dagger 
+\ddagger 
+\amalg 
+\leq 
+\prec 
+\preceq 
+\ll 
+\subset 
+\subseteq 
+\sqsubseteq 
+\in 
+\vdash 
+\smile 
+\frown 
+\geq 
+\succ 
+\succeq 
+\gg 
+\supset 
+\supseteq 
+\sqsupseteq 
+\ni 
+\dashv 
+\mid 
+\parallel 
+\equiv 
+\sim 
+\simeq 
+\asymp 
+\approx 
+\cong 
+\bowtie 
+\propto 
+\models 
+\doteq 
+\perp 
+\not< 
+\not\leq 
+\not\prec 
+\not\preceq 
+\not\subset 
+\not\subseteq 
+\not\sqsubseteq 
+\not> 
+\not\geq 
+\not\succ 
+\not\succeq 
+\not\supset 
+\not\supseteq 
+\not\sqsupseteq 
+\not = 
+\not\equiv 
+\not\sim 
+\not\simeq 
+\not\approx 
+\not\cong 
+\not\asymp 
+\leftarrow 
+\longleftarrow 
+\Leftarrow 
+\Longleftarrow 
+\leftrightarrow 
+\longleftrightarrow 
+\Longleftrightarrow 
+\hookleftarrow 
+\leftharpoonup 
+\leftharpoondown 
+\nearrow 
+\searrow 
+\mapsto 
+\rightleftharpoons 
+\rightarrow 
+\longrightarrow 
+\Rightarrow 
+\Longrightarrow 
+\Leftrightarrow 
+\hookrightarrow 
+\rightharpoonup 
+\rightharpoondown 
+\nwarrow 
+\swarrow 
+\longmapsto 
+\uparrow 
+\Uparrow 
+\updownarrow 
+\downarrow 
+\Downarrow 
+\Updownarrow 
+\lbrack 
+\lbrace 
+\rbrack 
+\rbrace 
+\lfloor 
+\langle 
+\rfloor 
+\rangle 
+\lceil 
+\rceil 
+\ne 
+\neq 
+\le 
+\ge 
+\{ 
+\ } 
+\to 
+\gets 
+\owns 
+\land 
+\lor 
+\lnot 
+\vert 
+\Vert 
+\iff 
+\colon 
+\leq
+\Longleftrightarrow
+\mathrm 
+\mathbf 
+\textrm
+\theta 
+\cos 
+\phi 
+\sin 
+\theta 
+\sin 
+\phi 
+\] 
+\csc 
+\exp 
+\ker 
+\arccos 
+\cos 
+\arcsin 
+\cosh 
+\deg 
+\gcd 
+\lg 
+\arctan 
+\cot 
+\det 
+\hom 
+\lim 
+\arg 
+\limsup 
+\min 
+\sinh 
+\Pr 
+\ln 
+\sup 
+\sec 
+\tan 
+\log 
+\sin 
+\tanh 
+\coth 
+\dim 
+\inf 
+\liminf 
+\max 
+\bot
+\ldots 
+\cdots
+\underline{ a } 
+\overline{ a } 
+\hat{ a } 
+\check{ a } 
+\tilde{ a } 
+\acute{ a } 
+\grave{ a } 
+\dot{ a } 
+\ddot{ a } 
+\breve{ a } 
+\bar{ a } 
+\vec{ a } 
+\' 
+\", 
+\{ 
+\ } . 
+\| 
+\colon 
+\to 
+\left( 
+\[ 
+\left( 
+\frac{ 7x + 5 } { 1 
+\right).\] 
+\left 
+\right 
+\theta 
+\cos ^ 2 
+\theta 
+\sin ^ 2 
+\theta 
+\\ 
+\cos ^ 2 
+\theta
+\begin{ eqnarray* } 
+\left| 
+\frac{ 1 } { \zeta 
+\frac{ 1 } { \zeta 
+\right| 
+\left| 
+\frac{ (\zeta 
+\zeta 
+\zeta 
+\zeta 
+\right| 
+\\ 
+\left| 
+\frac{ h } { (\zeta 
+\zeta 
+\right| 
+\\ 
+\leq 
+\frac{ 2 
+\zeta
+\left 
+\right 
+\left) 
+\right) 
+\frac{ 2x\,dx } { 1 + x ^ 2 } 
+\log(1 + R ^ 2).\] 
+\! 
+\[ 
+\int_0 ^ 1 
+\! 
+\int_0 ^ 1 
+\,dx\,dy.\] 
+\[ 
+\int_0 ^ 1 
+\int_0 ^ 1 
+\,dx\,dy.\] 
+\! 
+\[ 
+\int 
+\!\!\! 
+\int_D 
+\,dx\,dy.\] 
+\[ 
+\int 
+\int_D
+\hbar\frac{ \partial 
+\psi } { \partial 
+\frac{ - \hbar ^ 2 } { 2m } 
+\left
+\[ 
+\int 
+\!\!\! 
+\int 
+\!\!\! 
+\frac{ d } { dt } 
+\int 
+\!\!\! 
+\int 
+\!\!\! 
+\int_{ \textbf{ R } ^ 3 } 
+\left| 
+\psi(\mathbf{ r } ,t) 
+\right| ^ 2\,dx\,dy\,dz 
+\] 
+\[ 
+\int 
+\!\!\! 
+\int 
+\!\!\! 
+\int_{ \textbf{ R } ^ 3 } 
+\left| 
+\psi(\mathbf{ r } ,t) 
+\right| ^ 2\,dx\,dy\,dz 
+\] 
+\textbf{ R } ^ 3$ 
+\[ 
+\int 
+\!\!\! 
+\int 
+\!\!\! 
+\int_V 
+\left| 
+\psi(\mathbf{ r } ,t) 
+\right| ^ 2\,dx\,dy\,dz
+\hspace, 
+\hspace{ 20 
+\hspace 
+\hspace 
+\hspace* 
+\vspace

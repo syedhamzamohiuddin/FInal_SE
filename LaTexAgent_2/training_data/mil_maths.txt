@@ -1,0 +1,744 @@
+
+$(u, v)$
+$(u, \infty)$
+$a$
+$a$
+$\infty$
+$\lim_{x \to \infty} f(x)$
+$a$
+$\lim_{x \to a} f(x)$
+$\sqrt{5}$
+$(u, v)$
+$(u, \infty)$
+$(u, v)$
+$a$
+$a$
+$\infty$
+$\lim_{x \to \infty} f(x)$
+$\lim_{x \to \infty f(x)$
+$a$
+$a + b$
+$a - b$
+$-a$
+$a / b$
+$a b$
+$a \times b$
+$a \cdot b$
+$a_{1}$
+$a_{10}$
+$a_10$
+$a_{i_{1}}$
+$a^{2}$
+$a^{i_{1}}$
+$\bar{a}$
+$\hat{a}$
+$\tilde{a}$
+$\vec{a}$
+$\binom{a}{b + c}$
+$a \equiv v \pmod{\theta}$
+$a \equiv v \pod{\theta}$
+$(a + b)^{2}$
+$\sin x$
+$sin x$
+$F(x_{1}, x_{2}, \ldots , x_{n})$
+$x_{1} + x_{2} + \cdots + x_{n}$
+$\int_{0}^{\pi} \sin x \, dx = 2$
+$\sqrt{5}$
+$\sqrt{a + 2b}$
+$\sqrt[n]{5}$
+$a^{ \text{power} }$
+$\left[ \frac{n}{2} \right]$
+$\mu(i)^{ \frac{3}{2} } (i^{2} - 1)$
+$\sqrt{ \mu(i)^{ \frac{3}{2} } (i^{2} - 1) }$
+$\sqrt[3]{ \rho(i) - 1 }$
+$\sqrt[3]{ \rho(i) - 2 }$
+$x < 0$
+$0 \leq x \leq 1$
+$K$
+$\Pi^{*}$
+$D_{i}$
+$i \in I$
+$\Pi^{*}$
+$\Pi^{*} ( D_{i} \mid i \in I )$
+$\Pi ( D_{i}^{-} \mid i \in I )$
+$i \in I$
+$d \in D_{i}^{-}$
+$\Pi^{*} ( D_{i} \mid i \in I )$
+$i$
+$d$
+$0$
+$D_{i}$
+$i \in I$
+$\Theta$
+$\Pi^{*} ( D_{i} \mid i \in I )$
+$i \in I$
+$d \in D_{i}$
+$d < 1_{i}$
+$d \leq c < 1_{i}$
+$\Theta = \iota$
+$\Theta$
+$j \in I$
+$j \neq i$
+$a \in D_{j}^{-}$
+$\Theta$
+$\Theta = \iota$
+$\Theta$
+$\Teta$
+$D_{i}$
+$i \in I$
+$\Pi^{*} ( D_{i} \mid i \in I )$
+$i \in I$
+$d \in D_{i}$
+$d < 1_{i}$
+$d \leq c < 1_{i}$
+$\Theta$
+$\Theta = \iota$
+$|$
+$\backslash$
+$*$
+\begin{equation} \label{E:firstInt}  \int_{0}^{\pi} \sin x \, dx = 2  \end{equation}
+\begin{equation}  \int_{0}^{\pi} \sin x \, dx = 2 \tag{Int}  \end{equation}
+\begin{equation} \label{E:cong1}  \langle \dots, 0, \dots,\overset{i}{d}, \dots, 0, \dots \rangle \equiv \langle \dots, 0, \dots, \overset{i}{c}, \dots, 0, \dots \rangle \pmod{\Theta},  \end{equation}
+\begin{equation} \label{E:cong2}  \langle \dots, 0, \dots, \overset{i}{d}, \dots, 0,  \dots \rangle \equiv \langle \dots, 0, \dots, \overset{i}{c}, \dots, 0, \dots \rangle \pmod{\Theta},  \end{equation}
+\begin{equation} \label{E:cong1}  Let $\Theta$  \langle \dots, 0, \dots,\overset{i}{d}, \dots, 0, \dots \rangle \equiv \langle \dots, 0, \dots, \overset{i}{c}, \dots, 0, \dots \rangle \pmod{\Theta},  \end{equation}
+\begin{equation}  \langle \dots, 0, \dots, \overset{i}{d}, \dots, 0,  \dots \rangle \equiv \langle \dots, 0, \dots, \overset{i}{c}, \dots, 0, \dots \rangle \pmod{\Theta},  \end{equation}
+\begin{equation}  \con \vct{i}{d}=\vct{i}{c}(\gQ),  \end{equation}
+\[  \lim_{x \to a} \frac{f(x) - f(a)}{x - a},  \]
+\[ and close with \]
+\[  \]
+\[  \frac{3+x}{5}  \]
+\[  \lim_{x \to a} \frac{f(x) - f(a)}{x - a} %\lim_{x \to a} \frac{f(x) - f(a) x - a}  \]
+\[  \frac{1 + 2x}{x + y + xy}  \]
+\[  \]
+\[  \]
+\[  \left| \frac{a + b}{2} \right|,  \quad \left\| A^{2} \right\|  \]
+\[  \]
+\[  \]
+\[  \]
+\[  \sum_{i=1}^{n} x_{i}^{2} \qquad \prod_{i=1}^{n} x_{i}^{2}  \]
+\[  a = b \mbox{\qquad by assumption}  \]
+\[  a = b \qquad \mbox{by assumption}  \]
+\[  \]
+\[  x_{i, i + 1}^{i^{2}} \qquad \left[ \frac{i + 3}{3} \right]  \]
+\[  \binom{ x_{i,i + 1}^{i^{2}} }{ \left[ \frac{i + 3}{3} \right] }  \]
+\[  \]
+\[  \]
+\[\sum_{i=1}^{\left[\frac{n}{2}\right]}\binom{x_{i,i+1}^{i^{2}}} {\left[\frac{i+3}{3}\right]}\frac{\sqrt{\mu(i)^{\frac{3} {2}}(i^{2}-1)}}{\sqrt[3]{\rho(i)-2}+\sqrt[3]{\rho(i)-1}}\]
+\[\sum_{i=1}^{\left[\frac{n}{2}\right]}\binom{x_{i,i+1}^{i^{2}}} {\left[\frac{i+3}{3}\right]}\frac{\sqrt{\mu(i)^{\frac{3} {2}}}(i^{2}-1)}}{\sqrt[3]{\rho(i)-2}+\sqrt[3]{\rho(i)-1}}\]
+\[  \]
+\[  \left| \bigcup (\, I_{j} \mid j \in J \,) \right|  < \mathfrak{m}  \]
+\[  \]
+\[  \]
+\[  \Gamma_{u’} = \{\, \gamma \mid \gamma < 2\chi,  \ B_{\alpha} \nsubseteq u’, \ B_{\gamma} \subseteq u’ \,\}  \]
+\[  A = B^{2} \times \mathbb{Z}  \]
+\[  \left( \bigvee (\, s_{i} \mid i \in I \,) \right)^{c} =  \bigwedge (\, s_{i}^{c} \mid i \in I \,)  \]
+\[  \]
+\[  f(\mathbf{x}) = \bigvee\nolimits_{\!\mathfrak{m}}  \left(\,  \bigwedge\nolimits_{\mathfrak{m}} (\, x_{j} \mid j \in I_{i} \,) \mid i < \aleph_{\alpha}  \,\right)  \]
+\[  \]
+\[  v 1∼ w 2∼ z  u + α  u \underset{\alpha}{+} v \overset{1}{\thicksim} w  \overset{2}{\thicksim} z  \]
+\[  f(x) \overset{ \text{def} }{=} x^{2} - 1  \]
+\[  \]
+\[  \]
+\[  \begin{vmatrix}  a + b + c & uv\\ a + b & c + d  \end{vmatrix} = 7  \begin{Vmatrix}  a + b + c & uv\\ a + b & c + d  \end{Vmatrix} = 7  \]
+\[  \sum_{j \in \mathbf{N}} b_{ij} \hat{y}_{j} = \sum_{j \in \mathbf{N}} b^{(\lambda)}_{ij} \hat{y}_{j} + (b_{ii} - \lambda_{i}) \hat{y}_{i} \hat{y}  \]
+\[  \]
+\[  \biggl( \prod^n_{\, j = 1} \hat x_{j} \biggr) H_{c} =  \frac{1}{2} \hat{k}_{ij} \det \widehat{ \mathbf{K} }(i|i)  \]
+\[  \]
+\[  \lim_{(v, v’) \to (0, 0)}  \frac{H(z + v) - H(z + v’) - BH(z)(v - v’)}  {\| v - v’ \|} = 0  \]
+\[  \int_{\mathcal{D}} | \overline{\partial u} |^{2}  \Phi_{0}(z) e^{\alpha |z|^2} \geq c_{4} \alpha \int_{\mathcal{D}} |u|^{2} \Phi_{0} e^{\alpha |z|^{2}} + c_{5} \delta^{-2} \int_{A} |u|^{2} \Phi_{0} e^{\alpha |z|^{2}}  \]
+\[  ··· ···  (x + εn)n  ϕ · Xn,1 ϕ1 × ε1 ϕ · Xn,1 ϕ2 × ε1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ϕ · Xn,1 ϕ · Xn,n ϕn × ε1 ϕn × εn  (x + ε2)2 ϕ · Xn,2 ϕ2 × ε2 ϕ · Xn,2 ϕn × ε2  (x + εn−1)n−1 (x + εn−1)n−1  ϕ · Xn,n−1 ϕn × εn−1  (x + εn)n  ···  + In    \mathbf{A} = \begin{pmatrix}              1.4 Typing equationsand aligned formulas  29  \dfrac{\varphi \cdot X_{n, 1}}  {\varphi_{1} \times \varepsilon_{1}}  & (x + \varepsilon_{2})^{2} & \cdots & (x + \varepsilon_{n - 1})^{n - 1} & (x + \varepsilon_{n})^{n}\\ \dfrac{\varphi \cdot X_{n, 1}}  {\varphi_{2} \times \varepsilon_{1}}  & \dfrac{\varphi \cdot X_{n, 2}}  {\varphi_{2} \times \varepsilon_{2}} & \cdots & (x + \varepsilon_{n - 1})^{n - 1} & (x + \varepsilon_{n})^{n}\\ \hdotsfor{5}\\ \dfrac{\varphi \cdot X_{n, 1}}  {\varphi_{n} \times \varepsilon_{1}}  & \dfrac{\varphi \cdot X_{n, 2}}  {\varphi_{n} \times \varepsilon_{2}}  & \cdots & \dfrac{\varphi \cdot X_{n, n - 1}}  {\varphi_{n} \times \varepsilon_{n - 1}}  & \dfrac{\varphi\cdot X_{n, n}}  {\varphi_{n} \times \varepsilon_{n}}  \end{pmatrix}  + \mathbf{I}_{n}  \]
+\[  \]
+\[  \Pi^{*} ( D_{i} \mid i \in I ) =  \Pi ( D_{i}^{-} \mid i \in I ) + 1;  \]
+\[  \langle \dots, 0, \dots, \overset{i}{d}, \dots, 0,  \dots \rangle  \]
+\[            38  C hapter 1 Typing your ﬁrst article  0 \equiv \bigvee ( \langle \dots, 0, \dots, \overset{j}{a}, \dots, 0,\dots\rangle \mid a \in D_{j}^{-} ) = 1 \pmod{\Theta},  \]
+begin{align}  r^{2} &= s^{2} + t^{2} 2u + 1 &= v + w^{\alpha} x  &= \frac{y + z}{\sqrt{s + 2u}}  \label{E:eqn1}\\ \label{E:eqn2}\\ \label{E:eqn3}  \end{align}
+begin{align} \label{E:longInt}  h(x) &= \int  \left(  \frac{ f(x) + g(x) } { 1+ f^{2}(x) }  + \frac{ 1+ f(x)g(x) }  { \sqrt{1 - \sin x} }  \right) \, dx\\  &= \int \frac{ 1 + f(x) } { 1 + g(x) }  \, dx - 2 \tan^{-1}(x-2) \notag  \end{align}
+begin{align} \label{E:DoAlign}  x &= x \wedge (y \vee z)  &= (x \wedge y) \vee (x \wedge z)  & &\text{(by distributivity)}\\  & &\text{(by condition (M))} \notag\\  &= y \vee z. \notag  \end{align}
+begin{align} \label{E:cong}  & \langle \dots, \overset{i}{d}, \dots, 0,  \dots \rangle \equiv\\  &\qquad \qquad \quad \bigvee ( \langle \dots, 0, \dots, \overset{i}{c}, \dots, 0, \dots \rangle \mid d \leq c < 1 ) \equiv 1 \pmod{\Theta}. \notag  \end{align}
+begin{align} \label{E:comp}  0 = & \langle \dots, 0, \dots, \overset{i}{d}, \dots, 0, \dots  \rangle \wedge \langle \dots, 0, \dots, \overset{j}{a}, \dots, 0, \dots \rangle \equiv\\  &\langle \dots, 0, \dots, \overset{j}{a}, \dots, 0, \dots  \rangle \pmod{\Theta}, \notag  \end{align} 
+\aleph 
+\beth 
+\daleth 
+\aleph 
+\gimel 
+\alpha 
+\digamma 
+\varepsilon 
+\theta 
+\kappa 
+\mu 
+\pi 
+\varrho 
+\tau 
+\varphi 
+\beta 
+\delta 
+\zeta 
+\vartheta 
+\varkappa 
+\nu 
+\varpi 
+\sigma 
+\upsilon 
+\chi 
+\gamma 
+\epsilon 
+\eta 
+\iota 
+\lambda 
+\xi 
+\rho 
+\varsigma 
+\phi 
+\psi 
+\omega 
+\digamma 
+\varkappa 
+\Gamma 
+\Delta 
+\Theta 
+\Lambda 
+\Xi 
+\Pi 
+\Sigma 
+\Upsilon 
+\Phi 
+\Psi 
+\varGamma 
+\varDelta 
+\varTheta 
+\varLambda 
+\varXi 
+\varPi 
+\varSigma 
+\varUpsilon 
+\varPhi 
+\varPsi 
+\Omega 
+\varOmega 
+\in 
+\ni 
+\leq 
+\ll 
+\prec 
+\preceq 
+\sim 
+\simeq 
+\equiv 
+\subset 
+\subseteq 
+\sqsubseteq 
+\smile 
+\perp 
+\mid 
+\vdash 
+\propto 
+\bowtie 
+\succeq 
+\approx 
+\cong 
+\succ 
+\doteq 
+\geq 
+\gg 
+\frown 
+\dashv 
+\asymp 
+\supset 
+\supseteq 
+\sqsupseteq 
+\models 
+\parallel 
+\sqsubset 
+\sqsupset 
+\Join 
+\leqslant 
+\eqslantless 
+\lesssim 
+\lessapprox 
+\approxeq 
+\lessdot 
+\lll 
+\lessgtr 
+\lesseqgtr 
+\lesseqqgtr 
+\doteqdot 
+\circeq 
+\risingdotseq 
+\backsim 
+\backsimeq 
+\preccurlyeq 
+\curlyeqprec 
+\precsim 
+\precapprox 
+\subseteqq 
+\Subset 
+\vartriangleleft 
+\trianglelefteq 
+\vDash 
+\Vvdash 
+\smallsmile 
+\shortmid 
+\bumpeq 
+\between 
+\varpropto 
+\blacktriangleleft 
+\geqslant 
+\eqslantgtr 
+\gtrsim 
+\gtrapprox 
+\gtrdot 
+\gtrless 
+\gtreqless 
+\gtreqqless 
+\eqcirc 
+\fallingdotseq 
+\triangleq 
+\thicksim 
+\thickapprox 
+\succcurlyeq 
+\curlyeqsucc 
+\succsim 
+\succapprox 
+\supseteqq 
+\Supset 
+\ggg 
+\vartriangleright 
+\trianglerighteq 
+\Vdash 
+\smallfrown 
+\shortparallel 
+\Bumpeq 
+\pitchfork 
+\backepsilon 
+\blacktriangleright 
+\therefore 
+\because 
+\ne 
+\nless 
+\nleq 
+\nleqslant 
+\nleqq 
+\lneq 
+\lneqq 
+\lvertneqq 
+\lnsim 
+\lnapprox 
+\nprec 
+\npreceq 
+\precneqq 
+\precnsim 
+\precnapprox 
+\nsim 
+\nshortmid 
+\nmid 
+\nvdash 
+\nVdash 
+\ntriangleleft 
+\ntrianglelefteq 
+\nsubseteq 
+\nsubseteqq 
+\subsetneq 
+\varsubsetneq 
+\subsetneqq 
+\notin 
+\ngtr 
+\ngeq 
+\ngeqslant 
+\ngeqq 
+\gneq 
+\gneqq 
+\gvertneqq 
+\gnsim 
+\gnapprox 
+\nsucc 
+\nsucceq 
+\succneqq 
+\succnsim 
+\succnapprox 
+\ncong 
+\nshortparallel 
+\nparallel 
+\nvDash 
+\nVDash 
+\ntriangleright 
+\ntrianglerighteq 
+\nsupseteq 
+\nsupseteqq 
+\supsetneq 
+\varsupsetneq 
+\supsetneqq 
+\varsubsetneqq 
+\varsupsetneqq 
+\ne 
+\mp 
+\cdot 
+\bigcirc 
+\diamond 
+\star 
+\cup 
+\sqcup 
+\vee 
+\triangleright 
+\bigtriangledown 
+\ominus 
+\oslash 
+\bullet 
+\ddagger 
+\uplus 
+\amalg 
+\rhd 
+\unrhd 
+\centerdot 
+\rtimes 
+\rightthreetimes 
+\smallsetminus 
+\doublebarwedge 
+\curlyvee 
+\intercal 
+\Cup 
+\circledcirc 
+\boxtimes 
+\boxplus 
+\pm 
+\times 
+\circ 
+\div 
+\ast 
+\cap 
+\sqcap 
+\wedge 
+\triangleleft 
+\bigtriangleup 
+\oplus 
+\otimes 
+\odot 
+\dagger 
+\ 
+\setminus 
+\wr 
+\dotplus 
+\ltimes 
+\leftthreetimes 
+\circleddash 
+\barwedge 
+\curlywedge 
+\veebar 
+\Cap 
+\circledast 
+\boxminus 
+\boxdot 
+\divideontimes 
+\lhd 
+\unlhd 
+\And 
+\And 
+\Longrightarrow 
+\longrightarrow 
+\downarrow 
+\Downarrow 
+\Updownarrow 
+\leftarrow 
+\longleftarrow 
+\Leftarrow 
+\Longleftarrow 
+\leftrightarrow 
+\Leftrightarrow 
+\uparrow 
+\Uparrow 
+\updownarrow 
+\nearrow 
+\swarrow 
+\mapsto 
+\hookleftarrow 
+\leftharpoonup 
+\leftharpoondown 
+\rightleftharpoons 
+\leadsto 
+\rightarrow 
+\to 
+\Rightarrow 
+\longleftrightarrow 
+\Longleftrightarrow 
+\searrow 
+\nwarrow 
+\longmapsto 
+\hookrightarrow 
+\rightharpoonup 
+\rightharpoondown 
+\rightrightarrows 
+\leftleftarrows 
+\rightleftarrows 
+\leftrightarrows 
+\Rrightarrow 
+\Lleftarrow 
+\twoheadrightarrow 
+\twoheadleftarrow 
+\rightarrowtail 
+\leftarrowtail 
+\looparrowright 
+\looparrowleft 
+\downdownarrows 
+\upuparrows 
+\upharpoonright 
+\upharpoonleft 
+\downharpoonright 
+\downharpoonleft 
+\leftrightsquigarrow 
+\rightsquigarrow 
+\multimap 
+\nrightarrow 
+\nRightarrow 
+\nLeftrightarrow 
+\nleftarrow 
+\nLeftarrow 
+\nleftrightarrow 
+\leadsto, 
+\ 
+\ell 
+\jmath 
+\Re 
+\partial 
+\hbar 
+\imath 
+\wp 
+\Im 
+\infty 
+\emptyset 
+\forall 
+\smallint 
+\surd 
+\top 
+\P 
+\dag 
+\flat 
+\sharp 
+\clubsuit 
+\heartsuit 
+\neg 
+\Box 
+\mho 
+\backslash 
+\exists 
+\triangle 
+\Vert 
+\bot 
+\S 
+\ddag 
+\natural 
+\angle 
+\diamondsuit 
+\spadesuit 
+\Diamond 
+\prime 
+\complement 
+\vartriangle 
+\varnothing 
+\diagdown 
+\blacktriangledown 
+\Game 
+\blacksquare 
+\blacklozenge 
+\sphericalangle 
+\bigstar 
+\eth 
+\hslash 
+\backprime 
+\Bbbk 
+\diagup 
+\blacktriangle 
+\triangledown 
+\square 
+\lozenge 
+\measuredangle 
+\circledS 
+\Finv 
+\nexists 
+\, 
+\: 
+\; 
+\thinspace 
+\medspace 
+\thickspace 
+\quad 
+\qquad 
+\! 
+\negthinspace 
+\negmedspace 
+\negthickspace 
+\medspace, 
+\thickspace, 
+\negmedspace, 
+\negthickspace 
+\{ 
+\backslash 
+\langle 
+\lfloor 
+\lceil 
+\ulcorner 
+\llcorner 
+\ 
+\uparrow 
+\updownarrow 
+\Updownarrow 
+\downarrow 
+\Downarrow 
+\Uparrow 
+\} 
+\rangle 
+\| 
+\rfloor 
+\rceil 
+\urcorner 
+\lrcorner 
+\arccos 
+\arcsin 
+\arctan 
+\cos 
+\csc 
+\ker 
+\sec 
+\tanh 
+\cosh 
+\dim 
+\lg 
+\sin 
+\cot 
+\exp 
+\ln 
+\sinh 
+\arg 
+\coth 
+\hom 
+\log 
+\tan 
+\varliminf 
+\var 
+\varlimsup 
+\varinjlim 
+\varprojlim 
+\det 
+\gcd 
+\inf 
+\injlim 
+\lim 
+\liminf 
+\limsup 
+\max 
+\projlim 
+\min 
+\injlim 
+\projlim 
+\sup 
+\Pr 
+\prod_{i=1}^{n} 
+\bigcap_{i=1}^{n} 
+\bigwedge_{i=1}^{n} 
+\bigotimes_{i=1}^{n} 
+\bigsqcup_{i=1}^{n} 
+\bigodot_{i=1}^{n} 
+\coprod_{i=1}^{n} 
+\bigvee_{i=1}^{n} 
+\bigcup_{i=1}^{n} 
+\biguplus_{i=1}^{n} 
+\bigoplus_{i=1}^{n} 
+\sum_{i=1}^{n} 
+\sphat 
+\sptilde 
+\spbreve 
+\spcheck 
+\spdot 
+\spddot 
+\spdddot 
+\widehat{a} 
+\widetilde{a} 
+\Hat{a} 
+\Tilde{a} 
+\Acute{a} 
+\Bar{a} 
+\Breve{a} 
+\Check{a} 
+\Dot{a} 
+\Ddot{a} 
+\hat{a} 
+\tilde{a} 
+\acute{a} 
+\bar{a} 
+\breve{a} 
+\check{a} 
+\dot{a} 
+\ddot{a} 
+\dddot{a} 
+\ddddot{a} 
+\grave{a} 
+\Grave{a} 
+\imath 
+\Vec{a} 
+\vec{a} 
+\dddot 
+\ddddot 
+\jmath 
+\mathbf{A} 
+\mathit{A} 
+\mathsf{A} 
+\mathrm{A} 
+\mathtt{A} 
+\mathnormal{A} 
+\mathbb{A} 
+\mathfrak{A} 
+\mathcal{A} 
+\boldsymbol{\alpha} 
+\mathbb, 
+\mathfrak, 
+\mathcal 
+\boldsymbol 
+\# 
+\$ 
+\& 
+\^{} 
+\~{} 
+\{ 
+\backslash$ 
+\% 
+\_ 
+\} 
+\ 
+\‘{o} 
+\’{o} 
+\H{o} 
+\v{o} 
+\b{o} 
+\c{o} 
+\i 
+\^{o} 
+\u{o} 
+\.{o} 
+\r{o} 
+\"{o} 
+\~{o} 
+\={o} 
+\d{o} 
+\t{oo} 
+\j 
+\ae 
+\aa 
+\AA 
+\AE 
+\oe 
+\L 
+\o 
+\OE 
+\ss 
+\O 
+\l 
+\SS 
+\dag 
+\ddag 
+\S 
+\P 
+\copyright 
+\pounds 
+\textbullet 
+\textvisiblespace 
+\textcircled{a} 
+\textperiodcentered 

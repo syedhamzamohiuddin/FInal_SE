@@ -1,0 +1,110 @@
+$f(x)$
+$f’(x)$
+$\mathrm{xyz}$
+$\mathsf{xyz}$
+$\mathtt{xyz}$
+$\mathit{xyz}$
+$\mathbf{xyz}$
+$\mathcal{XYZ}$
+$\boldsymbol{A+B=C}$
+$\mathbb{A+B=C}$
+$\mathfrak{A+B=C}$
+$\pmb{+-=}$
+$m \pmod{n}$
+$m \mod{n}$
+$m \pod{n}$
+$m \bmod n$
+$\min_x f(x)$
+$\lim_{x\to\infty} f(x)$
+$ \frac{1}{1+x} $
+$( X )$
+$\Bigl( X \Bigr)$
+$\bigl( X \bigr)$
+$\Biggl( X \Biggr)$
+$\bigl( X \biggr)$
+$\bvec{u}=(x, y)$
+$\lvec{OP}$
+$A\negmedspace B$
+$AB$
+$A\,B$
+$A\:B$
+$A\;B$
+$A\quad B$
+$A\qquad B$
+$A\!B$
+$A\negthickspace B$
+\begin{equation} \label{eqn:linear} f(x) = mx + c \end{equation}
+\begin{equation}  f(x) = mx + c  \end{equation}
+\begin{equation} % f(x) = mx + c % \end{equation}
+\begin{equation} \begin{pmatrix}  a & b\\ c & d  \end{pmatrix} \end{equation}
+\[... \]
+\[ x’ = x + \Delta x \]
+\[y = x\sb{1}\sp{2} + x\sb{2}\sp{2}\]
+\[ Y_{1}^{2} \]
+\[ Y{}_{1}^{2} \]
+\[y = x_1^2 + x_2^2\]
+\[y = x_{1}^{2} + x_{2}^{2}\]
+\[ f(x_1, x_2) = \e^{x_1^2} + \e^{x_2^2} \]
+\[ f(x) = \mathrm{e}^{x_1} \]
+\[ f(x) = e^{x_1} \]
+\[ z = r(\cos\theta + i\sin\theta) \]
+\[ \lim_{x\to\infty} f(x) \]
+\[ \min_x f(x) \]
+\[ n = \card(\mathcal{S}) \]
+\[ x_m = \mode_{x \in \mathcal{S}}(x) \]
+\[ \frac{1}{1+x} \]
+\[ \frac{1+\frac{1}{x}}{1+x+x^2} \]
+\[ \cfrac{1}{\sqrt{2}+ \cfrac{1}{\sqrt{2}+ \cfrac{1}{\sqrt{2}+\dotsb }}} \]
+\[ f’(x) = \frac{df}{dx} \]
+\[  f’(x) = \frac{\mathrm{d}f}{\mathrm{d}x}  \]
+\[ f’(x) = \deriv{f}{x} \]
+\[ f_x = \pderiv{f}{x} \]
+\[  f_{xy} = \frac{\partial^2 f}{\partial x \partial y}  \]
+\[  f’(x) = \lim_{\Delta x \to 0} \frac{f(x + \Delta x)-f(x)}{\Delta x}  \]
+\[ \sqrt{a+b} \]
+\[ \sqrt[3]{a+b} \]
+\[ \sqrt[n]{a+b} \]
+\[  A \xleftarrow{n+m-p} B \xrightarrow[X]{n+p} C  \]
+\[  f(x) = \sum_{i=1}^{n} x_i + \prod_{i=1}^{n} x_i  \]
+\[  \sum_{ \substack {  i \in \mathcal{I}\\ i \neq 0  }  } x_i  \]
+\[ a_ix_i = b_i\␣\forall i = 1,\dotsc, n \]
+\[ y = a_1 + a_2 + \dotsb + a_n \]
+\[  (\frac{1}{1+x})  \]
+\[  \]
+\[ \left\lvert \frac{1}{1+x} \right\rvert \]
+\[ \left\lvert \frac{1}{1+x} \right\rvert_{x=0} \]
+\[ \left[\frac{1}{1+x}\right\rangle \]
+\[  \left.  \frac{\partial f}{\partial x}  \right\rvert_{x=0}  \]
+\[ \pderiv{^2\mathcal{L}}{{z_i^\rho}^2} = -\pderiv{\rho_i}{z_i^\rho} \left(  \pderiv{v_i}{\rho_i} \frac{\e^{v_i}}{1-\e^{v_i}} + v_i \frac{\e^{v_i}\pderiv{v_i}{\rho_i}(1-\e^{v_i})  +\e^{2v_i}\pderiv{v_i}{\rho_i}}{(1-\e^{v_i})^2}  \right) \]
+\[and \]
+\[ \]
+\[ \pderiv{}{} \]
+\[ \pderiv{^2 \mathcal{L}}{} \]
+\[ \pderiv{^2 \mathcal{L}}{{z_i^\rho}^2} \]
+\[ \pderiv{^2 \mathcalL}{{z_i^\rho}^2} = -\pderiv{\rho_i}{z_i^\rho} \]
+\[ \pderiv{^2 \mathcal{L}}{{z_i^\rho}^2} = -\pderiv{\rho_i}{z_i^\rho}  \left( \right)  \]
+\[ \pderiv{^2 \mathcal{L}}{{z_i^\rho}^2} = -\pderiv{\rho_i}{z_i^\rho}  \left(  \pderiv{v_i}{\rho_i}  \right)  \]
+\[ \pderiv{^2 \mathcal{L}}{{z_i^\rho}^2} = -\pderiv{\rho_i}{z_i^\rho}  \left(  \pderiv{v_i}{\rho_i} \frac{\e^{v_i}}{1-\e^{v_i}}  \right)  \]
+\[ \pderiv{^2 \mathcal{L}}{{z_i^\rho}^2} = -\pderiv{\rho_i}{z_i^\rho}  \left(  \pderiv{v_i}{\rho_i} \frac{\e^{v_i}}{1-\e^{v_i}} + v_i \frac{}{}  \right)  \]
+\[ \pderiv{^2 \mathcal{L}}{{z_i^\rho}^2} = -\pderiv{\rho_i}{z_i^\rho}  \left(  \pderiv{v_i}{\rho_i} \frac{\e^{v_i}}{1-\e^{v_i}} + v_i \frac{}{(1-\e^{v_i})^2}  \right)  \]
+\[ \pderiv{^2\mathcal{L}}{{z_i^\rho}^2} = -\pderiv{\rho_i}{z_i^\rho} \left(  \pderiv{v_i}{\rho_i} \frac{\e^{v_i}}{1-\e^{v_i}} + v_i \frac{\e^{v_i}\pderiv{v_i}{\rho_i}(1-\e^{v_i})  +\e^{2v_i}\pderiv{v_i}{\rho_i}}{(1-\e^{v_i})^2}  \right) \]
+\[ \begin{array}{rrr} 0 & 1 & 19\\ -6 & 10 & 200 \end{array} \]
+\[ \left(  \begin{array}{rrr}  0 & 1 & 19\\ -6 & 10 & 200 \end{array}  \right) \]
+\[ \left(  \begin{array}{rr|r}  0 & 1 & 19\\ -6 & 10 & 200  \end{array}  \right) \]
+\[ f(x) =  \left\{  \begin{array}{rl}  -1 & x < 0\\ 0 & x = 0\\ +1 & x > 0 \end{array}  \right.  \]
+\[ f(x) =  \begin{cases} -1 & x < 0\\ 0 & x = 0\\ +1 & x > 0 \end{cases}  \]
+\[ \vec{x} \]
+\[  \]
+\[  \vec{x}\cdot\vec{\xi} = z  \]
+\[ \vec{OP} \]
+\[ \overrightarrow{OP} \]
+\[  \lVert \bvec{u} \rVert = \sqrt{x^2 + y^2}  \]
+begin{align*} y &= 2x + 2\\  &= 2(x+1)  \end{align*}
+begin{align} y &= 2x + 2\notag\\  &= 2(x+1) \end{align}
+begin{align*} y &= 2x + 2 & z &= 6x + 3\\  &= 2(x+1) &  &= 3(2x+1)  \end{align*}
+begin{align} f(x) &= 2x + 1 \label{eq:fx}\\ f’(x) &= 2 \label{eq:dfx} \end{align}
+begin{align*} y &= 2x + 2\\ \intertext{Using the distributive law:} &= 2(x+1) \end{align*}
+\begin{array}{rrr} 0 & 1 & 19\\ -6 & 10 & 200 \end{array}
+\begin{array}{rrr}  0 & 1 & 19\\ -6 & 10 & 200 \end{array}
+\begin{array}{rr|r}  0 & 1 & 19\\ -6 & 10 & 200  \end{array}
+\begin{array}{rl}  -1 & x < 0\\ 0 & x = 0\\ +1 & x > 0 \end{array}

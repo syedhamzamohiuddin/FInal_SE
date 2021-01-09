@@ -1,0 +1,338 @@
+
+$x$
+$3$
+$-a+2b=3c-4d(5e+6f)$
+$(x+y)/(x-y)$
+$\{a,b,c,d,e\}$
+$(x + y)/(x - z)$
+$2\ a$
+$$
+$$
+$$
+$$
+$$
+$$
+$z^2$
+$b_n$
+$x^2y^2$
+$x ^2y ^2$
+$x_12$
+$x^12$
+$x^{2y}$
+$y_{3z}$
+$x^{x^2}$
+$y_{y_2}$
+$y_{x^2}$
+${x^y}^z$
+$x^{y^z}$
+$_2F_3$
+${}_2F_3$
+$x^{31415}_{92}+\pi$
+$x_{92}^{31415}+\pi$
+$F_2^2$
+$F{}_2^2$
+$y_1’+y’’_2$
+$\sqrt2$
+$\sqrt2y$
+$\sqrt{2y}$
+$\sqrt[3]{2}$
+$\sqrt[n+1]{x+y}$
+$\sqrt[\leftroot{2}\uproot{4}\beta]{k}$
+$\sqrt[\leftroot{1}\uproot{3}\beta]{k}$
+$\sqrt{x}+\sqrt{y}+\sqrt{z}$
+$\sqrt{x}+\sqrt{\mathstrut y}+\sqrt{z}$
+$\sqrt{x}+\sqrt{\smash[b]{y}}+\sqrt{z}$
+$\frac{1}{2}$
+$\dfrac{1}{2}$
+$\frac{1}{2}$
+$1/2$
+$\binom{k}{2}$
+$\dbinom{k}{2}$
+$a^{x}$
+$a^{\textstyle x}$
+$\displaystyle\frac{1}{2}$
+$\sum_{n=1}^k$
+$\prod_{n=1}^k$
+$\int_a^b$
+$#1{#2#3}{\int}$
+$#2#3$
+$\displaystyle\sum_{n=1}^k$
+$\displaystyle\int_a^b$
+$\sum\limits_{n=1}^k$
+$\int\limits_a^b$
+$5\sin(a+b)$
+$8\cos 2A$
+$\lim_{n\to0}((\sin^2x)/x^2)=1$
+$1234567\bmod89=48$
+$y\pmod{a+b}$
+$\left|-x\right|=\left|+x\right|$
+$\mathrm{i}^2=-1$
+$\mathbf{a}$
+$\bm{a}$
+$\mathbb{R}$
+$\mathbb{N}$
+$different \neq \mathit{different}$
+$\rd x$
+$\ri^2=-1$
+$\re=2.718\,28\ldots$
+$r-j$
+$ab$
+$a b$
+$a\ b$
+$a\,b$
+$a\:b$
+$a\;b$
+$a\quad b$
+$a\text{---}b$
+$a\qquad b$
+$a\hspace{0.5cm}b$
+$a\phantom{xx}b$
+$axxb$
+$a\hspace{-0.5cm}b$
+$a\,{}_0x_1bh$
+$\sqrt{2}\,x$
+$\sqrt{\,\lg x}$
+$O\bigl(1/\sqrt{n}\,\bigr)$
+$[\,0,1)$
+$\lg n\,(\lg\lg n)^2$
+$x^2\!/2$
+$n/\!\lg n$
+$\Gamma_{\!2}+\Delta^{\!2}$
+$R_i{}^j{}_{\!kl}$
+$\int_0^x\!\int_0^y\rd F(u,v)$
+$(2n)!/\bigl(n!\,(n+1)!\bigr)$
+$f(x,y;z)$
+$123,456$
+$123{,}456$
+$123.456$
+$f\mathpunct{:}A\to B$
+$f\colon A\to B$
+$x<0$
+$x=a,b$
+$c$
+$x=a$
+$b$
+$c$
+$c$
+$x=a,b$
+$x=a,b$
+$a_1, a_2, \ldots, a_n$
+$a_1$
+$a_2$
+$a_n$
+$a_1$
+$a_2$
+$a_n$
+$\ldots$
+$a_1,a_2,a_3,\ldots$
+$a_1,a_2,a_3,\ldots.$
+$a_1,a_2,a_3,\ldots\,$
+$a_1$
+$a_2$
+$a_3$
+$x_1+\cdots+x_n$
+$(x_1,\ldots,x_n)$
+$x_1+\ldots+x_n$
+$(x_1,\cdots,x_n)$
+$x_1+\dots+x_n$
+$(x_1,\dots,x_n)$
+$H_1, H_2, \dotsc\,$
+$H_1+H_2+\dotsb\,$
+$H_1\times H_2\times\dotsm\,$
+$x_1+\dots+x_n$
+$x_1=\dots=x_n$
+$A_1\times\dots\times A_n$
+$f(x_1,\dots,x_n)$
+$x_1x_2\dots x_n$
+$(1-x)(1-x^2)\dots(1-x^n)$
+$n(n-1)\dots(1)$
+$x_1\cdot x_2\cdot\ldots\cdot x_n$
+$i=1,2,\dots,n$
+$c_0,c_1,\dots,c_n$
+$f(x,y)=x^2-y^2=(x+y)(x-y)$
+$f(x,y)={x^2-y^2}={(x+y)(x-y)}$
+$f(x,\allowbreak y)=x^2-y^2=(x+y)(x-y)$
+$f(x,y)=x^2-y^2=(x+y)(x-y)$
+$f(x,y)=x^2-y^2=(x+y)\*(x-y)$
+$f(x,y)=x^2-y^2=(x+y)\*(x-y)$
+$r-j$
+$r-j$
+$r-j$
+$r-j$
+$(A+B)\sptilde$
+$(xyz)\spdddot$
+$(xyz)\spddot$
+$(xyz)\spdot$
+$(xyz)\spcheck$
+$(xyz)\sphat$
+$(xyz)\sptilde$
+$(xyz)\spbreve$
+$a\eqdef b$
+$f(x)=\sqrt{x}$
+$f(x)=\sqrt{x}$
+$f(x)=\sqrt{x}$
+$*$
+$’$
+$\accentset{*}{d}$
+$\accentset{*}{h}$
+$\underaccent{\bar}{x}$
+$\underaccent{*}{x}$
+$\mathrm{\imath}$
+$\vec{\mathsf{\dotlessj}}$
+$\tilde{\bm{\dotlessi}}$
+$\utilde{a} \neq \widetilde{a}$
+$x \geq 0$
+$x < 0$
+$c = d = 0$
+$|c| \geq |d|$
+$|c| < |d|$
+$w$
+$w \neq 0$
+$c < 0$
+$d \geq 0$
+$w \neq 0$
+$c < 0$
+$d < 0$
+$w=0$
+$w \neq 0$
+$c \geq 0$
+$R_i{}^j{}_{\!kl}$
+$R\indices{_i^j_{\!kl}}$
+$\tensor[^a_b^c_d]{M}{^a_b^c_d}$
+$\tensor*[^{14}_6]{\text{C}}{}$
+$\overrightharp{AB}$
+$\overleftharp{AB}$
+$\overrightharpdown{AB}$
+$\overleftharpdown{AB}$
+$\underrightharp{AB}$
+$\underleftharp{AB}$
+$\underrightharpdown{AB}$
+$\underleftharpdown{AB}$
+$->$
+$<-$
+$<->$
+$x^2+\maybebm{x^3}+\cdots$
+$x^2+\maybebm{x^3}+\cdots$
+$x^2+\mayberm{x^3}+\cdots$
+$x^2+\mayberm{x^3}+\cdots$
+$x^2+\maybeit{x^3}+\cdots$
+$x^2+\maybeit{x^3}+\cdots$
+$x^2+\maybeitrm{x^3}+\cdots$
+$x^2+\maybeitrm{x^3}+\cdots$
+$x^2+\maybesf{x^3}+\cdots$
+$x^2+\maybesf{x^3}+\cdots$
+$x^2+\maybebmsf{x^3}+\cdots$
+$x^2+\maybebmsf{x^3}+\cdots$
+$x^2+\maybebmsf{x^3}+\cdots$
+$\maybebm{...}$
+$\iint_a^b\medint\iint_a^b$
+\begin{equation} \delta\times\varepsilon=\theta \end{equation}
+\begin{equation*} \varphi-\rho\neq\kappa \end{equation*}
+\begin{equation*} \frac{1}{2} \end{equation*}
+\begin{equation*} \dfrac{1}{2}(a+b), \end{equation*}
+\begin{equation*} \tfrac{1}{2}(a+b). \end{equation*}
+\begin{equation*} a_0+\cfrac{b_1}{ a_1+\cfrac[l]{b_2}{ a_2+\cfrac[r]{b_3}{ a_3+\cdots}}} \end{equation*}
+\begin{equation*} \binom{k}{2} \end{equation*}
+\begin{equation*} \tbinom{k}{2}. \end{equation*}
+\begin{equation*} \textstyle\frac{1}{2}. \end{equation*}
+\begin{equation*} \sum_{n=1}^k,\qquad \prod_{n=1}^k,  \qquad\int_a^b.  \end{equation*}
+\begin{equation*} \iint_A,\qquad \iint\limits_A \end{equation*}
+\begin{equation*} \iiint\limits_V, \idotsint\limits_V, \oint_V \end{equation*}
+\begin{equation*} \textstyle\sum_{n=1}^k,\int_a^b.  \end{equation*}
+\begin{equation*} \sum\nolimits_{n=1}^k,\int\limits_a^b \end{equation*}
+\begin{equation*} \lim_{n\to0}\frac{\sin^2x}{x^2}=1 \end{equation*}
+\begin{equation*} \lim\nolimits_{n\to0}\frac{\sin^2x}{x^2}=1 \end{equation*}
+\begin{equation*} \left[\int+\int\right]_{x=0}^{x=1} \end{equation*}
+\begin{equation*} \left(\frac{a}{b}\right[ \end{equation*}
+\begin{equation*} \left(\frac{a}{b}\right. \end{equation*}
+\begin{equation*} \left(a+(a+b)\right) \end{equation*}
+\begin{equation*} \bigl(a+(a+b)\bigr) \end{equation*}
+\begin{equation*} \left\{\,x\in\mathbb{R}\biggm| 0<\left|x\right|<\frac{5}{3}\,\right\}, \quad\frac{a+1}{b}\bigg/\frac{c+1}{d} \end{equation*}
+\begin{equation} \frac{a+1}{b}\biggm/\frac{c+1}{d} \end{equation}
+\begin{equation*} \left(\sum_{k=1}^n A_k \right)\quad \biggl(\sum_{k=1}^n A_{k}\biggr) \end{equation*}
+\begin{equation*} {}^{12}_{\phantom{1}6}\textrm{C} \qquad \textrm{versus} \qquad {}^{12}_{6}\textrm{C} \end{equation*}
+\begin{equation} f(x) = \int\frac{\sin x}{x}dx \end{equation}
+\begin{equation} f(x) = \int\frac{\sin x}{x}dx \end{equation}
+\begin{equation*} y=f(x). \end{equation*}
+\begin{equation*} (a+b)^2=a^2+2ab+b^2\\ \sin^2\eta+\cos^2\eta=1 \end{equation*}
+\begin{equation*} (a+b)^2=a^2+2ab+b^2 \end{equation*}
+\begin{equation*} \sin^2\eta+\cos^2\eta=1 \end{equation*}
+\begin{equation} \begin{gathered} (a+b)^2=a^2+2ab+b^2\\ \sin^2\eta+\cos^2\eta=1 \end{gathered} \end{equation}
+\begin{equation*} \begin{aligned} x^2+y^2 &= z^2\\ x^3+y^3 &< z^3+\cdots \end{aligned} \end{equation*}
+\begin{equation} \begin{split} x^2+y^2 &= z^2\\ x^3+y^3 &< z^3+\cdots \end{split} \end{equation}
+\begin{equation*} \left. \begin{aligned} \bm{B}’&=-c\nabla\times\bm{E}\\ \bm{E}’&=c\nabla\times\bm{B}-4\pi\bm{J} \end{aligned}\right\} \text{Maxwell’s} \end{equation*}
+\begin{equation*} \begin{split} (a+b)^3&=(a+b)(a+b)^2\\  &=(a+b)(a^2+2ab+b^2)\\ &=a^3+3a^2b+3ab^2+b^3  \end{split} \end{equation*}
+\begin{equation} \begin{split} f_{h,\ve}(x,y)&=\ve\bfE_{x,y}\int_0^{\tve} L_{x,\yvf(\ve u)}\vf(x)\,\rd u\\  \newcommand\tve{t_{\varepsilon}} \newcommand\yvf{y_{\varphi}}  &=h\int L_{x,z}\vf(x)+\rho_x(\rd z)\\ &\relphantom{=}{}+h\Biggl(\frac{1}{\tve}\biggl(  \bfE_y \int_0^{\tve} L_{x,y^x(s)}\vf(x)\,\rd s\  -\tve \int L_{x,z}\vf(x)\rho_x(\rd z)\biggr)\\  &\relphantom{=}\phantom{{}+h\Biggl(}+ \frac{1}{\tve} \biggl(\bfE_y\int_0^{\tve} L_{x,y^x(s)}\vf(x)\,\rd s -\bfE_{x,y}\int_0^{\tve} L_{x,\yvf(\ve s)}\vf(x)\,\rd s\biggr)\Biggr)  \end{split} \end{equation}
+\begin{equation*} P_{r-j}=\left\{\!\!\! \begin{array}{ll} 0 & \text{if $r-j$ is odd,}\\ r!\,(-1)^{(r-j)/2} &  \text{if $r-j$ is even.}  \end{array}\right. \end{equation*}
+\begin{equation*} P_{r-j}= \begin{cases} 0 & \text{if $r-j$ is odd,}\\ r!\,(-1)^{(r-j)/2} &  \text{if $r-j$ is even.}  \end{cases} \end{equation*}
+\begin{equation*} \left(\!\!\!\begin{array}{cc} 0& -1\\ 1 & 0\end{array}\!\!\!\right) \end{equation*}
+\begin{equation} f(x)=\sqrt{x}\end{equation}
+\begin{equation} f(x)=\sqrt{x}\end{equation}
+\begin{equation} \boxed{W_t-F\subseteq V(P_i)\subseteq W_t} \end{equation}
+\begin{empheq}[box=\fbox]{align} f(x)=\int_1^\infty \frac{1}{x^2}\,\rd t=1 \end{empheq}
+\begin{empheq}[box={\fboxsep=10pt  \colorbox{yellow}}]{align}  f(x)=\int_1^\infty \frac{1}{x^2}\,\rd t=1 \end{empheq}
+\begin{subequations} \begin{empheq}[box={ \fboxsep=1pt\colorbox{cyan}}]{align} f(x)&=\int_1^\infty \frac{1}{x^2}\,\rd  t=1\\  f(x)&=\int_2^\infty \frac{1}{x^2}\,\rd  t=0.25  \end{empheq} \end{subequations}
+\begin{equation} a+b=c+d \end{equation}
+\begin{subequations} \begin{align} y&=d\\ y&=cx+d\\ y&=bx^2+cx+d\\ y&=ax^3+bx^2+cx+d \end{align} \end{subequations}
+\begin{subequations} \begin{align} y&=d\\ y&=cx+d\\ y&=bx^2+cx+d\\ y&=ax^3+bx^2+cx+d \end{align} \end{subequations}
+\begin{equation}\label{e:previous} A=B \end{equation}
+\begin{equation} \tag{\ref{e:previous}$’$} \label{e:prevprime} C=D \end{equation}
+\begin{equation*} \Set{x\in\mathbb{R}|  0<\left|x\right|<\frac{5}{3}}\\  \end{equation*}
+\begin{equation} \textcolor{blue}{f(x)}=\int_1^\infty  \textcolor{red}{\frac{1}{x^2}}\,\rd x=1  \end{equation}
+\begin{equation} G(t)=L\gamma!\,t^{-\gamma}+ t^{-\delta}\eta(t) \qedhere \end{equation}
+\[...\]
+\[ f(x)=mx+b. \]
+\[a_0+\frac{b_1}{a_1+} \frac{b_2}{a_2+} \frac{b_3}{a_3+}\cdots\]
+\[\dashint_a^bf(x)\,\rd x\]
+\[\sum_{\substack{0\leq i\leq m\\  0<j<n}} P(i,j)\]
+\[\sum_{\begin{subarray}{l} i\in\Lambda\\ 0\le i\le m\\ 0<j<n \end{subarray}},\quad \sum_{\begin{subarray}{c} i\in\Lambda\\ 0\le i\le m\\ 0<j<n \end{subarray}}\]
+\[\arccot x, \quad \meas_1,  \quad \esssup_{x\in A}\]
+\[P_{r-j}=0 \mathrm{if} r-j \mathrm{is odd}.\]
+\[P_{r-j}=0\ \mathrm{if}\ r-j\  \mathrm{is\ odd}.\]
+\[P_{r-j}=0\text{ if $r-j$ is odd.}\]
+\[\int_{H_1}\!  \int_{H_2}\dotsi\;  {-\Gamma}\,\rd\Theta.\]
+\[ \begin{array}{clcr} a+b+c & uv a+b a \end{array} \]
+\[\bordermatrix{ & 0 & 1 & 2\cr 0 & A & B & C\cr 1 & d & e & f\cr 2 & 1 & 2 & 3}\]
+\[f(x)= \left\{% \vphantom{\begin{array}{c} a\\[13ex] \end{array}}\right.\kern-7pt \begin{array}{ll} 4, & \text{if} \quad x\in (4,\infty), \\ 3, & \text{if} \quad x\in (3,4], \\ 2, & \text{if} \quad x \in (2,3], \\ 1, & \text{if} \quad x \in (1,2], \\ 0, & \text{if} \quad x \in (-\infty,1]. \end{array}\]
+\[ 0\xleftarrow[\zeta]{} F\times  \Delta(n-1)  \xrightarrow{\partial_0\alpha(b)}  E^{\partial_0 b}\]
+\[ a^2 + b^2 \]
+\[\bm{Q}= \begin{array}[t]({cc}) X&Y \end{array} \begin{array}[t][{cc}]A&B\\ C&D\end{array} \begin{array}[b]\lgroup{cc}\rgroup  L\\M\end{array}\]
+\[ \begin{pmat}({.|}) a_{11} & a_{12} & b_{11} \cr a_{21} & a_{22} & b_{21} \cr\- c_{11} & c_{12} & d_{11} \cr \end{pmat} \]
+\[\begin{CD} \cov(L) @>>> \non(K) @>>> \cf(K)\\ @VVV @AAA @AAA \\ \add(L) @>>> \add(K) @>>> \cov(K)\\ \end{CD}\]
+\[\begin{CD} S^{W_\Lambda}\otimes T @>j>>  T \\  @VVV @VV{\mathop{\rm End} P}V\\ (S\otimes T)/I @= (Z\otimes T)/J \end{CD}\]
+\[f(x)=\frac{(x^2+1)\cancel{(x-1)}} {\cancel{(x-1)}(x+1)}\]
+\[\medmath{\cfrac{1}{\sqrt 2 +  \cfrac{1}{\sqrt 2 +\dotsb}}} \quad \cfrac{1}{\sqrt 2 +\cfrac{1}  {\sqrt 2 +\dotsb}}\]
+begin{align} x^2+y^2 &= z^2\\ x^3+y^3 &< z^3+\cdots \end{align}
+begin{align} A_1&=N_0(\lambda;\Omega’)-  \phi(\lambda;\Omega’)\\  A_2&=\phi(\lambda;\Omega’)  \phi(\lambda;\Omega)  \intertext{and finally} A_3&= \mathcal{N}(\lambda;\omega) \end{align}
+begin{align*} (a+b)^3&=(a+b)(a+b)^2\\  &=(a+b)(a^2+2ab+b^2)\\ &=a^3+3a^2b+3ab^2+b^3  \end{align*}
+begin{align*} x_nu_1+\cdots+x_{n+t-1}u_t&=  x_nu_1+(ax_n+c)u_2+\cdots\\ &\quad+\bigl(a^{t-1}x_n+  c(a^{t-2}+\cdots+1)\bigr)u_t\\ &=(u_1+au_2+\cdots+a^{t-1}u_t)x_n  +h(u_1,\ldots,u_t).  \end{align*}
+begin{align*} y&=x^2+bx+c\\  &=x^2+2\cdot\frac{b}{2}x+c\\ &=\underbrace{x^2+2\cdot\frac{b}{2}x+  \left(\frac{b}{2}\right)^2}_{\left(x+ (b/2)\right)^2}  -\left(\frac{b}{2}\right)^2+c  \end{align*}
+begin{align} y&=d\\ y&=cx+d\\ y&=bx^2+cx+d\\ y&=ax^3+bx^2+cx+d \end{align}
+begin{align} y&=d\\ y&=cx+d\\ y&=bx^2+cx+d\\ y&=ax^3+bx^2+cx+d \end{align}
+begin{align*} a+b&=c+d. \intertext[1cm]{Therefore,} e+f&=g+h. \end{align*}
+\begin{multline} \text{First line of a multline}\\ \text{Centered Middle line}\\ \shoveright{\text{A right Middle}}\\ \text{Another centered Middle}\\ \text{Yet another centered Middle}\\ \shoveleft{\text{A left Middle}}\\ \text{Last line of the multline} \end{multline}
+\begin{multline} A=\lim_{n\to\infty}\Delta x\Bigl(a^2+  \bigl(a^2+2a\Delta x  +(\Delta x)^2\bigr)\\  +\bigl(a^2+2\times2a\Delta x+  2^2(\Delta x)^2\bigr)\\  +\bigl(a^2+2\times3a\Delta x+  3^2(\Delta x)^2\bigr)\\  +\cdots\\ +\bigl(a^2+2\cdot(n-1)a\Delta x+  (n-1)^2(\Delta x)^2\bigr)\Bigr)\\  =\tfrac{1}{3}(b^3-a^3).  \end{multline}
+\begin{eqnarray} y & = & a+b+c+d\nonumber\\  & +e+f+g\nonumber\\ & {}+h+i+j\nonumber\\  & & & \geq & {}-k-l-m  \end{eqnarray}
+\begin{eqnarray} \lefteqn{w+x+y+z=}\\ && a+b+c+d+e+f+\\ && g+h+i+j+k+l \end{eqnarray}
+\begin{array}{clcr} a+b+c & uv a+b a \end{array}
+\begin{array}{ll} 0 & \text{if $r-j$ is odd,}\\ r!\,(-1)^{(r-j)/2} &  \text{if $r-j$ is even.}  \end{array}
+\begin{array}{cc} 0& -1\\ 1 & 0\end{array}
+\begin{array}{c} a\\[13ex] \end{array}
+\begin{array}{ll} 4, & \text{if} \quad x\in (4,\infty), \\ 3, & \text{if} \quad x\in (3,4], \\ 2, & \text{if} \quad x \in (2,3], \\ 1, & \text{if} \quad x \in (1,2], \\ 0, & \text{if} \quad x \in (-\infty,1]. \end{array}
+\begin{array}[t]({cc}) X&Y \end{array}
+\begin{array}[t][{cc}]A&B\\ C&D\end{array}
+\begin{array}[b]\lgroup{cc}\rgroup  L\\M\end{array}
+\begin{verbatim} \begin{align*} x_nu_1+\cdots+x_{n+t-1}u_t&=  x_nu_1+(ax_n+c)u_2+\cdots\\ &\quad+\bigl(a^{t-1}x_n+  c(a^{t-2}+\cdots+1)\bigr)u_t\\ &=(u_1+au_2+\cdots+a^{t-1}u_t)x_n  +h(u_1,\ldots,u_t).  \end{align*} \end{verbatim}
+\begin{verbatim} \newcommand\ve{\varepsilon} \newcommand\vf{\varphi} \newcommand\bfE{\mathbf{E}} \newcommand\relphantom[1]{\mathrel{\phantom{#1}}} \begin{equation} \begin{split} f_{h,\ve}(x,y)&=\ve\bfE_{x,y}\int_0^{\tve} L_{x,\yvf(\ve u)}\vf(x)\,\rd u\\  \newcommand\tve{t_{\varepsilon}} \newcommand\yvf{y_{\varphi}}  &=h\int L_{x,z}\vf(x)+\rho_x(\rd z)\\ &\relphantom{=}{}+h\Biggl(\frac{1}{\tve}\biggl(  \bfE_y \int_0^{\tve} L_{x,y^x(s)}\vf(x)\,\rd s\  -\tve \int L_{x,z}\vf(x)\rho_x(\rd z)\biggr)\\  &\relphantom{=}\phantom{{}+h\Biggl(}+ \frac{1}{\tve} \biggl(\bfE_y\int_0^{\tve} L_{x,y^x(s)}\vf(x)\,\rd s -\bfE_{x,y}\int_0^{\tve} L_{x,\yvf(\ve s)}\vf(x)\,\rd s\biggr)\Biggr)  \end{split} \end{equation} \end{verbatim}
+\begin{verbatim} \begin{displaymath} a+b=c+d\footnotemark \end{displaymath} \footnotetext{Here comes the footnote  in math mode. Hooray!!!}  \end{verbatim}
+\begin{verbatim} \[ a^2 + b^2 \] \end{verbatim}
+\begin{verbatim}  \begin{subnumcases}{\label{w} w\equiv}  0  & $c = d = 0$\label{wzero}\\  (cid:26) x,  −x,  |x| =  for x ≥ 0 for x < 0  (4.1) (4.2)  & $|c| \geq |d|$ \\  & $|c| < |d|$  \sqrt{|c|}\,\sqrt{\frac{1 + \sqrt{1+(d/c)^2}}{2}} \sqrt{|d|}\,\sqrt{\frac{|c/d| + \sqrt{1+(c/d)^2}}{2}} \end{subnumcases} Then, using $w$ from equation~(\ref{w}), the square root is \begin{subnumcases}{\sqrt{c+\ri d}=} 0 w+\ri\frac{d}{2w} \frac{|d|}{2w} + \ri w \frac{|d|}{2w} - \ri w \end{subnumcases}  & $w \neq 0$, $c < 0$, $d \geq 0$ \\ & $w \neq 0$, $c < 0$, $d < 0$  & $w=0$ (case \ref{wzero})\\  & $w \neq 0$, $c \geq 0$ \\  \end{verbatim}
+\begin{gather} (a+b)^2=a^2+2ab+b^2\\ \sin^2\eta+\cos^2\eta=1 \end{gather}
+\begin{gather} (a+b)^2=a^2+2ab+b^2\\ \sin^2\eta+\cos^2\eta=1\notag \end{gather}
+\begin{gather*} \begin{matrix}0&1\\ 1&0\end{matrix}\quad \begin{pmatrix}0&1\\ 1&0\end{pmatrix}\\ \begin{bmatrix}0&1\\ 1&0\end{bmatrix}\quad \begin{Bmatrix}0&1\\ 1&0\end{Bmatrix}\\ \begin{vmatrix}0&1\\ 1&0\end{vmatrix}\quad \begin{Vmatrix}0&1\\ 1&0\end{Vmatrix} \end{gather*}
+\begin{gather*} \uvec{p}=\left(\irvec{q}\right)\\ \uuvec{q}=\left(\!\!\icvec{q}\!\!\right)\\ \buvec{r}=\{\rvec{r}{1}{6}\}\\ \bvec{s}=\left[  \!\!\cvec{s}{0}{2}\!\!\right]  \end{gather*}
+\begin{gather} (a+b)^2=a^2+2ab+b^2\\ \sin^2\eta+\cos^2\eta=1 \end{gather}
+\begin{gather} (a+b)^2=a^2+2ab+b^2\\ \sin^2\eta+\cos^2\eta=1\notag \end{gather}
+\begin{gather*} \begin{matrix}0&1\\ 1&0\end{matrix}\quad \begin{pmatrix}0&1\\ 1&0\end{pmatrix}\\ \begin{bmatrix}0&1\\ 1&0\end{bmatrix}\quad \begin{Bmatrix}0&1\\ 1&0\end{Bmatrix}\\ \begin{vmatrix}0&1\\ 1&0\end{vmatrix}\quad \begin{Vmatrix}0&1\\ 1&0\end{Vmatrix} \end{gather*}
+\begin{gather*} \uvec{p}=\left(\irvec{q}\right)\\ \uuvec{q}=\left(\!\!\icvec{q}\!\!\right)\\ \buvec{r}=\{\rvec{r}{1}{6}\}\\ \bvec{s}=\left[  \!\!\cvec{s}{0}{2}\!\!\right]  \end{gather*}
+\begin{pmat}({.|}) a_{11} & a_{12} & b_{11} \cr a_{21} & a_{22} & b_{21} \cr\- c_{11} & c_{12} & d_{11} \cr \end{pmat}
